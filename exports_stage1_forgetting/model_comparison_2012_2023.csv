@@ -1,0 +1,10 @@
+model,brier,log_loss,hits in top five
+"Bayesian probit, full (Laplace)",0.006067,0.028018,182/480 — 37.92%
+"Non-Bayesian probit, full",0.006149,0.033282,171/480 — 35.62%
+"Bayesian probit, Billboard",0.006426,0.030169,120/480 — 25.00%
+"Non-Bayesian probit, Billboard",0.006426,0.030214,120/480 — 25.00%
+"Bayesian probit, full, forgetting λ=1.1",0.006756,0.03412,181/480 — 37.71%
+Baseline (equal probability),0.007123,0.042652,3.4/480 (expected)
+"Bayesian probit, full, forgetting λ=1.25",0.013543,0.062583,179/480 — 37.29%
+"Bayesian probit, full, forgetting λ=1.5",0.036442,0.119144,155/480 — 32.29%
+"Bayesian probit, full, forgetting λ=2",0.048209,0.147147,136/480 — 28.33%
