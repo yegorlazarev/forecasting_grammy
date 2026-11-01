@@ -1,0 +1,4418 @@
+[
+  {
+    "category": "album_of_the_year",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.004601603038297,
+    "min_ess": 917.1136686321038,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 21.176,
+    "median_num_steps": 15.0,
+    "max_num_steps": 95,
+    "map_seconds": 0.12138633299946378,
+    "map_max_gradient": 3.224947588975624e-07,
+    "mcmc_seconds": 18.206261101000564,
+    "seconds": 18.646681569000066,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "album_of_the_year",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "de8b0edead51119b",
+    "cache_file": "2024_album_of_the_year_de8b0edead51119b.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "record_of_the_year",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.0018576647296218,
+    "min_ess": 1156.0328224945617,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 28.024,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12639885200042045,
+    "map_max_gradient": 7.667755319573644e-12,
+    "mcmc_seconds": 18.68095042999994,
+    "seconds": 18.990760904000126,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "record_of_the_year",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "95140c948ae520e1",
+    "cache_file": "2024_record_of_the_year_95140c948ae520e1.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "song_of_the_year",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.0017254159133469,
+    "min_ess": 1189.9199415476198,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 26.776,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.136991309998848,
+    "map_max_gradient": 2.648634311874787e-09,
+    "mcmc_seconds": 18.5830528839997,
+    "seconds": 18.90538327699869,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "song_of_the_year",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "cca3744295afc52c",
+    "cache_file": "2024_song_of_the_year_cca3744295afc52c.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "best_new_artist",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.0127546695292502,
+    "min_ess": 143.80683588934593,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 32.536,
+    "median_num_steps": 31.0,
+    "max_num_steps": 95,
+    "map_seconds": 0.1951231410002947,
+    "map_max_gradient": 4.176833642843825e-09,
+    "mcmc_seconds": 26.125993119001578,
+    "seconds": 26.504375082999104,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "best_new_artist",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "9b208e5269503915",
+    "cache_file": "2024_best_new_artist_9b208e5269503915.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_vocal_album",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.0020220368675425,
+    "min_ess": 985.6097996075972,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.736,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.15325014399968495,
+    "map_max_gradient": 3.69190789051288e-13,
+    "mcmc_seconds": 18.633837045999826,
+    "seconds": 18.964934403998996,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_vocal_album",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "281d154a1c8f1813",
+    "cache_file": "2024_pop_vocal_album_281d154a1c8f1813.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_solo",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.0027798148059126,
+    "min_ess": 944.9122326290716,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 20.648,
+    "median_num_steps": 15.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12661126099919784,
+    "map_max_gradient": 6.312566025457045e-09,
+    "mcmc_seconds": 18.467458154998894,
+    "seconds": 18.772168510000483,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_solo",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "ca1a4d401905a8e0",
+    "cache_file": "2024_pop_solo_ca1a4d401905a8e0.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_duo_group",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.002036992175285,
+    "min_ess": 1389.3348122415252,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.4,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12678849399890169,
+    "map_max_gradient": 4.707993825958656e-06,
+    "mcmc_seconds": 19.021529282999836,
+    "seconds": 19.32519955799944,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_duo_group",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "5884f4cf05713fcd",
+    "cache_file": "2024_pop_duo_group_5884f4cf05713fcd.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "music_video",
+    "predict_season": 2024,
+    "n_train": 23541,
+    "training_end": 2023,
+    "n_predictors": 27,
+    "max_rhat": 1.000793143980203,
+    "min_ess": 1601.5806560060394,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 29.88,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.1211710609986767,
+    "map_max_gradient": 2.2663950306322372e-11,
+    "mcmc_seconds": 19.395761485999174,
+    "seconds": 19.69039855400115,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "music_video",
+      "predict_season": 2024,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "76410c617782ca4d",
+    "cache_file": "2024_music_video_76410c617782ca4d.npz",
+    "fit_warmup": 600,
+    "fit_samples": 500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "album_of_the_year",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.0003978841451797,
+    "min_ess": 4408.274852541855,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 28.237333333333332,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.1244639950000419,
+    "map_max_gradient": 4.469598864353941e-07,
+    "mcmc_seconds": 30.806315556999834,
+    "seconds": 31.30204367999977,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "album_of_the_year",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "c22ca57632674aaf",
+    "cache_file": "2025_album_of_the_year_c22ca57632674aaf.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "record_of_the_year",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.000523661489973,
+    "min_ess": 3902.8852087750065,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 25.922666666666668,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12318361399957212,
+    "map_max_gradient": 1.879918443137285e-11,
+    "mcmc_seconds": 30.3997491730006,
+    "seconds": 30.70889361599984,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "record_of_the_year",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "a99287d39638cda9",
+    "cache_file": "2025_record_of_the_year_a99287d39638cda9.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "song_of_the_year",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.0004238048639185,
+    "min_ess": 4337.494222448201,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 28.578666666666667,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12891640099951474,
+    "map_max_gradient": 5.927810686756629e-09,
+    "mcmc_seconds": 31.465736371001185,
+    "seconds": 31.780818471999737,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "song_of_the_year",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "0973c09880abad85",
+    "cache_file": "2025_song_of_the_year_0973c09880abad85.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "best_new_artist",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.0043727029819651,
+    "min_ess": 398.6572143901446,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 31.64,
+    "median_num_steps": 31.0,
+    "max_num_steps": 63,
+    "map_seconds": 0.19485106299907784,
+    "map_max_gradient": 1.5367462427584577e-08,
+    "mcmc_seconds": 38.36328632799996,
+    "seconds": 38.74386352500005,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "best_new_artist",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "d0c2c6bf24d0e5ad",
+    "cache_file": "2025_best_new_artist_d0c2c6bf24d0e5ad.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_vocal_album",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.0010474348796092,
+    "min_ess": 4123.024234751916,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.202666666666666,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.14966060699953232,
+    "map_max_gradient": 5.202366315515405e-13,
+    "mcmc_seconds": 30.108052007999504,
+    "seconds": 30.44679946499855,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_vocal_album",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "2664a1d31502f9dd",
+    "cache_file": "2025_pop_vocal_album_2664a1d31502f9dd.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_solo",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.0007895660710875,
+    "min_ess": 3679.736609670561,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 25.992,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12646064799992018,
+    "map_max_gradient": 7.0681331898470035e-09,
+    "mcmc_seconds": 29.400692369999888,
+    "seconds": 29.709419582999544,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_solo",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "fae72b5bd03cfef8",
+    "cache_file": "2025_pop_solo_fae72b5bd03cfef8.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_duo_group",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.0001902372332858,
+    "min_ess": 4192.258310592182,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 26.28,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12242317799973534,
+    "map_max_gradient": 6.346949299906868e-06,
+    "mcmc_seconds": 29.606933801000196,
+    "seconds": 29.929486581000674,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_duo_group",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "540589c7d7d2a898",
+    "cache_file": "2025_pop_duo_group_540589c7d7d2a898.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "music_video",
+    "predict_season": 2025,
+    "n_train": 24224,
+    "training_end": 2024,
+    "n_predictors": 27,
+    "max_rhat": 1.0005297538914575,
+    "min_ess": 3931.43656463104,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.261333333333333,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12506489000043075,
+    "map_max_gradient": 1.2022729587862768e-06,
+    "mcmc_seconds": 31.840764976999708,
+    "seconds": 32.151747513999,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "music_video",
+      "predict_season": 2025,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "ed9e229aa057837b",
+    "cache_file": "2025_music_video_ed9e229aa057837b.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "album_of_the_year",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.0004047156069988,
+    "min_ess": 4095.0200487080665,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.24,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.13300231700122822,
+    "map_max_gradient": 4.949902523421201e-07,
+    "mcmc_seconds": 30.231320970000525,
+    "seconds": 30.540082872999847,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "album_of_the_year",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "af9cc8a05fde1b16",
+    "cache_file": "2026_album_of_the_year_af9cc8a05fde1b16.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "record_of_the_year",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.0008773902367674,
+    "min_ess": 4029.7165928802483,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 28.562666666666665,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.13944408700081112,
+    "map_max_gradient": 5.6554427807498087e-11,
+    "mcmc_seconds": 31.205739409999296,
+    "seconds": 31.53615395000088,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "record_of_the_year",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "a7cd5f8a6cd4c7dd",
+    "cache_file": "2026_record_of_the_year_a7cd5f8a6cd4c7dd.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "song_of_the_year",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.0009869708280519,
+    "min_ess": 4004.828486366505,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.32,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.13205274999927497,
+    "map_max_gradient": 1.261331394886156e-08,
+    "mcmc_seconds": 30.4535027109996,
+    "seconds": 30.77296578700043,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "song_of_the_year",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "17ec03634b82ce65",
+    "cache_file": "2026_song_of_the_year_17ec03634b82ce65.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "best_new_artist",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.002957469776161,
+    "min_ess": 530.1599943150657,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 31.498666666666665,
+    "median_num_steps": 31.0,
+    "max_num_steps": 95,
+    "map_seconds": 0.19729636299962294,
+    "map_max_gradient": 4.4323666389955996e-08,
+    "mcmc_seconds": 39.383690603001014,
+    "seconds": 39.76984497900048,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "best_new_artist",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "80f4d6091e77fe02",
+    "cache_file": "2026_best_new_artist_80f4d6091e77fe02.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_vocal_album",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.0008246829284284,
+    "min_ess": 4318.954249230274,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 28.194666666666667,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.14878486000088742,
+    "map_max_gradient": 1.6294743332423423e-12,
+    "mcmc_seconds": 31.36236919300063,
+    "seconds": 31.701983139999356,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_vocal_album",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "dd52e4c6f13b9520",
+    "cache_file": "2026_pop_vocal_album_dd52e4c6f13b9520.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_solo",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.0010748350869794,
+    "min_ess": 3822.617163550446,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 25.144,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.13829296600124508,
+    "map_max_gradient": 8.320778288606334e-09,
+    "mcmc_seconds": 30.236286057001053,
+    "seconds": 30.56846570000016,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_solo",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "17f6ef3b04d88a20",
+    "cache_file": "2026_pop_solo_17f6ef3b04d88a20.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "pop_duo_group",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.0002251128360649,
+    "min_ess": 4788.65011253223,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.85333333333333,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.1306701850007812,
+    "map_max_gradient": 7.515932320956153e-13,
+    "mcmc_seconds": 31.135402289999547,
+    "seconds": 31.450075207998452,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "pop_duo_group",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "55255dcaaf459130",
+    "cache_file": "2026_pop_duo_group_55255dcaaf459130.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  },
+  {
+    "category": "music_video",
+    "predict_season": 2026,
+    "n_train": 24855,
+    "training_end": 2025,
+    "n_predictors": 27,
+    "max_rhat": 1.0002727129137043,
+    "min_ess": 4021.4827753151376,
+    "divergences": 0,
+    "depth_limit_hits": 0,
+    "mean_num_steps": 27.282666666666668,
+    "median_num_steps": 31.0,
+    "max_num_steps": 31,
+    "map_seconds": 0.12533052999970096,
+    "map_max_gradient": 1.3808122830260422e-06,
+    "mcmc_seconds": 30.538529662000656,
+    "seconds": 30.852770720999615,
+    "cache_hit": true,
+    "model_version": "compact27-binary-unscaled-v4",
+    "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+    "signature": {
+      "model": "compact27-binary-unscaled-v4",
+      "data": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+      "category": "music_video",
+      "predict_season": 2026,
+      "features": [
+        "h_peak_strength",
+        "log_h_entries",
+        "log_h_weeks",
+        "log_h_top10_weeks",
+        "b_peak_strength",
+        "log_b_entries",
+        "log_b_weeks",
+        "log_b_top10_weeks",
+        "log_prior_noms",
+        "log_prior_wins",
+        "log_prior_noms_same_cat",
+        "new_in_window",
+        "log_ama_noms_total",
+        "log_ama_wins_prev_total",
+        "log_vma_noms_total",
+        "log_vma_wins_total",
+        "log_iheart_noms_total",
+        "log_iheart_wins_total",
+        "ama_held",
+        "vma_held",
+        "iheart_held",
+        "ama_relevant_nominated",
+        "ama_relevant_winner",
+        "vma_relevant_nominated",
+        "vma_relevant_winner",
+        "iheart_relevant_nominated",
+        "iheart_relevant_winner"
+      ],
+      "mapping": {
+        "ama": {
+          "album_of_the_year": [
+            "album_of_the_year",
+            "pop_album"
+          ],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song",
+            "collaboration_of_the_year"
+          ],
+          "best_new_artist": [
+            "new_artist_of_the_year"
+          ],
+          "pop_vocal_album": [
+            "pop_album",
+            "album_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song",
+            "pop_male_artist",
+            "pop_female_artist"
+          ],
+          "pop_duo_group": [
+            "pop_duo_group",
+            "collaboration_of_the_year"
+          ],
+          "music_video": [
+            "music_video"
+          ]
+        },
+        "vma": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "best_pop",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist"
+          ],
+          "pop_vocal_album": [
+            "best_pop"
+          ],
+          "pop_solo": [
+            "best_pop",
+            "best_male_video",
+            "best_female_video"
+          ],
+          "pop_duo_group": [
+            "best_group",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "video_of_the_year"
+          ]
+        },
+        "iheart": {
+          "album_of_the_year": [],
+          "record_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "song_of_the_year": [
+            "song_of_the_year",
+            "pop_song_of_the_year",
+            "best_collaboration"
+          ],
+          "best_new_artist": [
+            "best_new_artist",
+            "best_new_pop_artist"
+          ],
+          "pop_vocal_album": [
+            "pop_artist_of_the_year"
+          ],
+          "pop_solo": [
+            "pop_song_of_the_year",
+            "pop_artist_of_the_year",
+            "male_artist_of_the_year",
+            "female_artist_of_the_year"
+          ],
+          "pop_duo_group": [
+            "duo_group_of_the_year",
+            "best_collaboration"
+          ],
+          "music_video": [
+            "best_music_video"
+          ]
+        }
+      },
+      "seed": 20261021,
+      "warmup": 600,
+      "samples": 1500,
+      "chains": 2,
+      "chain_method": "parallel",
+      "backend": "gpu",
+      "preconditioner": "fixed inverse posterior Hessian at training MAP",
+      "target_accept": 0.99,
+      "max_depth": 10,
+      "map_gradient_tolerance": 0.0001,
+      "alpha_location": -2.3263478740408408,
+      "alpha_scale": 1.0,
+      "beta_scale": 1.0,
+      "versions": {
+        "numpy": "2.1.3",
+        "pandas": "2.3.3",
+        "scipy": "1.16.3",
+        "matplotlib": "3.10.0",
+        "jax": "0.11.1",
+        "jaxlib": "0.11.1",
+        "numpyro": "0.22.0"
+      }
+    },
+    "cache_digest": "209c489ae36e4c33",
+    "cache_file": "2026_music_video_209c489ae36e4c33.npz",
+    "fit_warmup": 600,
+    "fit_samples": 1500,
+    "fit_target_accept": 0.99
+  }
+]
