@@ -1,0 +1,129 @@
+season,ceremony_year,cat,event_id,model,protocol,K,log_score,log_loss,top1_correct,predicted_work,predicted_artist,actual_work,actual_artist,winner_covered
+2018,2019,album_of_the_year,s2018__albumoftheyear,bayesian,A_official_nominees,8,-2.23618246162545,2.23618246162545,False,"Black Panther: The Album, Music From And Inspired By",Various Artists,Golden Hour,Kacey Musgraves,True
+2018,2019,music_video,s2018__bestmusicvideo,bayesian,A_official_nominees,5,-1.4019996189284338,1.4019996189284338,False,PYNK,Janelle Monáe,This Is America,Childish Gambino,True
+2018,2019,best_new_artist,s2018__bestnewartist,bayesian,A_official_nominees,8,-2.051548430237519,2.051548430237519,False,Greta Van Fleet,Greta Van Fleet,Dua Lipa,Dua Lipa,True
+2018,2019,pop_duo_group,s2018__bestpopduogroupperformance,bayesian,A_official_nominees,7,-1.0470490019240097,1.0470490019240097,True,Shallow,Lady Gaga and Bradley Cooper,Shallow,Lady Gaga and Bradley Cooper,True
+2018,2019,pop_solo,s2018__bestpopsoloperformance,bayesian,A_official_nominees,5,-1.2795222377291289,1.2795222377291289,False,Colors,Beck,Joanne (Where Do You Think You're Goin'?),Lady Gaga,True
+2018,2019,pop_vocal_album,s2018__bestpopvocalalbum,bayesian,A_official_nominees,6,-3.0045893223398767,3.0045893223398767,False,Reputation,Taylor Swift,Sweetener,Ariana Grande,True
+2018,2019,record_of_the_year,s2018__recordoftheyear,bayesian,A_official_nominees,8,-2.5882800166368902,2.5882800166368902,False,Shallow,Lady Gaga & Bradley Cooper,This Is America,Childish Gambino,True
+2018,2019,song_of_the_year,s2018__songoftheyear,bayesian,A_official_nominees,8,-2.177231559966879,2.177231559966879,False,Shallow,Lady Gaga and Bradley Cooper,This Is America,Childish Gambino,True
+2018,2019,album_of_the_year,s2018__albumoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,H.E.R.,H.E.R.,Golden Hour,Kacey Musgraves,True
+2018,2019,music_video,s2018__bestmusicvideo,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,I'm Not Racist,Joyner Lucas,This Is America,Childish Gambino,True
+2018,2019,best_new_artist,s2018__bestnewartist,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Greta Van Fleet,Greta Van Fleet,Dua Lipa,Dua Lipa,True
+2018,2019,pop_duo_group,s2018__bestpopduogroupperformance,uniform,A_official_nominees,7,-1.9459101490553132,1.9459101490553132,True,Shallow,Lady Gaga and Bradley Cooper,Shallow,Lady Gaga and Bradley Cooper,True
+2018,2019,pop_solo,s2018__bestpopsoloperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,God Is A Woman,Ariana Grande,Joanne (Where Do You Think You're Goin'?),Lady Gaga,True
+2018,2019,pop_vocal_album,s2018__bestpopvocalalbum,uniform,A_official_nominees,6,-1.791759469228055,1.791759469228055,False,Shawn Mendes,Shawn Mendes,Sweetener,Ariana Grande,True
+2018,2019,record_of_the_year,s2018__recordoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,True,This Is America,Childish Gambino,This Is America,Childish Gambino,True
+2018,2019,song_of_the_year,s2018__songoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,In My Blood,Shawn Mendes,This Is America,Childish Gambino,True
+2019,2020,album_of_the_year,s2019__albumoftheyear,bayesian,A_official_nominees,8,-2.3233237650604277,2.3233237650604277,False,"thank u, next",Ariana Grande,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,True
+2019,2020,music_video,s2019__bestmusicvideo,bayesian,A_official_nominees,5,-1.8585061721264928,1.8585061721264928,False,We've Got To Try,Chemical Brothers,Old Town Road (Official Movie),Lil Nas X featuring Billy Ray Cyrus,True
+2019,2020,best_new_artist,s2019__bestnewartist,bayesian,A_official_nominees,8,-1.793938624927458,1.793938624927458,True,Billie Eilish,Billie Eilish,Billie Eilish,Billie Eilish,True
+2019,2020,pop_duo_group,s2019__bestpopduogroupperformance,bayesian,A_official_nominees,5,-2.3016475677337365,2.3016475677337365,False,Señorita,Shawn Mendes and Camila Cabello,Old Town Road,Lil Nas X featuring Billy Ray Cyrus,True
+2019,2020,pop_solo,s2019__bestpopsoloperformance,bayesian,A_official_nominees,5,-2.164716354275039,2.164716354275039,False,You Need To Calm Down,Taylor Swift,Truth Hurts,Lizzo,True
+2019,2020,pop_vocal_album,s2019__bestpopvocalalbum,bayesian,A_official_nominees,5,-2.6944347694899218,2.6944347694899218,False,The Lion King: The Gift,Beyoncé,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,True
+2019,2020,record_of_the_year,s2019__recordoftheyear,bayesian,A_official_nominees,8,-2.320304573731227,2.320304573731227,False,7 rings,Ariana Grande,Bad Guy,Billie Eilish,True
+2019,2020,song_of_the_year,s2019__songoftheyear,bayesian,A_official_nominees,8,-2.4928995360672337,2.4928995360672337,False,Always Remember Us This Way,Lady Gaga,Bad Guy,Billie Eilish,True
+2019,2020,album_of_the_year,s2019__albumoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,I Used To Know Her,H.E.R.,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,True
+2019,2020,music_video,s2019__bestmusicvideo,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,We've Got To Try,Chemical Brothers,Old Town Road (Official Movie),Lil Nas X featuring Billy Ray Cyrus,True
+2019,2020,best_new_artist,s2019__bestnewartist,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Tank And The Bangas,Tank And The Bangas,Billie Eilish,Billie Eilish,True
+2019,2020,pop_duo_group,s2019__bestpopduogroupperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Señorita,Shawn Mendes and Camila Cabello,Old Town Road,Lil Nas X featuring Billy Ray Cyrus,True
+2019,2020,pop_solo,s2019__bestpopsoloperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Spirit,Beyoncé,Truth Hurts,Lizzo,True
+2019,2020,pop_vocal_album,s2019__bestpopvocalalbum,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,True,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,True
+2019,2020,record_of_the_year,s2019__recordoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,"Hey, Ma",Bon Iver,Bad Guy,Billie Eilish,True
+2019,2020,song_of_the_year,s2019__songoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Norman F***ing Rockwell,Lana Del Rey,Bad Guy,Billie Eilish,True
+2020,2021,album_of_the_year,s2020__albumoftheyear,bayesian,A_official_nominees,8,-1.3231061335256804,1.3231061335256804,True,Folklore,Taylor Swift,Folklore,Taylor Swift,True
+2020,2021,music_video,s2020__bestmusicvideo,bayesian,A_official_nominees,5,-1.4383835982152346,1.4383835982152346,False,Life Is Good,Future featuring Drake,Brown Skin Girl,"Beyoncé, Blue Ivy & Wizkid",True
+2020,2021,best_new_artist,s2020__bestnewartist,bayesian,A_official_nominees,8,-1.6941611781879056,1.6941611781879056,False,Doja Cat,Doja Cat,Megan Thee Stallion,Megan Thee Stallion,True
+2020,2021,pop_duo_group,s2020__bestpopduogroupperformance,bayesian,A_official_nominees,5,-1.3355565347450105,1.3355565347450105,False,Exile,Taylor Swift featuring Bon Iver,Rain On Me,Lady Gaga and Ariana Grande,True
+2020,2021,pop_solo,s2020__bestpopsoloperformance,bayesian,A_official_nominees,6,-2.302940766463113,2.302940766463113,False,Everything I Wanted,Billie Eilish,Watermelon Sugar,Harry Styles,True
+2020,2021,pop_vocal_album,s2020__bestpopvocalalbum,bayesian,A_official_nominees,5,-1.6406201980652453,1.6406201980652453,False,Folklore,Taylor Swift,Future Nostalgia,Dua Lipa,True
+2020,2021,record_of_the_year,s2020__recordoftheyear,bayesian,A_official_nominees,8,-0.9496381921287647,0.9496381921287647,True,Everything I Wanted,Billie Eilish,Everything I Wanted,Billie Eilish,True
+2020,2021,song_of_the_year,s2020__songoftheyear,bayesian,A_official_nominees,8,-2.9263562370143346,2.9263562370143346,False,Everything I Wanted,Billie Eilish,I Can't Breathe,H.E.R.,True
+2020,2021,album_of_the_year,s2020__albumoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Black Pumas (Deluxe Edition),Black Pumas,Folklore,Taylor Swift,True
+2020,2021,music_video,s2020__bestmusicvideo,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Lockdown,Anderson .Paak,Brown Skin Girl,"Beyoncé, Blue Ivy & Wizkid",True
+2020,2021,best_new_artist,s2020__bestnewartist,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Ingrid Andress,Ingrid Andress,Megan Thee Stallion,Megan Thee Stallion,True
+2020,2021,pop_duo_group,s2020__bestpopduogroupperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Exile,Taylor Swift featuring Bon Iver,Rain On Me,Lady Gaga and Ariana Grande,True
+2020,2021,pop_solo,s2020__bestpopsoloperformance,uniform,A_official_nominees,6,-1.791759469228055,1.791759469228055,False,Say So,Doja Cat,Watermelon Sugar,Harry Styles,True
+2020,2021,pop_vocal_album,s2020__bestpopvocalalbum,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Chromatica,Lady Gaga,Future Nostalgia,Dua Lipa,True
+2020,2021,record_of_the_year,s2020__recordoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Say So,Doja Cat,Everything I Wanted,Billie Eilish,True
+2020,2021,song_of_the_year,s2020__songoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Black Parade,Beyoncé,I Can't Breathe,H.E.R.,True
+2021,2022,album_of_the_year,s2021__albumoftheyear,bayesian,A_official_nominees,10,-3.4531703829429565,3.4531703829429565,False,Happier Than Ever,Billie Eilish,We Are,Jon Batiste,True
+2021,2022,music_video,s2021__bestmusicvideo,bayesian,A_official_nominees,7,-3.528942614571193,3.528942614571193,False,Happier Than Ever,Billie Eilish,Freedom,Jon Batiste,True
+2021,2022,best_new_artist,s2021__bestnewartist,bayesian,A_official_nominees,10,-2.302044786482255,2.302044786482255,False,The Kid LAROI,The Kid LAROI,Olivia Rodrigo,Olivia Rodrigo,True
+2021,2022,pop_duo_group,s2021__bestpopduogroupperformance,bayesian,A_official_nominees,5,-1.3412739313592086,1.3412739313592086,False,I Get A Kick Out Of You,Tony Bennett and Lady Gaga,Kiss Me More,Doja Cat featuring SZA,True
+2021,2022,pop_solo,s2021__bestpopsoloperformance,bayesian,A_official_nominees,5,-2.3521835073208113,2.3521835073208113,False,Happier Than Ever,Billie Eilish,drivers license,Olivia Rodrigo,True
+2021,2022,pop_vocal_album,s2021__bestpopvocalalbum,bayesian,A_official_nominees,5,-2.552036847036794,2.552036847036794,False,Happier Than Ever,Billie Eilish,Sour,Olivia Rodrigo,True
+2021,2022,record_of_the_year,s2021__recordoftheyear,bayesian,A_official_nominees,10,-2.9798911663950722,2.9798911663950722,False,Happier Than Ever,Billie Eilish,Leave The Door Open,Silk Sonic,True
+2021,2022,song_of_the_year,s2021__songoftheyear,bayesian,A_official_nominees,10,-2.9257957326212516,2.9257957326212516,False,Happier Than Ever,Billie Eilish,Leave The Door Open,Silk Sonic,True
+2021,2022,album_of_the_year,s2021__albumoftheyear,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,Justice (Triple Chucks Deluxe),Justin Bieber,We Are,Jon Batiste,True
+2021,2022,music_video,s2021__bestmusicvideo,uniform,A_official_nominees,7,-1.9459101490553132,1.9459101490553132,False,Montero (Call Me By Your Name),Lil Nas X,Freedom,Jon Batiste,True
+2021,2022,best_new_artist,s2021__bestnewartist,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,Arlo Parks,Arlo Parks,Olivia Rodrigo,Olivia Rodrigo,True
+2021,2022,pop_duo_group,s2021__bestpopduogroupperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Butter,BTS,Kiss Me More,Doja Cat featuring SZA,True
+2021,2022,pop_solo,s2021__bestpopsoloperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Anyone,Justin Bieber,drivers license,Olivia Rodrigo,True
+2021,2022,pop_vocal_album,s2021__bestpopvocalalbum,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Justice (Triple Chucks Deluxe),Justin Bieber,Sour,Olivia Rodrigo,True
+2021,2022,record_of_the_year,s2021__recordoftheyear,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,Kiss Me More,Doja Cat featuring SZA,Leave The Door Open,Silk Sonic,True
+2021,2022,song_of_the_year,s2021__songoftheyear,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,Kiss Me More,Doja Cat featuring SZA,Leave The Door Open,Silk Sonic,True
+2022,2023,album_of_the_year,s2022__albumoftheyear,bayesian,A_official_nominees,10,-1.9214129646684182,1.9214129646684182,False,30,Adele,Harry's House,Harry Styles,True
+2022,2023,music_video,s2022__bestmusicvideo,bayesian,A_official_nominees,6,-1.3394464249556126,1.3394464249556126,False,Easy On Me,Adele,All Too Well: The Short Film,Taylor Swift,True
+2022,2023,best_new_artist,s2022__bestnewartist,bayesian,A_official_nominees,10,-2.143602702632603,2.143602702632603,False,Latto,Latto,Samara Joy,Samara Joy,True
+2022,2023,pop_duo_group,s2022__bestpopduogroupperformance,bayesian,A_official_nominees,5,-1.2603980555757177,1.2603980555757177,True,Unholy,Sam Smith and Kim Petras,Unholy,Sam Smith and Kim Petras,True
+2022,2023,pop_solo,s2022__bestpopsoloperformance,bayesian,A_official_nominees,6,-1.0578376060567631,1.0578376060567631,True,Easy On Me,Adele,Easy On Me,Adele,True
+2022,2023,pop_vocal_album,s2022__bestpopvocalalbum,bayesian,A_official_nominees,5,-2.06287788706293,2.06287788706293,False,30,Adele,Harry's House,Harry Styles,True
+2022,2023,record_of_the_year,s2022__recordoftheyear,bayesian,A_official_nominees,10,-2.608309388521132,2.608309388521132,False,Easy On Me,Adele,About Damn Time,Lizzo,True
+2022,2023,song_of_the_year,s2022__songoftheyear,bayesian,A_official_nominees,10,-3.115135787726519,3.115135787726519,False,Easy On Me,Adele,Just Like That,Bonnie Raitt,True
+2022,2023,album_of_the_year,s2022__albumoftheyear,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,In These Silent Days,Brandi Carlile,Harry's House,Harry Styles,True
+2022,2023,music_video,s2022__bestmusicvideo,uniform,A_official_nominees,6,-1.791759469228055,1.791759469228055,False,As It Was,Harry Styles,All Too Well: The Short Film,Taylor Swift,True
+2022,2023,best_new_artist,s2022__bestnewartist,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,Anitta,Anitta,Samara Joy,Samara Joy,True
+2022,2023,pop_duo_group,s2022__bestpopduogroupperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Bam Bam,Camila Cabello featuring Ed Sheeran,Unholy,Sam Smith and Kim Petras,True
+2022,2023,pop_solo,s2022__bestpopsoloperformance,uniform,A_official_nominees,6,-1.791759469228055,1.791759469228055,False,As It Was,Harry Styles,Easy On Me,Adele,True
+2022,2023,pop_vocal_album,s2022__bestpopvocalalbum,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Voyage,ABBA,Harry's House,Harry Styles,True
+2022,2023,record_of_the_year,s2022__recordoftheyear,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,As It Was,Harry Styles,About Damn Time,Lizzo,True
+2022,2023,song_of_the_year,s2022__songoftheyear,uniform,A_official_nominees,10,-2.302585092994046,2.302585092994046,False,As It Was,Harry Styles,Just Like That,Bonnie Raitt,True
+2023,2024,album_of_the_year,s2023__albumoftheyear,bayesian,A_official_nominees,8,-1.6243126188741677,1.6243126188741677,True,Midnights,Taylor Swift,Midnights,Taylor Swift,True
+2023,2024,music_video,s2023__bestmusicvideo,bayesian,A_official_nominees,5,-1.8267580963507122,1.8267580963507122,False,What Was I Made For,Billie Eilish,I'm Only Sleeping,The Beatles,True
+2023,2024,best_new_artist,s2023__bestnewartist,bayesian,A_official_nominees,8,-2.233363863437356,2.233363863437356,False,Noah Kahan,Noah Kahan,Victoria Monét,Victoria Monét,True
+2023,2024,pop_duo_group,s2023__bestpopduogroupperformance,bayesian,A_official_nominees,5,-2.3263432280060306,2.3263432280060306,False,Never Felt So Alone,Labrinth featuring Billie Eilish,Ghost In The Machine,SZA featuring Phoebe Bridgers,True
+2023,2024,pop_solo,s2023__bestpopsoloperformance,bayesian,A_official_nominees,5,-2.1449458798082777,2.1449458798082777,False,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,Flowers,Miley Cyrus,True
+2023,2024,pop_vocal_album,s2023__bestpopvocalalbum,bayesian,A_official_nominees,5,-1.142746521884371,1.142746521884371,True,Midnights,Taylor Swift,Midnights,Taylor Swift,True
+2023,2024,record_of_the_year,s2023__recordoftheyear,bayesian,A_official_nominees,8,-2.467281109525284,2.467281109525284,False,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,Flowers,Miley Cyrus,True
+2023,2024,song_of_the_year,s2023__songoftheyear,bayesian,A_official_nominees,8,-1.5760735363664597,1.5760735363664597,True,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,True
+2023,2024,album_of_the_year,s2023__albumoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Endless Summer Vacation,Miley Cyrus,Midnights,Taylor Swift,True
+2023,2024,music_video,s2023__bestmusicvideo,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Rush,Troye Sivan,I'm Only Sleeping,The Beatles,True
+2023,2024,best_new_artist,s2023__bestnewartist,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Gracie Abrams,Gracie Abrams,Victoria Monét,Victoria Monét,True
+2023,2024,pop_duo_group,s2023__bestpopduogroupperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Thousand Miles,Miley Cyrus featuring Brandi Carlile,Ghost In The Machine,SZA featuring Phoebe Bridgers,True
+2023,2024,pop_solo,s2023__bestpopsoloperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Anti-Hero,Taylor Swift,Flowers,Miley Cyrus,True
+2023,2024,pop_vocal_album,s2023__bestpopvocalalbum,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Endless Summer Vacation,Miley Cyrus,Midnights,Taylor Swift,True
+2023,2024,record_of_the_year,s2023__recordoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Anti-Hero,Taylor Swift,Flowers,Miley Cyrus,True
+2023,2024,song_of_the_year,s2023__songoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Anti-Hero,Taylor Swift,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,True
+2024,2025,album_of_the_year,s2024__albumoftheyear,bayesian,A_official_nominees,8,-2.2448277590642967,2.2448277590642967,False,HIT ME HARD AND SOFT,Billie Eilish,COWBOY CARTER,Beyonce,True
+2024,2025,music_video,s2024__bestmusicvideo,bayesian,A_official_nominees,5,-1.9674683772778359,1.9674683772778359,False,Fortnight,Taylor Swift featuring Post Malone,Not Like Us,Kendrick Lamar,True
+2024,2025,best_new_artist,s2024__bestnewartist,bayesian,A_official_nominees,8,-2.032349219782021,2.032349219782021,False,Teddy Swims,Teddy Swims,Chappell Roan,Chappell Roan,True
+2024,2025,pop_duo_group,s2024__bestpopduogroupperformance,bayesian,A_official_nominees,5,-1.300850112301899,1.300850112301899,True,Die With A Smile,Lady Gaga and Bruno Mars,Die With A Smile,Lady Gaga and Bruno Mars,True
+2024,2025,pop_solo,s2024__bestpopsoloperformance,bayesian,A_official_nominees,5,-1.628272662374754,1.628272662374754,False,BIRDS OF A FEATHER,Billie Eilish,Espresso,Sabrina Carpenter,True
+2024,2025,pop_vocal_album,s2024__bestpopvocalalbum,bayesian,A_official_nominees,5,-1.894224723872778,1.894224723872778,False,HIT ME HARD AND SOFT,Billie Eilish,Short n' Sweet,Sabrina Carpenter,True
+2024,2025,record_of_the_year,s2024__recordoftheyear,bayesian,A_official_nominees,8,-2.2622687834544397,2.2622687834544397,False,Now And Then,The Beatles,Not Like Us,Kendrick Lamar,True
+2024,2025,song_of_the_year,s2024__songoftheyear,bayesian,A_official_nominees,8,-2.2673550145717085,2.2673550145717085,False,Die With A Smile,Lady Gaga and Bruno Mars,Not Like Us,Kendrick Lamar,True
+2024,2025,album_of_the_year,s2024__albumoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,BRAT,Charli xcx,COWBOY CARTER,Beyonce,True
+2024,2025,music_video,s2024__bestmusicvideo,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,360,Charli XCX,Not Like Us,Kendrick Lamar,True
+2024,2025,best_new_artist,s2024__bestnewartist,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,RAYE,RAYE,Chappell Roan,Chappell Roan,True
+2024,2025,pop_duo_group,s2024__bestpopduogroupperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,us.,Gracie Abrams featuring Taylor Swift,Die With A Smile,Lady Gaga and Bruno Mars,True
+2024,2025,pop_solo,s2024__bestpopsoloperformance,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,"Good Luck, Babe!",Chappell Roan,Espresso,Sabrina Carpenter,True
+2024,2025,pop_vocal_album,s2024__bestpopvocalalbum,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,THE TORTURED POETS DEPARTMENT,Taylor Swift,Short n' Sweet,Sabrina Carpenter,True
+2024,2025,record_of_the_year,s2024__recordoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,"Good Luck, Babe!",Chappell Roan,Not Like Us,Kendrick Lamar,True
+2024,2025,song_of_the_year,s2024__songoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,"Good Luck, Babe!",Chappell Roan,Not Like Us,Kendrick Lamar,True
+2025,2026,album_of_the_year,s2025__albumoftheyear,bayesian,A_official_nominees,8,-2.4740852699873237,2.4740852699873237,False,Chromakopia,"Tyler, the Creator",Debí Tirar Más Fotos,Bad Bunny,True
+2025,2026,best_new_artist,s2025__bestnewartist,bayesian,A_official_nominees,8,-2.693862360595001,2.693862360595001,False,The Marías,The Marías,Olivia Dean,Olivia Dean,True
+2025,2026,music_video,s2025__musicvideo,bayesian,A_official_nominees,5,-1.96498749583865,1.96498749583865,False,Manchild,Sabrina Carpenter,Anxiety,Doechii,True
+2025,2026,pop_duo_group,s2025__popduogroup,bayesian,A_official_nominees,5,-1.9554960846073621,1.9554960846073621,False,APT.,Rosé & Bruno Mars,Defying Gravity,Cynthia Erivo & Ariana Grande,True
+2025,2026,pop_solo,s2025__popsolo,bayesian,A_official_nominees,5,-1.828842904159683,1.828842904159683,False,Disease,Lady Gaga,Messy,Lola Young,True
+2025,2026,pop_vocal_album,s2025__popvocalalbum,bayesian,A_official_nominees,5,-1.191688829516396,1.191688829516396,True,Mayhem,Lady Gaga,Mayhem,Lady Gaga,True
+2025,2026,record_of_the_year,s2025__recordoftheyear,bayesian,A_official_nominees,8,-2.1147434695360507,2.1147434695360507,False,Abracadabra,Lady Gaga,Luther,Kendrick Lamar & SZA,True
+2025,2026,song_of_the_year,s2025__songoftheyear,bayesian,A_official_nominees,8,-1.7940722190615261,1.7940722190615261,True,Wildflower,Billie Eilish,Wildflower,Billie Eilish,True
+2025,2026,album_of_the_year,s2025__albumoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Let God Sort Em Out,Clipse,Debí Tirar Más Fotos,Bad Bunny,True
+2025,2026,best_new_artist,s2025__bestnewartist,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,Katseye,Katseye,Olivia Dean,Olivia Dean,True
+2025,2026,music_video,s2025__musicvideo,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,So Be It,Clipse,Anxiety,Doechii,True
+2025,2026,pop_duo_group,s2025__popduogroup,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,APT.,Rosé & Bruno Mars,Defying Gravity,Cynthia Erivo & Ariana Grande,True
+2025,2026,pop_solo,s2025__popsolo,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Daisies,Justin Bieber,Messy,Lola Young,True
+2025,2026,pop_vocal_album,s2025__popvocalalbum,uniform,A_official_nominees,5,-1.6094379124341003,1.6094379124341003,False,Swag,Justin Bieber,Mayhem,Lady Gaga,True
+2025,2026,record_of_the_year,s2025__recordoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,APT.,Rosé & Bruno Mars,Luther,Kendrick Lamar & SZA,True
+2025,2026,song_of_the_year,s2025__songoftheyear,uniform,A_official_nominees,8,-2.0794415416798357,2.0794415416798357,False,APT.,Rosé & Bruno Mars,Wildflower,Billie Eilish,True

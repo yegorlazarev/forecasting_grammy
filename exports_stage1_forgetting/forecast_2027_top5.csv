@@ -1,0 +1,41 @@
+season,cat,lam,artist_key,artist,nominated,p,rank
+2026,album_of_the_year,1.0,taylorswift,Taylor Swift,,0.6552077287645828,1
+2026,album_of_the_year,1.0,oliviadean,Olivia Dean,,0.5426765650265348,2
+2026,album_of_the_year,1.0,sabrinacarpenter,Sabrina Carpenter,,0.48972443295058043,3
+2026,album_of_the_year,1.0,arianagrande,Ariana Grande,,0.4765551383630197,4
+2026,album_of_the_year,1.0,bts,BTS,,0.4529819908106938,5
+2026,best_new_artist,1.0,siennaspiro,Sienna Spiro,,0.40507989238352765,1
+2026,best_new_artist,1.0,ellalangley,Ella Langley,,0.3060803768066688,2
+2026,best_new_artist,1.0,stellalefty,STELLA LEFTY,,0.2537339600765186,3
+2026,best_new_artist,1.0,bellakay,Bella Kay,,0.19782189171845033,4
+2026,best_new_artist,1.0,malcolmtodd,Malcolm Todd,,0.19508152620969416,5
+2026,music_video,1.0,taylorswift,Taylor Swift,,0.7591157442860703,1
+2026,music_video,1.0,sabrinacarpenter,Sabrina Carpenter,,0.33605163465247095,2
+2026,music_video,1.0,madonna,Madonna,,0.2771147472341606,3
+2026,music_video,1.0,bts,BTS,,0.2275576248078769,4
+2026,music_video,1.0,arianagrande,Ariana Grande,,0.1677323540605114,5
+2026,pop_duo_group,1.0,taylorswift,Taylor Swift,,0.5518898427406266,1
+2026,pop_duo_group,1.0,bts,BTS,,0.47979818498524457,2
+2026,pop_duo_group,1.0,ladygaga,Lady Gaga,,0.45382024289557515,3
+2026,pop_duo_group,1.0,arianagrande,Ariana Grande,,0.45244443379928473,4
+2026,pop_duo_group,1.0,brunomars,Bruno Mars,,0.31263435695474406,5
+2026,pop_solo,1.0,taylorswift,Taylor Swift,,0.718684236465961,1
+2026,pop_solo,1.0,sabrinacarpenter,Sabrina Carpenter,,0.5812172822847015,2
+2026,pop_solo,1.0,arianagrande,Ariana Grande,,0.4526668106231331,3
+2026,pop_solo,1.0,brunomars,Bruno Mars,,0.3067913922059836,4
+2026,pop_solo,1.0,ladygaga,Lady Gaga,,0.2985126931684418,5
+2026,pop_vocal_album,1.0,taylorswift,Taylor Swift,,0.7454113982579262,1
+2026,pop_vocal_album,1.0,sabrinacarpenter,Sabrina Carpenter,,0.7124097540621016,2
+2026,pop_vocal_album,1.0,arianagrande,Ariana Grande,,0.5765868986889595,3
+2026,pop_vocal_album,1.0,oliviarodrigo,Olivia Rodrigo,,0.4457997752154326,4
+2026,pop_vocal_album,1.0,ladygaga,Lady Gaga,,0.3075519221144247,5
+2026,record_of_the_year,1.0,taylorswift,Taylor Swift,,0.740285991620118,1
+2026,record_of_the_year,1.0,oliviadean,Olivia Dean,,0.7301408628708599,2
+2026,record_of_the_year,1.0,brunomars,Bruno Mars,,0.6414983149044524,3
+2026,record_of_the_year,1.0,ellalangley,Ella Langley,,0.5358613941329677,4
+2026,record_of_the_year,1.0,sabrinacarpenter,Sabrina Carpenter,,0.39895048582546544,5
+2026,song_of_the_year,1.0,brunomars,Bruno Mars,,0.7754274430245778,1
+2026,song_of_the_year,1.0,taylorswift,Taylor Swift,,0.6068627169202201,2
+2026,song_of_the_year,1.0,oliviadean,Olivia Dean,,0.5183918102394354,3
+2026,song_of_the_year,1.0,sabrinacarpenter,Sabrina Carpenter,,0.5075141410951552,4
+2026,song_of_the_year,1.0,ladygaga,Lady Gaga,,0.4612110125169981,5

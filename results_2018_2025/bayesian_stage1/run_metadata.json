@@ -1,0 +1,50 @@
+{
+  "model_version": "compact27-binary-unscaled-v4",
+  "data_sha256": "f2f8a3af293485500c7a792ed333bffaf7671aa075ef49f4f193633bb9d6b62c",
+  "test_seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "features": [
+    "h_peak_strength",
+    "log_h_entries",
+    "log_h_weeks",
+    "log_h_top10_weeks",
+    "b_peak_strength",
+    "log_b_entries",
+    "log_b_weeks",
+    "log_b_top10_weeks",
+    "log_prior_noms",
+    "log_prior_wins",
+    "log_prior_noms_same_cat",
+    "new_in_window",
+    "log_ama_noms_total",
+    "log_ama_wins_prev_total",
+    "log_vma_noms_total",
+    "log_vma_wins_total",
+    "log_iheart_noms_total",
+    "log_iheart_wins_total",
+    "ama_held",
+    "vma_held",
+    "iheart_held",
+    "ama_relevant_nominated",
+    "ama_relevant_winner",
+    "vma_relevant_nominated",
+    "vma_relevant_winner",
+    "iheart_relevant_nominated",
+    "iheart_relevant_winner"
+  ],
+  "scope": "Stage 1; original data; earlier seasons only",
+  "sampling": "Existing 2024/25 predictions retained; additional fits use current v4 settings",
+  "limitations": [
+    "Retrospective data",
+    "Original label and identity issues",
+    "Only eight dependent annual occasions"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "artist_features.csv": "76ec358ad1355d2e3a7a99511f3b52cad45d2561bbe8a618839eedd3a857150c",
+  "historical_works.csv": "597ef9450e48415bbebbad86a5579459f105faa03bfa670878ab32a212da726b",
+  "stage1_backtest_predictions.csv": "236a1b0b25d3e2d1768d58a440b2dd4c32837dc54305e37b848d92271ab162a3",
+  "work_catalog.csv": "b4d872d7c47466f5691b65c14e2efc7a8323800edc98acf21a2f1d7876e1eb4d",
+  "stage1_manifest.json": "79c64e3eef6b708e5b202969fe9e3d164c4adfaf60a973d6c9ec71fb7ec8a30f",
+  "stage1_forecast_2027_top5.csv": "b49dd51fe5fb681f93722a0ec55ea58bad1f157139b30261da6008930cb7ab94",
+  "forecast_choices.csv": "a90001ad1b28835c5bc2f7c247ed6580fe94e9b66016d7ce221cb01d2b09b695",
+  "choice_set_sizes.csv": "417567a3ab4699c75bb858edf766dcb1b6f4b240d4d2c39c57b51124ae15b43c",
+  "omitted_artist_choices.csv": "76d9d97f474210bf75fda7ee9238a562fee6e714656dfb809bb7bfe975a1fa03",
+  "stage1_backtest_top5.csv": "396a9e2968c117bc94cbc2d7d9c0fd125b6698834ff0a60374df232fe3c14443",
+  "stage1_forecast_2027_all_artists.csv": "ba332f486dbb6ed48392ca38aa6f3e5f81d86e9af66c03ceca622fa32d791db0"
+}

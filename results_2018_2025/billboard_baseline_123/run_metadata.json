@@ -1,0 +1,41 @@
+{
+  "model_version": "billboard-only-constrained-mle-v1",
+  "experiment": "expanded_billboard_backtest_2018_2025",
+  "test_seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "ceremony_years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "training_rule": "Use only seasons strictly earlier than test season",
+  "stage23_protocol": "A_official_nominees",
+  "constructed_shortlists_evaluated": false,
+  "forecast_2027_modified": false,
+  "embedded_reference_hashes": {
+    "artists.csv": "40983a1ea1b2422076c523c4003b602f73b4ab9ec2b56372baedfcf327f3a45c",
+    "history.csv": "597ef9450e48415bbebbad86a5579459f105faa03bfa670878ab32a212da726b",
+    "choices.csv": "a90001ad1b28835c5bc2f7c247ed6580fe94e9b66016d7ce221cb01d2b09b695",
+    "bayes1.csv": "236a1b0b25d3e2d1768d58a440b2dd4c32837dc54305e37b848d92271ab162a3"
+  },
+  "actual_artist_table_sha256": "23084e65a18150192d873684e3a8656809716c7c71fcaff448f9021a63136446",
+  "limitations": [
+    "Original labels, candidate-pool and identity limitations retained",
+    "Stage3 uses plug-in probabilities without parameter uncertainty",
+    "Top1 expected hits use random tie-breaking at tied maxima",
+    "No end-to-end constructed-shortlist backtest for early seasons"
+  ]
+}

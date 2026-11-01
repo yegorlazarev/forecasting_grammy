@@ -1,0 +1,17 @@
+season,model,log_loss,top1_hits
+2018,ridge_clogit_billboard,1.795574438891716,1
+2018,ridge_clogit_full,1.9665018144195003,1
+2019,ridge_clogit_billboard,1.9360198814947043,1
+2019,ridge_clogit_full,2.267086438938249,1
+2020,ridge_clogit_billboard,1.7736835063054002,1
+2020,ridge_clogit_full,1.699628470255715,2
+2021,ridge_clogit_billboard,2.4084580762574626,0
+2021,ridge_clogit_full,2.704531801281879,0
+2022,ridge_clogit_billboard,2.0030311736241373,2
+2022,ridge_clogit_full,1.9404146902721007,2
+2023,ridge_clogit_billboard,1.8113751862931702,2
+2023,ridge_clogit_full,1.9235236993269866,2
+2024,ridge_clogit_billboard,1.7703675877313103,0
+2024,ridge_clogit_full,1.947881970943749,1
+2025,ridge_clogit_billboard,1.8555555065939582,2
+2025,ridge_clogit_full,2.004488568358534,2
