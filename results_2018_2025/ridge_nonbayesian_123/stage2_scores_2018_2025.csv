@@ -1,0 +1,129 @@
+season,cat,event_id,model,protocol,K,log_score,log_loss,top1_correct,predicted_work,predicted_artist,actual_work,actual_artist
+2018,album_of_the_year,s2018__albumoftheyear,ridge_clogit_billboard,A_official_nominees,8,-2.152901613194275,2.152901613194275,False,"Black Panther: The Album, Music From And Inspired By",Various Artists,Golden Hour,Kacey Musgraves
+2018,music_video,s2018__bestmusicvideo,ridge_clogit_billboard,A_official_nominees,5,-1.1721311487117416,1.1721311487117416,True,This Is America,Childish Gambino,This Is America,Childish Gambino
+2018,best_new_artist,s2018__bestnewartist,ridge_clogit_billboard,A_official_nominees,8,-1.981735048430319,1.981735048430319,False,Greta Van Fleet,Greta Van Fleet,Dua Lipa,Dua Lipa
+2018,pop_duo_group,s2018__bestpopduogroupperformance,ridge_clogit_billboard,A_official_nominees,7,-1.7492071934718636,1.7492071934718636,False,Say Something,Justin Timberlake featuring Chris Stapleton,Shallow,Lady Gaga and Bradley Cooper
+2018,pop_solo,s2018__bestpopsoloperformance,ridge_clogit_billboard,A_official_nominees,5,-1.5663729013723922,1.5663729013723922,False,God Is A Woman,Ariana Grande,Joanne (Where Do You Think You're Goin'?),Lady Gaga
+2018,pop_vocal_album,s2018__bestpopvocalalbum,ridge_clogit_billboard,A_official_nominees,6,-1.7696191573954905,1.7696191573954905,False,Reputation,Taylor Swift,Sweetener,Ariana Grande
+2018,record_of_the_year,s2018__recordoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.9632763353017526,1.9632763353017526,False,God's Plan,Drake,This Is America,Childish Gambino
+2018,song_of_the_year,s2018__songoftheyear,ridge_clogit_billboard,A_official_nominees,8,-2.009352113255895,2.009352113255895,False,God's Plan,Drake,This Is America,Childish Gambino
+2018,album_of_the_year,s2018__albumoftheyear,ridge_clogit_full,A_official_nominees,8,-2.2169683455245686,2.2169683455245686,False,"Black Panther: The Album, Music From And Inspired By",Various Artists,Golden Hour,Kacey Musgraves
+2018,music_video,s2018__bestmusicvideo,ridge_clogit_full,A_official_nominees,5,-1.3930252213415633,1.3930252213415633,False,PYNK,Janelle Monáe,This Is America,Childish Gambino
+2018,best_new_artist,s2018__bestnewartist,ridge_clogit_full,A_official_nominees,8,-2.0505023761982346,2.0505023761982346,False,Greta Van Fleet,Greta Van Fleet,Dua Lipa,Dua Lipa
+2018,pop_duo_group,s2018__bestpopduogroupperformance,ridge_clogit_full,A_official_nominees,7,-1.0523680490594012,1.0523680490594012,True,Shallow,Lady Gaga and Bradley Cooper,Shallow,Lady Gaga and Bradley Cooper
+2018,pop_solo,s2018__bestpopsoloperformance,ridge_clogit_full,A_official_nominees,5,-1.2722402896498117,1.2722402896498117,False,Colors,Beck,Joanne (Where Do You Think You're Goin'?),Lady Gaga
+2018,pop_vocal_album,s2018__bestpopvocalalbum,ridge_clogit_full,A_official_nominees,6,-3.0205569121202576,3.0205569121202576,False,Reputation,Taylor Swift,Sweetener,Ariana Grande
+2018,record_of_the_year,s2018__recordoftheyear,ridge_clogit_full,A_official_nominees,8,-2.5727002206031133,2.5727002206031133,False,Shallow,Lady Gaga & Bradley Cooper,This Is America,Childish Gambino
+2018,song_of_the_year,s2018__songoftheyear,ridge_clogit_full,A_official_nominees,8,-2.153653100859052,2.153653100859052,False,Shallow,Lady Gaga and Bradley Cooper,This Is America,Childish Gambino
+2019,album_of_the_year,s2019__albumoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.9684988392567941,1.9684988392567941,False,I Used To Know Her,H.E.R.,"When We All Fall Asleep, Where Do We Go?",Billie Eilish
+2019,music_video,s2019__bestmusicvideo,ridge_clogit_billboard,A_official_nominees,5,-1.9028485545408234,1.9028485545408234,False,We've Got To Try,Chemical Brothers,Old Town Road (Official Movie),Lil Nas X featuring Billy Ray Cyrus
+2019,best_new_artist,s2019__bestnewartist,ridge_clogit_billboard,A_official_nominees,8,-1.7352043408201747,1.7352043408201747,True,Billie Eilish,Billie Eilish,Billie Eilish,Billie Eilish
+2019,pop_duo_group,s2019__bestpopduogroupperformance,ridge_clogit_billboard,A_official_nominees,5,-2.2224983782712098,2.2224983782712098,False,Señorita,Shawn Mendes and Camila Cabello,Old Town Road,Lil Nas X featuring Billy Ray Cyrus
+2019,pop_solo,s2019__bestpopsoloperformance,ridge_clogit_billboard,A_official_nominees,5,-1.8571967105172817,1.8571967105172817,False,You Need To Calm Down,Taylor Swift,Truth Hurts,Lizzo
+2019,pop_vocal_album,s2019__bestpopvocalalbum,ridge_clogit_billboard,A_official_nominees,5,-1.7944836691156465,1.7944836691156465,False,No.6 Collaborations Project,Ed Sheeran,"When We All Fall Asleep, Where Do We Go?",Billie Eilish
+2019,record_of_the_year,s2019__recordoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.9962624304740197,1.9962624304740197,False,Hard Place,H.E.R.,Bad Guy,Billie Eilish
+2019,song_of_the_year,s2019__songoftheyear,ridge_clogit_billboard,A_official_nominees,8,-2.0111661289616842,2.0111661289616842,False,Lover,Taylor Swift,Bad Guy,Billie Eilish
+2019,album_of_the_year,s2019__albumoftheyear,ridge_clogit_full,A_official_nominees,8,-2.3427905132259963,2.3427905132259963,False,"thank u, next",Ariana Grande,"When We All Fall Asleep, Where Do We Go?",Billie Eilish
+2019,music_video,s2019__bestmusicvideo,ridge_clogit_full,A_official_nominees,5,-1.8795116640754477,1.8795116640754477,False,We've Got To Try,Chemical Brothers,Old Town Road (Official Movie),Lil Nas X featuring Billy Ray Cyrus
+2019,best_new_artist,s2019__bestnewartist,ridge_clogit_full,A_official_nominees,8,-1.806801304983631,1.806801304983631,True,Billie Eilish,Billie Eilish,Billie Eilish,Billie Eilish
+2019,pop_duo_group,s2019__bestpopduogroupperformance,ridge_clogit_full,A_official_nominees,5,-2.3240128390442263,2.3240128390442263,False,Señorita,Shawn Mendes and Camila Cabello,Old Town Road,Lil Nas X featuring Billy Ray Cyrus
+2019,pop_solo,s2019__bestpopsoloperformance,ridge_clogit_full,A_official_nominees,5,-2.190965363028353,2.190965363028353,False,You Need To Calm Down,Taylor Swift,Truth Hurts,Lizzo
+2019,pop_vocal_album,s2019__bestpopvocalalbum,ridge_clogit_full,A_official_nominees,5,-2.7401793725521393,2.7401793725521393,False,The Lion King: The Gift,Beyoncé,"When We All Fall Asleep, Where Do We Go?",Billie Eilish
+2019,record_of_the_year,s2019__recordoftheyear,ridge_clogit_full,A_official_nominees,8,-2.336384511489487,2.336384511489487,False,7 rings,Ariana Grande,Bad Guy,Billie Eilish
+2019,song_of_the_year,s2019__songoftheyear,ridge_clogit_full,A_official_nominees,8,-2.516045943106711,2.516045943106711,False,Always Remember Us This Way,Lady Gaga,Bad Guy,Billie Eilish
+2020,album_of_the_year,s2020__albumoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.5009196221004932,1.5009196221004932,True,Folklore,Taylor Swift,Folklore,Taylor Swift
+2020,music_video,s2020__bestmusicvideo,ridge_clogit_billboard,A_official_nominees,5,-1.902187479284314,1.902187479284314,False,Life Is Good,Future featuring Drake,Brown Skin Girl,"Beyoncé, Blue Ivy & Wizkid"
+2020,best_new_artist,s2020__bestnewartist,ridge_clogit_billboard,A_official_nominees,8,-1.6575963871329764,1.6575963871329764,False,Doja Cat,Doja Cat,Megan Thee Stallion,Megan Thee Stallion
+2020,pop_duo_group,s2020__bestpopduogroupperformance,ridge_clogit_billboard,A_official_nominees,5,-1.4960700103904485,1.4960700103904485,False,Dynamite,BTS,Rain On Me,Lady Gaga and Ariana Grande
+2020,pop_solo,s2020__bestpopsoloperformance,ridge_clogit_billboard,A_official_nominees,6,-1.8596305507100583,1.8596305507100583,False,Cardigan,Taylor Swift,Watermelon Sugar,Harry Styles
+2020,pop_vocal_album,s2020__bestpopvocalalbum,ridge_clogit_billboard,A_official_nominees,5,-1.9926955440834926,1.9926955440834926,False,Folklore,Taylor Swift,Future Nostalgia,Dua Lipa
+2020,record_of_the_year,s2020__recordoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.7700167163704073,1.7700167163704073,False,Circles,Post Malone,Everything I Wanted,Billie Eilish
+2020,song_of_the_year,s2020__songoftheyear,ridge_clogit_billboard,A_official_nominees,8,-2.0103517403710107,2.0103517403710107,False,Cardigan,Taylor Swift,I Can't Breathe,H.E.R.
+2020,album_of_the_year,s2020__albumoftheyear,ridge_clogit_full,A_official_nominees,8,-1.3219617460397979,1.3219617460397979,True,Folklore,Taylor Swift,Folklore,Taylor Swift
+2020,music_video,s2020__bestmusicvideo,ridge_clogit_full,A_official_nominees,5,-1.4429106453204026,1.4429106453204026,False,Life Is Good,Future featuring Drake,Brown Skin Girl,"Beyoncé, Blue Ivy & Wizkid"
+2020,best_new_artist,s2020__bestnewartist,ridge_clogit_full,A_official_nominees,8,-1.6846966967438008,1.6846966967438008,False,Doja Cat,Doja Cat,Megan Thee Stallion,Megan Thee Stallion
+2020,pop_duo_group,s2020__bestpopduogroupperformance,ridge_clogit_full,A_official_nominees,5,-1.3332864663318515,1.3332864663318515,False,Exile,Taylor Swift featuring Bon Iver,Rain On Me,Lady Gaga and Ariana Grande
+2020,pop_solo,s2020__bestpopsoloperformance,ridge_clogit_full,A_official_nominees,6,-2.295799780297245,2.295799780297245,False,Everything I Wanted,Billie Eilish,Watermelon Sugar,Harry Styles
+2020,pop_vocal_album,s2020__bestpopvocalalbum,ridge_clogit_full,A_official_nominees,5,-1.6501471577136662,1.6501471577136662,False,Chromatica,Lady Gaga,Future Nostalgia,Dua Lipa
+2020,record_of_the_year,s2020__recordoftheyear,ridge_clogit_full,A_official_nominees,8,-0.9489133802231895,0.9489133802231895,True,Everything I Wanted,Billie Eilish,Everything I Wanted,Billie Eilish
+2020,song_of_the_year,s2020__songoftheyear,ridge_clogit_full,A_official_nominees,8,-2.9193118893757655,2.9193118893757655,False,Everything I Wanted,Billie Eilish,I Can't Breathe,H.E.R.
+2021,album_of_the_year,s2021__albumoftheyear,ridge_clogit_billboard,A_official_nominees,10,-3.181651652962812,3.181651652962812,False,Evermore,Taylor Swift,We Are,Jon Batiste
+2021,music_video,s2021__bestmusicvideo,ridge_clogit_billboard,A_official_nominees,7,-2.737315066557017,2.737315066557017,False,Shot In The Dark,AC/DC,Freedom,Jon Batiste
+2021,best_new_artist,s2021__bestnewartist,ridge_clogit_billboard,A_official_nominees,10,-2.299830815677571,2.299830815677571,False,The Kid LAROI,The Kid LAROI,Olivia Rodrigo,Olivia Rodrigo
+2021,pop_duo_group,s2021__bestpopduogroupperformance,ridge_clogit_billboard,A_official_nominees,5,-1.5002422429875624,1.5002422429875624,False,Butter,BTS,Kiss Me More,Doja Cat featuring SZA
+2021,pop_solo,s2021__bestpopsoloperformance,ridge_clogit_billboard,A_official_nominees,5,-2.0849718814521365,2.0849718814521365,False,Happier Than Ever,Billie Eilish,drivers license,Olivia Rodrigo
+2021,pop_vocal_album,s2021__bestpopvocalalbum,ridge_clogit_billboard,A_official_nominees,5,-2.171315002426911,2.171315002426911,False,Happier Than Ever,Billie Eilish,Sour,Olivia Rodrigo
+2021,record_of_the_year,s2021__recordoftheyear,ridge_clogit_billboard,A_official_nominees,10,-2.6573209670775646,2.6573209670775646,False,Happier Than Ever,Billie Eilish,Leave The Door Open,Silk Sonic
+2021,song_of_the_year,s2021__songoftheyear,ridge_clogit_billboard,A_official_nominees,10,-2.635016980918126,2.635016980918126,False,Happier Than Ever,Billie Eilish,Leave The Door Open,Silk Sonic
+2021,album_of_the_year,s2021__albumoftheyear,ridge_clogit_full,A_official_nominees,10,-3.4936801414552208,3.4936801414552208,False,Happier Than Ever,Billie Eilish,We Are,Jon Batiste
+2021,music_video,s2021__bestmusicvideo,ridge_clogit_full,A_official_nominees,7,-3.574091032589456,3.574091032589456,False,Happier Than Ever,Billie Eilish,Freedom,Jon Batiste
+2021,best_new_artist,s2021__bestnewartist,ridge_clogit_full,A_official_nominees,10,-2.291999799066168,2.291999799066168,False,The Kid LAROI,The Kid LAROI,Olivia Rodrigo,Olivia Rodrigo
+2021,pop_duo_group,s2021__bestpopduogroupperformance,ridge_clogit_full,A_official_nominees,5,-1.3423772853926343,1.3423772853926343,False,I Get A Kick Out Of You,Tony Bennett and Lady Gaga,Kiss Me More,Doja Cat featuring SZA
+2021,pop_solo,s2021__bestpopsoloperformance,ridge_clogit_full,A_official_nominees,5,-2.3663153071181102,2.3663153071181102,False,Happier Than Ever,Billie Eilish,drivers license,Olivia Rodrigo
+2021,pop_vocal_album,s2021__bestpopvocalalbum,ridge_clogit_full,A_official_nominees,5,-2.5712862524385396,2.5712862524385396,False,Happier Than Ever,Billie Eilish,Sour,Olivia Rodrigo
+2021,record_of_the_year,s2021__recordoftheyear,ridge_clogit_full,A_official_nominees,10,-3.016971316368219,3.016971316368219,False,Happier Than Ever,Billie Eilish,Leave The Door Open,Silk Sonic
+2021,song_of_the_year,s2021__songoftheyear,ridge_clogit_full,A_official_nominees,10,-2.9795332758266837,2.9795332758266837,False,Happier Than Ever,Billie Eilish,Leave The Door Open,Silk Sonic
+2022,album_of_the_year,s2022__albumoftheyear,ridge_clogit_billboard,A_official_nominees,10,-2.083358802481208,2.083358802481208,False,Voyage,ABBA,Harry's House,Harry Styles
+2022,music_video,s2022__bestmusicvideo,ridge_clogit_billboard,A_official_nominees,6,-1.417439985966639,1.417439985966639,True,All Too Well: The Short Film,Taylor Swift,All Too Well: The Short Film,Taylor Swift
+2022,best_new_artist,s2022__bestnewartist,ridge_clogit_billboard,A_official_nominees,10,-2.13342977667191,2.13342977667191,False,Latto,Latto,Samara Joy,Samara Joy
+2022,pop_duo_group,s2022__bestpopduogroupperformance,ridge_clogit_billboard,A_official_nominees,5,-1.9540234445835558,1.9540234445835558,False,Don't Shut Me Down,ABBA,Unholy,Sam Smith and Kim Petras
+2022,pop_solo,s2022__bestpopsoloperformance,ridge_clogit_billboard,A_official_nominees,6,-1.615106231666592,1.615106231666592,True,Easy On Me,Adele,Easy On Me,Adele
+2022,pop_vocal_album,s2022__bestpopvocalalbum,ridge_clogit_billboard,A_official_nominees,5,-1.5083239906504688,1.5083239906504688,False,Voyage,ABBA,Harry's House,Harry Styles
+2022,record_of_the_year,s2022__recordoftheyear,ridge_clogit_billboard,A_official_nominees,10,-2.404272614813964,2.404272614813964,False,Don't Shut Me Down,ABBA,About Damn Time,Lizzo
+2022,song_of_the_year,s2022__songoftheyear,ridge_clogit_billboard,A_official_nominees,10,-2.9082945421587625,2.9082945421587625,False,All Too Well (10 Minute Version) (The Short Film),Taylor Swift,Just Like That,Bonnie Raitt
+2022,album_of_the_year,s2022__albumoftheyear,ridge_clogit_full,A_official_nominees,10,-1.9093873248311557,1.9093873248311557,False,30,Adele,Harry's House,Harry Styles
+2022,music_video,s2022__bestmusicvideo,ridge_clogit_full,A_official_nominees,6,-1.3355982344600985,1.3355982344600985,False,Easy On Me,Adele,All Too Well: The Short Film,Taylor Swift
+2022,best_new_artist,s2022__bestnewartist,ridge_clogit_full,A_official_nominees,10,-2.156007092676256,2.156007092676256,False,Latto,Latto,Samara Joy,Samara Joy
+2022,pop_duo_group,s2022__bestpopduogroupperformance,ridge_clogit_full,A_official_nominees,5,-1.2601276013411127,1.2601276013411127,True,Unholy,Sam Smith and Kim Petras,Unholy,Sam Smith and Kim Petras
+2022,pop_solo,s2022__bestpopsoloperformance,ridge_clogit_full,A_official_nominees,6,-1.0635139866445167,1.0635139866445167,True,Easy On Me,Adele,Easy On Me,Adele
+2022,pop_vocal_album,s2022__bestpopvocalalbum,ridge_clogit_full,A_official_nominees,5,-2.0573041400240095,2.0573041400240095,False,30,Adele,Harry's House,Harry Styles
+2022,record_of_the_year,s2022__recordoftheyear,ridge_clogit_full,A_official_nominees,10,-2.5904673103123192,2.5904673103123192,False,Easy On Me,Adele,About Damn Time,Lizzo
+2022,song_of_the_year,s2022__songoftheyear,ridge_clogit_full,A_official_nominees,10,-3.150911831887337,3.150911831887337,False,Easy On Me,Adele,Just Like That,Bonnie Raitt
+2023,album_of_the_year,s2023__albumoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.5258701369268604,1.5258701369268604,True,Midnights,Taylor Swift,Midnights,Taylor Swift
+2023,music_video,s2023__bestmusicvideo,ridge_clogit_billboard,A_official_nominees,5,-1.5977900406228556,1.5977900406228556,False,Count Me Out,Kendrick Lamar,I'm Only Sleeping,The Beatles
+2023,best_new_artist,s2023__bestnewartist,ridge_clogit_billboard,A_official_nominees,8,-2.2464205191966276,2.2464205191966276,False,Noah Kahan,Noah Kahan,Victoria Monét,Victoria Monét
+2023,pop_duo_group,s2023__bestpopduogroupperformance,ridge_clogit_billboard,A_official_nominees,5,-1.8166234694900236,1.8166234694900236,False,Karma,Taylor Swift featuring Ice Spice,Ghost In The Machine,SZA featuring Phoebe Bridgers
+2023,pop_solo,s2023__bestpopsoloperformance,ridge_clogit_billboard,A_official_nominees,5,-2.015442135383588,2.015442135383588,False,Anti-Hero,Taylor Swift,Flowers,Miley Cyrus
+2023,pop_vocal_album,s2023__bestpopvocalalbum,ridge_clogit_billboard,A_official_nominees,5,-1.1994512801512252,1.1994512801512252,True,Midnights,Taylor Swift,Midnights,Taylor Swift
+2023,record_of_the_year,s2023__recordoftheyear,ridge_clogit_billboard,A_official_nominees,8,-2.295280083307357,2.295280083307357,False,Anti-Hero,Taylor Swift,Flowers,Miley Cyrus
+2023,song_of_the_year,s2023__songoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.7941238252668246,1.7941238252668246,False,Anti-Hero,Taylor Swift,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish
+2023,album_of_the_year,s2023__albumoftheyear,ridge_clogit_full,A_official_nominees,8,-1.664190779990345,1.664190779990345,False,GUTS,Olivia Rodrigo,Midnights,Taylor Swift
+2023,music_video,s2023__bestmusicvideo,ridge_clogit_full,A_official_nominees,5,-1.8263786134274973,1.8263786134274973,False,What Was I Made For,Billie Eilish,I'm Only Sleeping,The Beatles
+2023,best_new_artist,s2023__bestnewartist,ridge_clogit_full,A_official_nominees,8,-2.2160844245236686,2.2160844245236686,False,Noah Kahan,Noah Kahan,Victoria Monét,Victoria Monét
+2023,pop_duo_group,s2023__bestpopduogroupperformance,ridge_clogit_full,A_official_nominees,5,-2.3455610157543174,2.3455610157543174,False,Never Felt So Alone,Labrinth featuring Billie Eilish,Ghost In The Machine,SZA featuring Phoebe Bridgers
+2023,pop_solo,s2023__bestpopsoloperformance,ridge_clogit_full,A_official_nominees,5,-2.1516760327542857,2.1516760327542857,False,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,Flowers,Miley Cyrus
+2023,pop_vocal_album,s2023__bestpopvocalalbum,ridge_clogit_full,A_official_nominees,5,-1.151427056085194,1.151427056085194,True,Midnights,Taylor Swift,Midnights,Taylor Swift
+2023,record_of_the_year,s2023__recordoftheyear,ridge_clogit_full,A_official_nominees,8,-2.4613642858389073,2.4613642858389073,False,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,Flowers,Miley Cyrus
+2023,song_of_the_year,s2023__songoftheyear,ridge_clogit_full,A_official_nominees,8,-1.5715073862416773,1.5715073862416773,True,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish
+2024,album_of_the_year,s2024__albumoftheyear,ridge_clogit_billboard,A_official_nominees,8,-2.0183242737626914,2.0183242737626914,False,THE TORTURED POETS DEPARTMENT,Taylor Swift,COWBOY CARTER,Beyonce
+2024,music_video,s2024__bestmusicvideo,ridge_clogit_billboard,A_official_nominees,5,-1.4207261265175684,1.4207261265175684,False,Fortnight,Taylor Swift featuring Post Malone,Not Like Us,Kendrick Lamar
+2024,best_new_artist,s2024__bestnewartist,ridge_clogit_billboard,A_official_nominees,8,-2.025843266667181,2.025843266667181,False,Teddy Swims,Teddy Swims,Chappell Roan,Chappell Roan
+2024,pop_duo_group,s2024__bestpopduogroupperformance,ridge_clogit_billboard,A_official_nominees,5,-1.4923383627890758,1.4923383627890758,False,us.,Gracie Abrams featuring Taylor Swift,Die With A Smile,Lady Gaga and Bruno Mars
+2024,pop_solo,s2024__bestpopsoloperformance,ridge_clogit_billboard,A_official_nominees,5,-1.6094529224478604,1.6094529224478604,False,BIRDS OF A FEATHER,Billie Eilish,Espresso,Sabrina Carpenter
+2024,pop_vocal_album,s2024__bestpopvocalalbum,ridge_clogit_billboard,A_official_nominees,5,-1.7805965633434329,1.7805965633434329,False,THE TORTURED POETS DEPARTMENT,Taylor Swift,Short n' Sweet,Sabrina Carpenter
+2024,record_of_the_year,s2024__recordoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.9125992143116348,1.9125992143116348,False,Fortnight,Taylor Swift featuring Post Malone,Not Like Us,Kendrick Lamar
+2024,song_of_the_year,s2024__songoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.9030599720110382,1.9030599720110382,False,Fortnight,Taylor Swift featuring Post Malone,Not Like Us,Kendrick Lamar
+2024,album_of_the_year,s2024__albumoftheyear,ridge_clogit_full,A_official_nominees,8,-2.2347584850710405,2.2347584850710405,False,HIT ME HARD AND SOFT,Billie Eilish,COWBOY CARTER,Beyonce
+2024,music_video,s2024__bestmusicvideo,ridge_clogit_full,A_official_nominees,5,-1.968867668777026,1.968867668777026,False,Fortnight,Taylor Swift featuring Post Malone,Not Like Us,Kendrick Lamar
+2024,best_new_artist,s2024__bestnewartist,ridge_clogit_full,A_official_nominees,8,-2.0282157972342425,2.0282157972342425,False,Teddy Swims,Teddy Swims,Chappell Roan,Chappell Roan
+2024,pop_duo_group,s2024__bestpopduogroupperformance,ridge_clogit_full,A_official_nominees,5,-1.2927330611772267,1.2927330611772267,True,Die With A Smile,Lady Gaga and Bruno Mars,Die With A Smile,Lady Gaga and Bruno Mars
+2024,pop_solo,s2024__bestpopsoloperformance,ridge_clogit_full,A_official_nominees,5,-1.627538566911865,1.627538566911865,False,BIRDS OF A FEATHER,Billie Eilish,Espresso,Sabrina Carpenter
+2024,pop_vocal_album,s2024__bestpopvocalalbum,ridge_clogit_full,A_official_nominees,5,-1.9047368494325607,1.9047368494325607,False,HIT ME HARD AND SOFT,Billie Eilish,Short n' Sweet,Sabrina Carpenter
+2024,record_of_the_year,s2024__recordoftheyear,ridge_clogit_full,A_official_nominees,8,-2.260503427543065,2.260503427543065,False,Now And Then,The Beatles,Not Like Us,Kendrick Lamar
+2024,song_of_the_year,s2024__songoftheyear,ridge_clogit_full,A_official_nominees,8,-2.265701911402965,2.265701911402965,False,Die With A Smile,Lady Gaga and Bruno Mars,Not Like Us,Kendrick Lamar
+2025,album_of_the_year,s2025__albumoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.9715187850755114,1.9715187850755114,False,Chromakopia,"Tyler, the Creator",Debí Tirar Más Fotos,Bad Bunny
+2025,best_new_artist,s2025__bestnewartist,ridge_clogit_billboard,A_official_nominees,8,-2.7590602519738665,2.7590602519738665,False,The Marías,The Marías,Olivia Dean,Olivia Dean
+2025,music_video,s2025__musicvideo,ridge_clogit_billboard,A_official_nominees,5,-1.6664782968180216,1.6664782968180216,False,Young Lion,Sade,Anxiety,Doechii
+2025,pop_duo_group,s2025__popduogroup,ridge_clogit_billboard,A_official_nominees,5,-1.4223893143184851,1.4223893143184851,False,30 for 30,SZA & Kendrick Lamar,Defying Gravity,Cynthia Erivo & Ariana Grande
+2025,pop_solo,s2025__popsolo,ridge_clogit_billboard,A_official_nominees,5,-1.869885617806935,1.869885617806935,False,Disease,Lady Gaga,Messy,Lola Young
+2025,pop_vocal_album,s2025__popvocalalbum,ridge_clogit_billboard,A_official_nominees,5,-1.4003546212173432,1.4003546212173432,True,Mayhem,Lady Gaga,Mayhem,Lady Gaga
+2025,record_of_the_year,s2025__recordoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.9735712149391547,1.9735712149391547,False,Wildflower,Billie Eilish,Luther,Kendrick Lamar & SZA
+2025,song_of_the_year,s2025__songoftheyear,ridge_clogit_billboard,A_official_nominees,8,-1.7811859506023475,1.7811859506023475,True,Wildflower,Billie Eilish,Wildflower,Billie Eilish
+2025,album_of_the_year,s2025__albumoftheyear,ridge_clogit_full,A_official_nominees,8,-2.4698110727298492,2.4698110727298492,False,Chromakopia,"Tyler, the Creator",Debí Tirar Más Fotos,Bad Bunny
+2025,best_new_artist,s2025__bestnewartist,ridge_clogit_full,A_official_nominees,8,-2.7153789457253557,2.7153789457253557,False,The Marías,The Marías,Olivia Dean,Olivia Dean
+2025,music_video,s2025__musicvideo,ridge_clogit_full,A_official_nominees,5,-1.9532364848100532,1.9532364848100532,False,Manchild,Sabrina Carpenter,Anxiety,Doechii
+2025,pop_duo_group,s2025__popduogroup,ridge_clogit_full,A_official_nominees,5,-1.9581288522317157,1.9581288522317157,False,APT.,Rosé & Bruno Mars,Defying Gravity,Cynthia Erivo & Ariana Grande
+2025,pop_solo,s2025__popsolo,ridge_clogit_full,A_official_nominees,5,-1.8343837455956413,1.8343837455956413,False,Disease,Lady Gaga,Messy,Lola Young
+2025,pop_vocal_album,s2025__popvocalalbum,ridge_clogit_full,A_official_nominees,5,-1.1920730007749412,1.1920730007749412,True,Mayhem,Lady Gaga,Mayhem,Lady Gaga
+2025,record_of_the_year,s2025__recordoftheyear,ridge_clogit_full,A_official_nominees,8,-2.1143722693395244,2.1143722693395244,False,Abracadabra,Lady Gaga,Luther,Kendrick Lamar & SZA
+2025,song_of_the_year,s2025__songoftheyear,ridge_clogit_full,A_official_nominees,8,-1.7985241756611905,1.7985241756611905,True,Wildflower,Billie Eilish,Wildflower,Billie Eilish

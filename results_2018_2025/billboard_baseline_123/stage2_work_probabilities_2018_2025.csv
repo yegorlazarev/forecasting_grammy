@@ -1,0 +1,881 @@
+season,ceremony_year,cat,model,protocol,work_id,title,performer,artist_keys,probability,winner
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__40816fa1a7c6fd88,Dirty Computer,Janelle Monáe,"[""janellemonae""]",0.10311884849082842,0
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__81a7141e2e237030,Beerbongs & Bentleys,Post Malone,"[""postmalone""]",0.1370290337349651,0
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__1454581f58761942,H.E.R.,H.E.R.,"[""her""]",0.13111656000656569,0
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__8ec64f59fd8eed75,Scorpion,Drake,"[""drake""]",0.16154515173568185,0
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__48edc11157ebacee,"By The Way, I Forgive You",Brandi Carlile,"[""brandicarlile""]",0.0910384893209022,0
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__489757f2d39ac6e4,Invasion Of Privacy,Cardi B,"[""cardib""]",0.11917946004914785,0
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__63142ef20caab7ff,Golden Hour,Kacey Musgraves,"[""kaceymusgraves""]",0.11430826219061958,1
+2018,2019,album_of_the_year,billboard_logit,A_official_nominees,s2018__albumoftheyear__5a7359c17db090ba,"Black Panther: The Album, Music From And Inspired By",Various Artists,"[""variousartists""]",0.14266419447128928,0
+2018,2019,music_video,billboard_logit,A_official_nominees,s2018__bestmusicvideo__269dd233a42b6dd8,This Is America,Childish Gambino,"[""childishgambino""]",0.21950276046828027,1
+2018,2019,music_video,billboard_logit,A_official_nominees,s2018__bestmusicvideo__afbcafe26ad3bc57,MUMBO JUMBO,Tierra Whack,"[""tierrawhack""]",0.21338916242698558,0
+2018,2019,music_video,billboard_logit,A_official_nominees,s2018__bestmusicvideo__c2270687ae721550,PYNK,Janelle Monáe,"[""janellemonae""]",0.16939580701308476,0
+2018,2019,music_video,billboard_logit,A_official_nominees,s2018__bestmusicvideo__2342235557ebff19,I'm Not Racist,Joyner Lucas,"[""joynerlucas""]",0.18534293874970598,0
+2018,2019,music_video,billboard_logit,A_official_nominees,s2018__bestmusicvideo__d40d27e612fa5077,Apes***,The Carters,"[""carters""]",0.2123693313419434,0
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__4fcce1e1ad514230,Bebe Rexha,Bebe Rexha,"[""beberexha""]",0.1501205945763724,0
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__310b1b5523000361,Margo Price,Margo Price,"[""margoprice""]",0.09524426978969894,0
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__1454581f58761942,H.E.R.,H.E.R.,"[""her""]",0.1390595614114465,0
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__6f69ffb91e098040,Dua Lipa,Dua Lipa,"[""dualipa""]",0.15239237275831818,1
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__3217f510ef8c3f85,Jorja Smith,Jorja Smith,"[""jorjasmith""]",0.09841691675522884,0
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__1452d2f1f93b1565,Greta Van Fleet,Greta Van Fleet,"[""gretavanfleet""]",0.12157628455982754,0
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__763b3a8efad50ca5,Luke Combs,Luke Combs,"[""lukecombs""]",0.14794573035940875,0
+2018,2019,best_new_artist,billboard_logit,A_official_nominees,s2018__bestnewartist__43586b83a7b70285,Chloe x Halle,Chloe x Halle,"[""chloexhalle""]",0.09524426978969894,0
+2018,2019,pop_duo_group,billboard_logit,A_official_nominees,s2018__bestpopduogroupperformance__6de0827060b5df47,Don't Go Breaking My Heart,Backstreet Boys,"[""backstreetboys""]",0.13797043467492276,0
+2018,2019,pop_duo_group,billboard_logit,A_official_nominees,s2018__bestpopduogroupperformance__f684bcb8c761abca,Fall In Line,Christina Aguilera featuring Demi Lovato,"[""christinaaguilera"", ""demilovato""]",0.15688501370198693,0
+2018,2019,pop_duo_group,billboard_logit,A_official_nominees,s2018__bestpopduogroupperformance__2e92ee29cfd75d3f,Shallow,Lady Gaga and Bradley Cooper,"[""bradleycooper"", ""ladygaga""]",0.10962882126539998,1
+2018,2019,pop_duo_group,billboard_logit,A_official_nominees,s2018__bestpopduogroupperformance__f26dd6afe3cfc0d5,The Middle,"Zedd, Maren Morris and Grey","[""grey"", ""marenmorris"", ""zedd""]",0.15688501370198693,0
+2018,2019,pop_duo_group,billboard_logit,A_official_nominees,s2018__bestpopduogroupperformance__45c7f64a1042d711,Say Something,Justin Timberlake featuring Chris Stapleton,"[""chrisstapleton"", ""justintimberlake""]",0.15238228685591224,0
+2018,2019,pop_duo_group,billboard_logit,A_official_nominees,s2018__bestpopduogroupperformance__8a39bccd10fe4488,Girls Like You,Maroon 5 featuring Cardi B,"[""cardib"", ""maroon5""]",0.1766196085343914,0
+2018,2019,pop_duo_group,billboard_logit,A_official_nominees,s2018__bestpopduogroupperformance__af47dc3ea108fd58,'S Wonderful,Tony Bennett and Diana Krall,"[""dianakrall"", ""tonybennett""]",0.10962882126539998,0
+2018,2019,pop_solo,billboard_logit,A_official_nominees,s2018__bestpopsoloperformance__e98a624518eaa030,Joanne (Where Do You Think You're Goin'?),Lady Gaga,"[""ladygaga""]",0.15234601967381092,1
+2018,2019,pop_solo,billboard_logit,A_official_nominees,s2018__bestpopsoloperformance__c9bfc794881d63d9,Better Now,Post Malone,"[""postmalone""]",0.24867655292558002,0
+2018,2019,pop_solo,billboard_logit,A_official_nominees,s2018__bestpopsoloperformance__07ca672fb5641c8b,God Is A Woman,Ariana Grande,"[""arianagrande""]",0.21891878910105628,0
+2018,2019,pop_solo,billboard_logit,A_official_nominees,s2018__bestpopsoloperformance__7142e5c1a3431f12,Havana (Live),Camila Cabello,"[""camilacabello""]",0.22771261862574174,0
+2018,2019,pop_solo,billboard_logit,A_official_nominees,s2018__bestpopsoloperformance__88c45d9e526c08dd,Colors,Beck,"[""beck""]",0.15234601967381092,0
+2018,2019,pop_vocal_album,billboard_logit,A_official_nominees,s2018__bestpopvocalalbum__99eb70285a3b1c57,Sweetener,Ariana Grande,"[""arianagrande""]",0.1671817846040633,1
+2018,2019,pop_vocal_album,billboard_logit,A_official_nominees,s2018__bestpopvocalalbum__d11e6e7899feb37d,Reputation,Taylor Swift,"[""taylorswift""]",0.18555281129541615,0
+2018,2019,pop_vocal_album,billboard_logit,A_official_nominees,s2018__bestpopvocalalbum__87016668dddad29f,Meaning Of Life,Kelly Clarkson,"[""kellyclarkson""]",0.1510502277250562,0
+2018,2019,pop_vocal_album,billboard_logit,A_official_nominees,s2018__bestpopvocalalbum__80d161545383dd77,Camila,Camila Cabello,"[""camilacabello""]",0.1590568510400117,0
+2018,2019,pop_vocal_album,billboard_logit,A_official_nominees,s2018__bestpopvocalalbum__43946a72c635f2a0,Beautiful Trauma,Pink,"[""pink""]",0.16146512297229634,0
+2018,2019,pop_vocal_album,billboard_logit,A_official_nominees,s2018__bestpopvocalalbum__168ea431d02aae6d,Shawn Mendes,Shawn Mendes,"[""shawnmendes""]",0.17569320236315625,0
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__269dd233a42b6dd8,This Is America,Childish Gambino,"[""childishgambino""]",0.12041221486559642,1
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__f26dd6afe3cfc0d5,The Middle,"Zedd, Maren Morris & Grey","[""grey"", ""marenmorris"", ""zedd""]",0.12691402450329312,0
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__78473ac888197c93,Rockstar,Post Malone featuring 21 Savage,"[""21savage"", ""postmalone""]",0.1514396325214629,0
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__8389ba09e5468021,God's Plan,Drake,"[""drake""]",0.15796136632427787,0
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__9930874a248a667e,The Joke,Brandi Carlile,"[""brandicarlile""]",0.0781580763908944,0
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__9ed8d927a3117598,I Like It,"Cardi B, Bad Bunny & J Balvin","[""badbunny"", ""cardib"", ""jbalvin""]",0.1455832922702387,0
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__b8d16d6792d42a7e,All The Stars,Kendrick Lamar & SZA,"[""kendricklamar"", ""sza""]",0.1413733167333421,0
+2018,2019,record_of_the_year,billboard_logit,A_official_nominees,s2018__recordoftheyear__2e92ee29cfd75d3f,Shallow,Lady Gaga & Bradley Cooper,"[""bradleycooper"", ""ladygaga""]",0.0781580763908944,0
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__f26dd6afe3cfc0d5,The Middle,"Zedd, Maren Morris and Grey","[""grey"", ""marenmorris"", ""zedd""]",0.13355294968872083,0
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__269dd233a42b6dd8,This Is America,Childish Gambino,"[""childishgambino""]",0.1263749703657805,1
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__2e92ee29cfd75d3f,Shallow,Lady Gaga and Bradley Cooper,"[""bradleycooper"", ""ladygaga""]",0.0802575540053018,0
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__8389ba09e5468021,God's Plan,Drake,"[""drake""]",0.1680715570314461,0
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__31aa4dc05c94d975,Boo'd Up,Ella Mai,"[""ellamai""]",0.1292359389986513,0
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__b8d16d6792d42a7e,All The Stars,Kendrick Lamar and SZA,"[""kendricklamar"", ""sza""]",0.14958139578092378,0
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__9930874a248a667e,The Joke,Brandi Carlile,"[""brandicarlile""]",0.0802575540053018,0
+2018,2019,song_of_the_year,billboard_logit,A_official_nominees,s2018__songoftheyear__259ebde5517fa047,In My Blood,Shawn Mendes,"[""shawnmendes""]",0.13266808012387385,0
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__40816fa1a7c6fd88,Dirty Computer,Janelle Monáe,"[""janellemonae""]",0.12500000000000003,0
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__81a7141e2e237030,Beerbongs & Bentleys,Post Malone,"[""postmalone""]",0.12500000000000003,0
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__1454581f58761942,H.E.R.,H.E.R.,"[""her""]",0.12500000000000003,0
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__8ec64f59fd8eed75,Scorpion,Drake,"[""drake""]",0.12500000000000003,0
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__48edc11157ebacee,"By The Way, I Forgive You",Brandi Carlile,"[""brandicarlile""]",0.12500000000000003,0
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__489757f2d39ac6e4,Invasion Of Privacy,Cardi B,"[""cardib""]",0.12500000000000003,0
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__63142ef20caab7ff,Golden Hour,Kacey Musgraves,"[""kaceymusgraves""]",0.12500000000000003,1
+2018,2019,album_of_the_year,uniform_reference,A_official_nominees,s2018__albumoftheyear__5a7359c17db090ba,"Black Panther: The Album, Music From And Inspired By",Various Artists,"[""variousartists""]",0.12500000000000003,0
+2018,2019,music_video,uniform_reference,A_official_nominees,s2018__bestmusicvideo__269dd233a42b6dd8,This Is America,Childish Gambino,"[""childishgambino""]",0.2,1
+2018,2019,music_video,uniform_reference,A_official_nominees,s2018__bestmusicvideo__afbcafe26ad3bc57,MUMBO JUMBO,Tierra Whack,"[""tierrawhack""]",0.2,0
+2018,2019,music_video,uniform_reference,A_official_nominees,s2018__bestmusicvideo__c2270687ae721550,PYNK,Janelle Monáe,"[""janellemonae""]",0.2,0
+2018,2019,music_video,uniform_reference,A_official_nominees,s2018__bestmusicvideo__2342235557ebff19,I'm Not Racist,Joyner Lucas,"[""joynerlucas""]",0.2,0
+2018,2019,music_video,uniform_reference,A_official_nominees,s2018__bestmusicvideo__d40d27e612fa5077,Apes***,The Carters,"[""carters""]",0.2,0
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__4fcce1e1ad514230,Bebe Rexha,Bebe Rexha,"[""beberexha""]",0.12500000000000003,0
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__310b1b5523000361,Margo Price,Margo Price,"[""margoprice""]",0.12500000000000003,0
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__1454581f58761942,H.E.R.,H.E.R.,"[""her""]",0.12500000000000003,0
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__6f69ffb91e098040,Dua Lipa,Dua Lipa,"[""dualipa""]",0.12500000000000003,1
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__3217f510ef8c3f85,Jorja Smith,Jorja Smith,"[""jorjasmith""]",0.12500000000000003,0
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__1452d2f1f93b1565,Greta Van Fleet,Greta Van Fleet,"[""gretavanfleet""]",0.12500000000000003,0
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__763b3a8efad50ca5,Luke Combs,Luke Combs,"[""lukecombs""]",0.12500000000000003,0
+2018,2019,best_new_artist,uniform_reference,A_official_nominees,s2018__bestnewartist__43586b83a7b70285,Chloe x Halle,Chloe x Halle,"[""chloexhalle""]",0.12500000000000003,0
+2018,2019,pop_duo_group,uniform_reference,A_official_nominees,s2018__bestpopduogroupperformance__6de0827060b5df47,Don't Go Breaking My Heart,Backstreet Boys,"[""backstreetboys""]",0.14285714285714288,0
+2018,2019,pop_duo_group,uniform_reference,A_official_nominees,s2018__bestpopduogroupperformance__f684bcb8c761abca,Fall In Line,Christina Aguilera featuring Demi Lovato,"[""christinaaguilera"", ""demilovato""]",0.14285714285714288,0
+2018,2019,pop_duo_group,uniform_reference,A_official_nominees,s2018__bestpopduogroupperformance__2e92ee29cfd75d3f,Shallow,Lady Gaga and Bradley Cooper,"[""bradleycooper"", ""ladygaga""]",0.14285714285714288,1
+2018,2019,pop_duo_group,uniform_reference,A_official_nominees,s2018__bestpopduogroupperformance__f26dd6afe3cfc0d5,The Middle,"Zedd, Maren Morris and Grey","[""grey"", ""marenmorris"", ""zedd""]",0.14285714285714288,0
+2018,2019,pop_duo_group,uniform_reference,A_official_nominees,s2018__bestpopduogroupperformance__45c7f64a1042d711,Say Something,Justin Timberlake featuring Chris Stapleton,"[""chrisstapleton"", ""justintimberlake""]",0.14285714285714288,0
+2018,2019,pop_duo_group,uniform_reference,A_official_nominees,s2018__bestpopduogroupperformance__8a39bccd10fe4488,Girls Like You,Maroon 5 featuring Cardi B,"[""cardib"", ""maroon5""]",0.14285714285714288,0
+2018,2019,pop_duo_group,uniform_reference,A_official_nominees,s2018__bestpopduogroupperformance__af47dc3ea108fd58,'S Wonderful,Tony Bennett and Diana Krall,"[""dianakrall"", ""tonybennett""]",0.14285714285714288,0
+2018,2019,pop_solo,uniform_reference,A_official_nominees,s2018__bestpopsoloperformance__e98a624518eaa030,Joanne (Where Do You Think You're Goin'?),Lady Gaga,"[""ladygaga""]",0.2,1
+2018,2019,pop_solo,uniform_reference,A_official_nominees,s2018__bestpopsoloperformance__c9bfc794881d63d9,Better Now,Post Malone,"[""postmalone""]",0.2,0
+2018,2019,pop_solo,uniform_reference,A_official_nominees,s2018__bestpopsoloperformance__07ca672fb5641c8b,God Is A Woman,Ariana Grande,"[""arianagrande""]",0.2,0
+2018,2019,pop_solo,uniform_reference,A_official_nominees,s2018__bestpopsoloperformance__7142e5c1a3431f12,Havana (Live),Camila Cabello,"[""camilacabello""]",0.2,0
+2018,2019,pop_solo,uniform_reference,A_official_nominees,s2018__bestpopsoloperformance__88c45d9e526c08dd,Colors,Beck,"[""beck""]",0.2,0
+2018,2019,pop_vocal_album,uniform_reference,A_official_nominees,s2018__bestpopvocalalbum__99eb70285a3b1c57,Sweetener,Ariana Grande,"[""arianagrande""]",0.16666666666666669,1
+2018,2019,pop_vocal_album,uniform_reference,A_official_nominees,s2018__bestpopvocalalbum__d11e6e7899feb37d,Reputation,Taylor Swift,"[""taylorswift""]",0.16666666666666669,0
+2018,2019,pop_vocal_album,uniform_reference,A_official_nominees,s2018__bestpopvocalalbum__87016668dddad29f,Meaning Of Life,Kelly Clarkson,"[""kellyclarkson""]",0.16666666666666669,0
+2018,2019,pop_vocal_album,uniform_reference,A_official_nominees,s2018__bestpopvocalalbum__80d161545383dd77,Camila,Camila Cabello,"[""camilacabello""]",0.16666666666666669,0
+2018,2019,pop_vocal_album,uniform_reference,A_official_nominees,s2018__bestpopvocalalbum__43946a72c635f2a0,Beautiful Trauma,Pink,"[""pink""]",0.16666666666666669,0
+2018,2019,pop_vocal_album,uniform_reference,A_official_nominees,s2018__bestpopvocalalbum__168ea431d02aae6d,Shawn Mendes,Shawn Mendes,"[""shawnmendes""]",0.16666666666666669,0
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__269dd233a42b6dd8,This Is America,Childish Gambino,"[""childishgambino""]",0.12500000000000003,1
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__f26dd6afe3cfc0d5,The Middle,"Zedd, Maren Morris & Grey","[""grey"", ""marenmorris"", ""zedd""]",0.12500000000000003,0
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__78473ac888197c93,Rockstar,Post Malone featuring 21 Savage,"[""21savage"", ""postmalone""]",0.12500000000000003,0
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__8389ba09e5468021,God's Plan,Drake,"[""drake""]",0.12500000000000003,0
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__9930874a248a667e,The Joke,Brandi Carlile,"[""brandicarlile""]",0.12500000000000003,0
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__9ed8d927a3117598,I Like It,"Cardi B, Bad Bunny & J Balvin","[""badbunny"", ""cardib"", ""jbalvin""]",0.12500000000000003,0
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__b8d16d6792d42a7e,All The Stars,Kendrick Lamar & SZA,"[""kendricklamar"", ""sza""]",0.12500000000000003,0
+2018,2019,record_of_the_year,uniform_reference,A_official_nominees,s2018__recordoftheyear__2e92ee29cfd75d3f,Shallow,Lady Gaga & Bradley Cooper,"[""bradleycooper"", ""ladygaga""]",0.12500000000000003,0
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__f26dd6afe3cfc0d5,The Middle,"Zedd, Maren Morris and Grey","[""grey"", ""marenmorris"", ""zedd""]",0.12500000000000003,0
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__269dd233a42b6dd8,This Is America,Childish Gambino,"[""childishgambino""]",0.12500000000000003,1
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__2e92ee29cfd75d3f,Shallow,Lady Gaga and Bradley Cooper,"[""bradleycooper"", ""ladygaga""]",0.12500000000000003,0
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__8389ba09e5468021,God's Plan,Drake,"[""drake""]",0.12500000000000003,0
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__31aa4dc05c94d975,Boo'd Up,Ella Mai,"[""ellamai""]",0.12500000000000003,0
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__b8d16d6792d42a7e,All The Stars,Kendrick Lamar and SZA,"[""kendricklamar"", ""sza""]",0.12500000000000003,0
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__9930874a248a667e,The Joke,Brandi Carlile,"[""brandicarlile""]",0.12500000000000003,0
+2018,2019,song_of_the_year,uniform_reference,A_official_nominees,s2018__songoftheyear__259ebde5517fa047,In My Blood,Shawn Mendes,"[""shawnmendes""]",0.12500000000000003,0
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__c06cc575eda2d765,"thank u, next",Ariana Grande,"[""arianagrande""]",0.1478997189488473,0
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__b50651d1906f745d,"I,I",Bon Iver,"[""boniver""]",0.10384968191328743,0
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__07937c1aa1f43a56,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,"[""billieeilish""]",0.14043281464120358,1
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__07dc5a455229a1b8,Father Of The Bride,Vampire Weekend,"[""vampireweekend""]",0.11077622864789644,0
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__a0026d8bdf75a806,Cuz I Love You (Deluxe),Lizzo,"[""lizzo""]",0.12733950501301422,0
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__7902699be42c8a8e,7,Lil Nas X,"[""lilnasx""]",0.11628534625705222,0
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__01ec9c85fde13f0a,I Used To Know Her,H.E.R.,"[""her""]",0.1354130813608337,0
+2019,2020,album_of_the_year,billboard_logit,A_official_nominees,s2019__albumoftheyear__f047b8211ebd442c,Norman F***ing Rockwell!,Lana Del Rey,"[""lanadelrey""]",0.11800362321786513,0
+2019,2020,music_video,billboard_logit,A_official_nominees,s2019__bestmusicvideo__e96fd1802bd38934,Old Town Road (Official Movie),Lil Nas X featuring Billy Ray Cyrus,"[""billyraycyrus"", ""lilnasx""]",0.21824790154059445,1
+2019,2020,music_video,billboard_logit,A_official_nominees,s2019__bestmusicvideo__8caae0f670820a23,Glad He's Gone,Tove Lo,"[""tovelo""]",0.20749182132338853,0
+2019,2020,music_video,billboard_logit,A_official_nominees,s2019__bestmusicvideo__a70318bfe67b0c96,Cellophane,FKA Twigs,"[""fkatwigs""]",0.20749182132338853,0
+2019,2020,music_video,billboard_logit,A_official_nominees,s2019__bestmusicvideo__c91f4ef2875a7321,This Land,Gary Clark Jr.,"[""garyclarkjr""]",0.15927663448924004,0
+2019,2020,music_video,billboard_logit,A_official_nominees,s2019__bestmusicvideo__72ec623657d23c25,We've Got To Try,Chemical Brothers,"[""chemicalbrothers""]",0.20749182132338853,0
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__85f9754ed2e789a8,Black Pumas,Black Pumas,"[""blackpumas""]",0.12630975031068128,0
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__8524d5a2ec0175fe,Billie Eilish,Billie Eilish,"[""billieeilish""]",0.144261466003798,1
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__bb6b6eaa78c35be3,Lizzo,Lizzo,"[""lizzo""]",0.12758219187724304,0
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__c68f61f7168c0488,Lil Nas X,Lil Nas X,"[""lilnasx""]",0.12268148555743894,0
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__6edd382e5ca7814d,Yola,Yola,"[""yola""]",0.12630975031068128,0
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__1c06401a48cd1a68,Tank And The Bangas,Tank And The Bangas,"[""tankandthebangas""]",0.12630975031068128,0
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__e4c743b9b30a0281,ROSALÍA,ROSALÍA,"[""rosalia""]",0.12630975031068128,0
+2019,2020,best_new_artist,billboard_logit,A_official_nominees,s2019__bestnewartist__a5aeec8391cf9606,Maggie Rogers,Maggie Rogers,"[""maggierogers""]",0.10023585531879506,0
+2019,2020,pop_duo_group,billboard_logit,A_official_nominees,s2019__bestpopduogroupperformance__e4f3394162a90449,Old Town Road,Lil Nas X featuring Billy Ray Cyrus,"[""billyraycyrus"", ""lilnasx""]",0.1902870331473504,1
+2019,2020,pop_duo_group,billboard_logit,A_official_nominees,s2019__bestpopduogroupperformance__36f39c4caed80077,Señorita,Shawn Mendes and Camila Cabello,"[""camilacabello"", ""shawnmendes""]",0.19551520971138836,0
+2019,2020,pop_duo_group,billboard_logit,A_official_nominees,s2019__bestpopduogroupperformance__875af21cd687e882,Sunflower,Post Malone and Swae Lee,"[""postmalone"", ""swaelee""]",0.21157487698004032,0
+2019,2020,pop_duo_group,billboard_logit,A_official_nominees,s2019__bestpopduogroupperformance__5e4ac0715f4a09d5,Sucker,Jonas Brothers,"[""jonasbrothers""]",0.1986230206762428,0
+2019,2020,pop_duo_group,billboard_logit,A_official_nominees,s2019__bestpopduogroupperformance__88330e460cb91f52,Boyfriend,Ariana Grande and Social House,"[""arianagrande"", ""socialhouse""]",0.20399985948497817,0
+2019,2020,pop_solo,billboard_logit,A_official_nominees,s2019__bestpopsoloperformance__5939f69aaa13b78e,Truth Hurts,Lizzo,"[""lizzo""]",0.187939400197901,1
+2019,2020,pop_solo,billboard_logit,A_official_nominees,s2019__bestpopsoloperformance__bc10e518fe6165f1,You Need To Calm Down,Taylor Swift,"[""taylorswift""]",0.20089024407810985,0
+2019,2020,pop_solo,billboard_logit,A_official_nominees,s2019__bestpopsoloperformance__fb98efcaee7acff3,7 rings,Ariana Grande,"[""arianagrande""]",0.21479153503314896,0
+2019,2020,pop_solo,billboard_logit,A_official_nominees,s2019__bestpopsoloperformance__d835e27d57f1bf67,Bad Guy,Billie Eilish,"[""billieeilish""]",0.21382136092331505,0
+2019,2020,pop_solo,billboard_logit,A_official_nominees,s2019__bestpopsoloperformance__57e39463d863391c,Spirit,Beyoncé,"[""beyonce""]",0.18255745976752508,0
+2019,2020,pop_vocal_album,billboard_logit,A_official_nominees,s2019__bestpopvocalalbum__07937c1aa1f43a56,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,"[""billieeilish""]",0.19583167645184776,1
+2019,2020,pop_vocal_album,billboard_logit,A_official_nominees,s2019__bestpopvocalalbum__63e677657b108e4c,Lover,Taylor Swift,"[""taylorswift""]",0.20604627607510692,0
+2019,2020,pop_vocal_album,billboard_logit,A_official_nominees,s2019__bestpopvocalalbum__891744245d5a1200,No.6 Collaborations Project,Ed Sheeran,"[""edsheeran""]",0.20604627607510692,0
+2019,2020,pop_vocal_album,billboard_logit,A_official_nominees,s2019__bestpopvocalalbum__c06cc575eda2d765,"thank u, next",Ariana Grande,"[""arianagrande""]",0.20830871910199833,0
+2019,2020,pop_vocal_album,billboard_logit,A_official_nominees,s2019__bestpopvocalalbum__682e49fd0f06564e,The Lion King: The Gift,Beyoncé,"[""beyonce""]",0.1837670522959402,0
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__d835e27d57f1bf67,Bad Guy,Billie Eilish,"[""billieeilish""]",0.1413263518867833,1
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__875af21cd687e882,Sunflower,Post Malone & Swae Lee,"[""postmalone"", ""swaelee""]",0.13913143514640258,0
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__5939f69aaa13b78e,Truth Hurts,Lizzo,"[""lizzo""]",0.11893783027952821,0
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__e4f3394162a90449,Old Town Road,Lil Nas X featuring Billy Ray Cyrus,"[""billyraycyrus"", ""lilnasx""]",0.12183214822397484,0
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__449f5a775762cdc5,Talk,Khalid,"[""khalid""]",0.14546337384233352,0
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__70f043036903d8ee,Hard Place,H.E.R.,"[""her""]",0.10747633095116907,0
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__fb98efcaee7acff3,7 rings,Ariana Grande,"[""arianagrande""]",0.14218419378030117,0
+2019,2020,record_of_the_year,billboard_logit,A_official_nominees,s2019__recordoftheyear__01382ed8e08daa15,"Hey, Ma",Bon Iver,"[""boniver""]",0.08364833588950768,0
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__d835e27d57f1bf67,Bad Guy,Billie Eilish,"[""billieeilish""]",0.1549947877409344,1
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__5939f69aaa13b78e,Truth Hurts,Lizzo,"[""lizzo""]",0.1292081875361256,0
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__fb629c1fe2e82ce9,Someone You Loved,Lewis Capaldi,"[""lewiscapaldi""]",0.12402057935765567,0
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__265f1961212cb84b,Norman F***ing Rockwell,Lana Del Rey,"[""lanadelrey""]",0.10385052065064874,0
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__63e677657b108e4c,Lover,Taylor Swift,"[""taylorswift""]",0.14194080945569565,0
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__70f043036903d8ee,Hard Place,H.E.R.,"[""her""]",0.11610741686611872,0
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__6bdc267fedf068a5,Bring My Flowers Now,Tanya Tucker,"[""tanyatucker""]",0.08912739359657458,0
+2019,2020,song_of_the_year,billboard_logit,A_official_nominees,s2019__songoftheyear__5fdd7b4fafe710cf,Always Remember Us This Way,Lady Gaga,"[""ladygaga""]",0.14075030479624662,0
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__c06cc575eda2d765,"thank u, next",Ariana Grande,"[""arianagrande""]",0.12500000000000003,0
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__b50651d1906f745d,"I,I",Bon Iver,"[""boniver""]",0.12500000000000003,0
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__07937c1aa1f43a56,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,"[""billieeilish""]",0.12500000000000003,1
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__07dc5a455229a1b8,Father Of The Bride,Vampire Weekend,"[""vampireweekend""]",0.12500000000000003,0
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__a0026d8bdf75a806,Cuz I Love You (Deluxe),Lizzo,"[""lizzo""]",0.12500000000000003,0
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__7902699be42c8a8e,7,Lil Nas X,"[""lilnasx""]",0.12500000000000003,0
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__01ec9c85fde13f0a,I Used To Know Her,H.E.R.,"[""her""]",0.12500000000000003,0
+2019,2020,album_of_the_year,uniform_reference,A_official_nominees,s2019__albumoftheyear__f047b8211ebd442c,Norman F***ing Rockwell!,Lana Del Rey,"[""lanadelrey""]",0.12500000000000003,0
+2019,2020,music_video,uniform_reference,A_official_nominees,s2019__bestmusicvideo__e96fd1802bd38934,Old Town Road (Official Movie),Lil Nas X featuring Billy Ray Cyrus,"[""billyraycyrus"", ""lilnasx""]",0.2,1
+2019,2020,music_video,uniform_reference,A_official_nominees,s2019__bestmusicvideo__8caae0f670820a23,Glad He's Gone,Tove Lo,"[""tovelo""]",0.2,0
+2019,2020,music_video,uniform_reference,A_official_nominees,s2019__bestmusicvideo__a70318bfe67b0c96,Cellophane,FKA Twigs,"[""fkatwigs""]",0.2,0
+2019,2020,music_video,uniform_reference,A_official_nominees,s2019__bestmusicvideo__c91f4ef2875a7321,This Land,Gary Clark Jr.,"[""garyclarkjr""]",0.2,0
+2019,2020,music_video,uniform_reference,A_official_nominees,s2019__bestmusicvideo__72ec623657d23c25,We've Got To Try,Chemical Brothers,"[""chemicalbrothers""]",0.2,0
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__85f9754ed2e789a8,Black Pumas,Black Pumas,"[""blackpumas""]",0.12500000000000003,0
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__8524d5a2ec0175fe,Billie Eilish,Billie Eilish,"[""billieeilish""]",0.12500000000000003,1
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__bb6b6eaa78c35be3,Lizzo,Lizzo,"[""lizzo""]",0.12500000000000003,0
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__c68f61f7168c0488,Lil Nas X,Lil Nas X,"[""lilnasx""]",0.12500000000000003,0
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__6edd382e5ca7814d,Yola,Yola,"[""yola""]",0.12500000000000003,0
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__1c06401a48cd1a68,Tank And The Bangas,Tank And The Bangas,"[""tankandthebangas""]",0.12500000000000003,0
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__e4c743b9b30a0281,ROSALÍA,ROSALÍA,"[""rosalia""]",0.12500000000000003,0
+2019,2020,best_new_artist,uniform_reference,A_official_nominees,s2019__bestnewartist__a5aeec8391cf9606,Maggie Rogers,Maggie Rogers,"[""maggierogers""]",0.12500000000000003,0
+2019,2020,pop_duo_group,uniform_reference,A_official_nominees,s2019__bestpopduogroupperformance__e4f3394162a90449,Old Town Road,Lil Nas X featuring Billy Ray Cyrus,"[""billyraycyrus"", ""lilnasx""]",0.2,1
+2019,2020,pop_duo_group,uniform_reference,A_official_nominees,s2019__bestpopduogroupperformance__36f39c4caed80077,Señorita,Shawn Mendes and Camila Cabello,"[""camilacabello"", ""shawnmendes""]",0.2,0
+2019,2020,pop_duo_group,uniform_reference,A_official_nominees,s2019__bestpopduogroupperformance__875af21cd687e882,Sunflower,Post Malone and Swae Lee,"[""postmalone"", ""swaelee""]",0.2,0
+2019,2020,pop_duo_group,uniform_reference,A_official_nominees,s2019__bestpopduogroupperformance__5e4ac0715f4a09d5,Sucker,Jonas Brothers,"[""jonasbrothers""]",0.2,0
+2019,2020,pop_duo_group,uniform_reference,A_official_nominees,s2019__bestpopduogroupperformance__88330e460cb91f52,Boyfriend,Ariana Grande and Social House,"[""arianagrande"", ""socialhouse""]",0.2,0
+2019,2020,pop_solo,uniform_reference,A_official_nominees,s2019__bestpopsoloperformance__5939f69aaa13b78e,Truth Hurts,Lizzo,"[""lizzo""]",0.2,1
+2019,2020,pop_solo,uniform_reference,A_official_nominees,s2019__bestpopsoloperformance__bc10e518fe6165f1,You Need To Calm Down,Taylor Swift,"[""taylorswift""]",0.2,0
+2019,2020,pop_solo,uniform_reference,A_official_nominees,s2019__bestpopsoloperformance__fb98efcaee7acff3,7 rings,Ariana Grande,"[""arianagrande""]",0.2,0
+2019,2020,pop_solo,uniform_reference,A_official_nominees,s2019__bestpopsoloperformance__d835e27d57f1bf67,Bad Guy,Billie Eilish,"[""billieeilish""]",0.2,0
+2019,2020,pop_solo,uniform_reference,A_official_nominees,s2019__bestpopsoloperformance__57e39463d863391c,Spirit,Beyoncé,"[""beyonce""]",0.2,0
+2019,2020,pop_vocal_album,uniform_reference,A_official_nominees,s2019__bestpopvocalalbum__07937c1aa1f43a56,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,"[""billieeilish""]",0.2,1
+2019,2020,pop_vocal_album,uniform_reference,A_official_nominees,s2019__bestpopvocalalbum__63e677657b108e4c,Lover,Taylor Swift,"[""taylorswift""]",0.2,0
+2019,2020,pop_vocal_album,uniform_reference,A_official_nominees,s2019__bestpopvocalalbum__891744245d5a1200,No.6 Collaborations Project,Ed Sheeran,"[""edsheeran""]",0.2,0
+2019,2020,pop_vocal_album,uniform_reference,A_official_nominees,s2019__bestpopvocalalbum__c06cc575eda2d765,"thank u, next",Ariana Grande,"[""arianagrande""]",0.2,0
+2019,2020,pop_vocal_album,uniform_reference,A_official_nominees,s2019__bestpopvocalalbum__682e49fd0f06564e,The Lion King: The Gift,Beyoncé,"[""beyonce""]",0.2,0
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__d835e27d57f1bf67,Bad Guy,Billie Eilish,"[""billieeilish""]",0.12500000000000003,1
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__875af21cd687e882,Sunflower,Post Malone & Swae Lee,"[""postmalone"", ""swaelee""]",0.12500000000000003,0
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__5939f69aaa13b78e,Truth Hurts,Lizzo,"[""lizzo""]",0.12500000000000003,0
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__e4f3394162a90449,Old Town Road,Lil Nas X featuring Billy Ray Cyrus,"[""billyraycyrus"", ""lilnasx""]",0.12500000000000003,0
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__449f5a775762cdc5,Talk,Khalid,"[""khalid""]",0.12500000000000003,0
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__70f043036903d8ee,Hard Place,H.E.R.,"[""her""]",0.12500000000000003,0
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__fb98efcaee7acff3,7 rings,Ariana Grande,"[""arianagrande""]",0.12500000000000003,0
+2019,2020,record_of_the_year,uniform_reference,A_official_nominees,s2019__recordoftheyear__01382ed8e08daa15,"Hey, Ma",Bon Iver,"[""boniver""]",0.12500000000000003,0
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__d835e27d57f1bf67,Bad Guy,Billie Eilish,"[""billieeilish""]",0.12500000000000003,1
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__5939f69aaa13b78e,Truth Hurts,Lizzo,"[""lizzo""]",0.12500000000000003,0
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__fb629c1fe2e82ce9,Someone You Loved,Lewis Capaldi,"[""lewiscapaldi""]",0.12500000000000003,0
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__265f1961212cb84b,Norman F***ing Rockwell,Lana Del Rey,"[""lanadelrey""]",0.12500000000000003,0
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__63e677657b108e4c,Lover,Taylor Swift,"[""taylorswift""]",0.12500000000000003,0
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__70f043036903d8ee,Hard Place,H.E.R.,"[""her""]",0.12500000000000003,0
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__6bdc267fedf068a5,Bring My Flowers Now,Tanya Tucker,"[""tanyatucker""]",0.12500000000000003,0
+2019,2020,song_of_the_year,uniform_reference,A_official_nominees,s2019__songoftheyear__5fdd7b4fafe710cf,Always Remember Us This Way,Lady Gaga,"[""ladygaga""]",0.12500000000000003,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__e07bb647b2c89f73,Chilombo,Jhené Aiko,"[""jheneaiko""]",0.12428782549307837,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__14f8beeade2b50ad,Black Pumas (Deluxe Edition),Black Pumas,"[""blackpumas""]",0.12601787107666754,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__9e179e970b275151,Everyday Life,Coldplay,"[""coldplay""]",0.10179882684007002,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__a0dcb884bcb3c1aa,Djesse Vol.3,Jacob Collier,"[""jacobcollier""]",0.12601787107666754,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__2aab557fbf71e14b,Women In Music Pt. III,Haim,"[""haim""]",0.08537696694961697,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__61c1097c2391ff7c,Future Nostalgia,Dua Lipa,"[""dualipa""]",0.12239646372699498,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__c456d4ee48e89dfa,Hollywood's Bleeding,Post Malone,"[""postmalone""]",0.1575550422342346,0
+2020,2021,album_of_the_year,billboard_logit,A_official_nominees,s2020__albumoftheyear__6a0c6bd26d77310d,Folklore,Taylor Swift,"[""taylorswift""]",0.15654913260266998,1
+2020,2021,music_video,billboard_logit,A_official_nominees,s2020__bestmusicvideo__28ef9ba9ef62a96c,Life Is Good,Future featuring Drake,"[""drake"", ""future""]",0.24464478613286142,0
+2020,2021,music_video,billboard_logit,A_official_nominees,s2020__bestmusicvideo__14320c2cd7edbd6b,Lockdown,Anderson .Paak,"[""andersonpaak""]",0.1558147771993308,0
+2020,2021,music_video,billboard_logit,A_official_nominees,s2020__bestmusicvideo__5d176804ca04a9f9,Adore You,Harry Styles,"[""harrystyles""]",0.23437261446854338,0
+2020,2021,music_video,billboard_logit,A_official_nominees,s2020__bestmusicvideo__3f483e39d01ff9e0,Goliath,Woodkid,"[""woodkid""]",0.20212544429164653,0
+2020,2021,music_video,billboard_logit,A_official_nominees,s2020__bestmusicvideo__65dee70b2e5d59dc,Brown Skin Girl,"Beyoncé, Blue Ivy & Wizkid","[""beyonce"", ""blueivy"", ""wizkid""]",0.16304237790761794,1
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__40142e01d324f0be,Ingrid Andress,Ingrid Andress,"[""ingridandress""]",0.12052174554865955,0
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__cd96ec2f7e9f715b,Phoebe Bridgers,Phoebe Bridgers,"[""phoebebridgers""]",0.0962930606054946,0
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__fb98598a1a366255,Chika,Chika,"[""chika""]",0.1376382271805116,0
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__4972c1346b780cff,Noah Cyrus,Noah Cyrus,"[""noahcyrus""]",0.11094378644322468,0
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__8ca8c25b590b5132,D Smoke,D Smoke,"[""dsmoke""]",0.1376382271805116,0
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__4b734c7b69e8887c,Doja Cat,Doja Cat,"[""dojacat""]",0.15237237479697677,0
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__dd44d6eba37e76e7,Kaytranada,Kaytranada,"[""kaytranada""]",0.09302096353895184,0
+2020,2021,best_new_artist,billboard_logit,A_official_nominees,s2020__bestnewartist__66669077497b327e,Megan Thee Stallion,Megan Thee Stallion,"[""megantheestallion""]",0.15157161470566977,1
+2020,2021,pop_duo_group,billboard_logit,A_official_nominees,s2020__bestpopduogroupperformance__4d3cf4e4e9f692d0,Un Dia (One Day),"J Balvin, Dua Lipa, Bad Bunny and Tainy","[""badbunny"", ""dualipa"", ""jbalvin"", ""tainy""]",0.21001180944006959,0
+2020,2021,pop_duo_group,billboard_logit,A_official_nominees,s2020__bestpopduogroupperformance__83e5d1e7112653f2,Intentions,Justin Bieber featuring Quavo,"[""justinbieber"", ""quavo""]",0.21245721938801074,0
+2020,2021,pop_duo_group,billboard_logit,A_official_nominees,s2020__bestpopduogroupperformance__2cfe1eac26d58540,Exile,Taylor Swift featuring Bon Iver,"[""boniver"", ""taylorswift""]",0.20077331359189635,0
+2020,2021,pop_duo_group,billboard_logit,A_official_nominees,s2020__bestpopduogroupperformance__ca8b46f9dd422fd2,Rain On Me,Lady Gaga and Ariana Grande,"[""arianagrande"", ""ladygaga""]",0.20104926656488245,1
+2020,2021,pop_duo_group,billboard_logit,A_official_nominees,s2020__bestpopduogroupperformance__49cbef7bc92d3351,Dynamite,BTS,"[""bts""]",0.1757083910151409,0
+2020,2021,pop_solo,billboard_logit,A_official_nominees,s2020__bestpopsoloperformance__8c25ea3e749db218,Cardigan,Taylor Swift,"[""taylorswift""]",0.16499240313502664,0
+2020,2021,pop_solo,billboard_logit,A_official_nominees,s2020__bestpopsoloperformance__572b15a01029da23,Watermelon Sugar,Harry Styles,"[""harrystyles""]",0.16632973395301787,1
+2020,2021,pop_solo,billboard_logit,A_official_nominees,s2020__bestpopsoloperformance__7c712562375a3433,Yummy,Justin Bieber,"[""justinbieber""]",0.16911781149113278,0
+2020,2021,pop_solo,billboard_logit,A_official_nominees,s2020__bestpopsoloperformance__096c1a1233b140d4,Say So,Doja Cat,"[""dojacat""]",0.16696355058956897,0
+2020,2021,pop_solo,billboard_logit,A_official_nominees,s2020__bestpopsoloperformance__23debc179d97630a,Everything I Wanted,Billie Eilish,"[""billieeilish""]",0.16522219273239225,0
+2020,2021,pop_solo,billboard_logit,A_official_nominees,s2020__bestpopsoloperformance__4c277030880a3559,Don't Start Now,Dua Lipa,"[""dualipa""]",0.16737430809886145,0
+2020,2021,pop_vocal_album,billboard_logit,A_official_nominees,s2020__bestpopvocalalbum__6a0c6bd26d77310d,Folklore,Taylor Swift,"[""taylorswift""]",0.2333742547033819,0
+2020,2021,pop_vocal_album,billboard_logit,A_official_nominees,s2020__bestpopvocalalbum__61c1097c2391ff7c,Future Nostalgia,Dua Lipa,"[""dualipa""]",0.17465810937324383,1
+2020,2021,pop_vocal_album,billboard_logit,A_official_nominees,s2020__bestpopvocalalbum__bbd4b6a86bc65b6a,Changes,Justin Bieber,"[""justinbieber""]",0.18677060748379445,0
+2020,2021,pop_vocal_album,billboard_logit,A_official_nominees,s2020__bestpopvocalalbum__5b35db6f43fb50a8,Chromatica,Lady Gaga,"[""ladygaga""]",0.2081001326557664,0
+2020,2021,pop_vocal_album,billboard_logit,A_official_nominees,s2020__bestpopvocalalbum__e67ada17cfcecb89,Fine Line,Harry Styles,"[""harrystyles""]",0.19709689578381326,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__174b567fb7fecd73,Black Parade,Beyoncé,"[""beyonce""]",0.08516123847404258,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__88c45d9e526c08dd,Colors,Black Pumas,"[""blackpumas""]",0.12022892308598261,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__78473ac888197c93,Rockstar,DaBaby featuring Roddy Ricch,"[""dababy"", ""roddyricch""]",0.1488416590819491,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__096c1a1233b140d4,Say So,Doja Cat,"[""dojacat""]",0.12982209742539338,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__4c277030880a3559,Don't Start Now,Dua Lipa,"[""dualipa""]",0.13023438332813367,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__aa74f400e596a77e,Circles,Post Malone,"[""postmalone""]",0.13775963757558116,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__10a6a1988eca922f,Savage,Megan Thee Stallion featuring Beyoncé,"[""beyonce"", ""megantheestallion""]",0.11987452442203325,0
+2020,2021,record_of_the_year,billboard_logit,A_official_nominees,s2020__recordoftheyear__23debc179d97630a,Everything I Wanted,Billie Eilish,"[""billieeilish""]",0.1280775366068846,1
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__51597705fc4a92f4,If The World Was Ending,JP Saxe featuring Julia Michaels,"[""jpsaxe"", ""juliamichaels""]",0.11409438121570256,0
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__515b3936b5d00629,I Can't Breathe,H.E.R.,"[""her""]",0.11524438816699784,1
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__174b567fb7fecd73,Black Parade,Beyoncé,"[""beyonce""]",0.0851815290140541,0
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__abfa671a0dc4b3ec,The Box,Roddy Ricch,"[""roddyricch""]",0.1491203988287811,0
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__8c25ea3e749db218,Cardigan,Taylor Swift,"[""taylorswift""]",0.13070926779233,0
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__aa74f400e596a77e,Circles,Post Malone,"[""postmalone""]",0.14141098883109043,0
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__4c277030880a3559,Don't Start Now,Dua Lipa,"[""dualipa""]",0.13328214440988145,0
+2020,2021,song_of_the_year,billboard_logit,A_official_nominees,s2020__songoftheyear__23debc179d97630a,Everything I Wanted,Billie Eilish,"[""billieeilish""]",0.13095690174116228,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__e07bb647b2c89f73,Chilombo,Jhené Aiko,"[""jheneaiko""]",0.12500000000000003,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__14f8beeade2b50ad,Black Pumas (Deluxe Edition),Black Pumas,"[""blackpumas""]",0.12500000000000003,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__9e179e970b275151,Everyday Life,Coldplay,"[""coldplay""]",0.12500000000000003,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__a0dcb884bcb3c1aa,Djesse Vol.3,Jacob Collier,"[""jacobcollier""]",0.12500000000000003,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__2aab557fbf71e14b,Women In Music Pt. III,Haim,"[""haim""]",0.12500000000000003,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__61c1097c2391ff7c,Future Nostalgia,Dua Lipa,"[""dualipa""]",0.12500000000000003,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__c456d4ee48e89dfa,Hollywood's Bleeding,Post Malone,"[""postmalone""]",0.12500000000000003,0
+2020,2021,album_of_the_year,uniform_reference,A_official_nominees,s2020__albumoftheyear__6a0c6bd26d77310d,Folklore,Taylor Swift,"[""taylorswift""]",0.12500000000000003,1
+2020,2021,music_video,uniform_reference,A_official_nominees,s2020__bestmusicvideo__28ef9ba9ef62a96c,Life Is Good,Future featuring Drake,"[""drake"", ""future""]",0.2,0
+2020,2021,music_video,uniform_reference,A_official_nominees,s2020__bestmusicvideo__14320c2cd7edbd6b,Lockdown,Anderson .Paak,"[""andersonpaak""]",0.2,0
+2020,2021,music_video,uniform_reference,A_official_nominees,s2020__bestmusicvideo__5d176804ca04a9f9,Adore You,Harry Styles,"[""harrystyles""]",0.2,0
+2020,2021,music_video,uniform_reference,A_official_nominees,s2020__bestmusicvideo__3f483e39d01ff9e0,Goliath,Woodkid,"[""woodkid""]",0.2,0
+2020,2021,music_video,uniform_reference,A_official_nominees,s2020__bestmusicvideo__65dee70b2e5d59dc,Brown Skin Girl,"Beyoncé, Blue Ivy & Wizkid","[""beyonce"", ""blueivy"", ""wizkid""]",0.2,1
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__40142e01d324f0be,Ingrid Andress,Ingrid Andress,"[""ingridandress""]",0.12500000000000003,0
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__cd96ec2f7e9f715b,Phoebe Bridgers,Phoebe Bridgers,"[""phoebebridgers""]",0.12500000000000003,0
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__fb98598a1a366255,Chika,Chika,"[""chika""]",0.12500000000000003,0
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__4972c1346b780cff,Noah Cyrus,Noah Cyrus,"[""noahcyrus""]",0.12500000000000003,0
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__8ca8c25b590b5132,D Smoke,D Smoke,"[""dsmoke""]",0.12500000000000003,0
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__4b734c7b69e8887c,Doja Cat,Doja Cat,"[""dojacat""]",0.12500000000000003,0
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__dd44d6eba37e76e7,Kaytranada,Kaytranada,"[""kaytranada""]",0.12500000000000003,0
+2020,2021,best_new_artist,uniform_reference,A_official_nominees,s2020__bestnewartist__66669077497b327e,Megan Thee Stallion,Megan Thee Stallion,"[""megantheestallion""]",0.12500000000000003,1
+2020,2021,pop_duo_group,uniform_reference,A_official_nominees,s2020__bestpopduogroupperformance__4d3cf4e4e9f692d0,Un Dia (One Day),"J Balvin, Dua Lipa, Bad Bunny and Tainy","[""badbunny"", ""dualipa"", ""jbalvin"", ""tainy""]",0.2,0
+2020,2021,pop_duo_group,uniform_reference,A_official_nominees,s2020__bestpopduogroupperformance__83e5d1e7112653f2,Intentions,Justin Bieber featuring Quavo,"[""justinbieber"", ""quavo""]",0.2,0
+2020,2021,pop_duo_group,uniform_reference,A_official_nominees,s2020__bestpopduogroupperformance__2cfe1eac26d58540,Exile,Taylor Swift featuring Bon Iver,"[""boniver"", ""taylorswift""]",0.2,0
+2020,2021,pop_duo_group,uniform_reference,A_official_nominees,s2020__bestpopduogroupperformance__ca8b46f9dd422fd2,Rain On Me,Lady Gaga and Ariana Grande,"[""arianagrande"", ""ladygaga""]",0.2,1
+2020,2021,pop_duo_group,uniform_reference,A_official_nominees,s2020__bestpopduogroupperformance__49cbef7bc92d3351,Dynamite,BTS,"[""bts""]",0.2,0
+2020,2021,pop_solo,uniform_reference,A_official_nominees,s2020__bestpopsoloperformance__8c25ea3e749db218,Cardigan,Taylor Swift,"[""taylorswift""]",0.16666666666666669,0
+2020,2021,pop_solo,uniform_reference,A_official_nominees,s2020__bestpopsoloperformance__572b15a01029da23,Watermelon Sugar,Harry Styles,"[""harrystyles""]",0.16666666666666669,1
+2020,2021,pop_solo,uniform_reference,A_official_nominees,s2020__bestpopsoloperformance__7c712562375a3433,Yummy,Justin Bieber,"[""justinbieber""]",0.16666666666666669,0
+2020,2021,pop_solo,uniform_reference,A_official_nominees,s2020__bestpopsoloperformance__096c1a1233b140d4,Say So,Doja Cat,"[""dojacat""]",0.16666666666666669,0
+2020,2021,pop_solo,uniform_reference,A_official_nominees,s2020__bestpopsoloperformance__23debc179d97630a,Everything I Wanted,Billie Eilish,"[""billieeilish""]",0.16666666666666669,0
+2020,2021,pop_solo,uniform_reference,A_official_nominees,s2020__bestpopsoloperformance__4c277030880a3559,Don't Start Now,Dua Lipa,"[""dualipa""]",0.16666666666666669,0
+2020,2021,pop_vocal_album,uniform_reference,A_official_nominees,s2020__bestpopvocalalbum__6a0c6bd26d77310d,Folklore,Taylor Swift,"[""taylorswift""]",0.2,0
+2020,2021,pop_vocal_album,uniform_reference,A_official_nominees,s2020__bestpopvocalalbum__61c1097c2391ff7c,Future Nostalgia,Dua Lipa,"[""dualipa""]",0.2,1
+2020,2021,pop_vocal_album,uniform_reference,A_official_nominees,s2020__bestpopvocalalbum__bbd4b6a86bc65b6a,Changes,Justin Bieber,"[""justinbieber""]",0.2,0
+2020,2021,pop_vocal_album,uniform_reference,A_official_nominees,s2020__bestpopvocalalbum__5b35db6f43fb50a8,Chromatica,Lady Gaga,"[""ladygaga""]",0.2,0
+2020,2021,pop_vocal_album,uniform_reference,A_official_nominees,s2020__bestpopvocalalbum__e67ada17cfcecb89,Fine Line,Harry Styles,"[""harrystyles""]",0.2,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__174b567fb7fecd73,Black Parade,Beyoncé,"[""beyonce""]",0.12500000000000003,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__88c45d9e526c08dd,Colors,Black Pumas,"[""blackpumas""]",0.12500000000000003,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__78473ac888197c93,Rockstar,DaBaby featuring Roddy Ricch,"[""dababy"", ""roddyricch""]",0.12500000000000003,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__096c1a1233b140d4,Say So,Doja Cat,"[""dojacat""]",0.12500000000000003,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__4c277030880a3559,Don't Start Now,Dua Lipa,"[""dualipa""]",0.12500000000000003,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__aa74f400e596a77e,Circles,Post Malone,"[""postmalone""]",0.12500000000000003,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__10a6a1988eca922f,Savage,Megan Thee Stallion featuring Beyoncé,"[""beyonce"", ""megantheestallion""]",0.12500000000000003,0
+2020,2021,record_of_the_year,uniform_reference,A_official_nominees,s2020__recordoftheyear__23debc179d97630a,Everything I Wanted,Billie Eilish,"[""billieeilish""]",0.12500000000000003,1
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__51597705fc4a92f4,If The World Was Ending,JP Saxe featuring Julia Michaels,"[""jpsaxe"", ""juliamichaels""]",0.12500000000000003,0
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__515b3936b5d00629,I Can't Breathe,H.E.R.,"[""her""]",0.12500000000000003,1
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__174b567fb7fecd73,Black Parade,Beyoncé,"[""beyonce""]",0.12500000000000003,0
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__abfa671a0dc4b3ec,The Box,Roddy Ricch,"[""roddyricch""]",0.12500000000000003,0
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__8c25ea3e749db218,Cardigan,Taylor Swift,"[""taylorswift""]",0.12500000000000003,0
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__aa74f400e596a77e,Circles,Post Malone,"[""postmalone""]",0.12500000000000003,0
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__4c277030880a3559,Don't Start Now,Dua Lipa,"[""dualipa""]",0.12500000000000003,0
+2020,2021,song_of_the_year,uniform_reference,A_official_nominees,s2020__songoftheyear__23debc179d97630a,Everything I Wanted,Billie Eilish,"[""billieeilish""]",0.12500000000000003,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__839d1775438df95d,Love For Sale,Tony Bennett & Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.10342751918124336,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__a18706badc632f25,Back Of My Mind,H.E.R.,"[""her""]",0.10099752808527777,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__0ab81b7acef7d8e9,Justice (Triple Chucks Deluxe),Justin Bieber,"[""justinbieber""]",0.10265854041825788,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__fb5443bca5389a56,We Are,Jon Batiste,"[""jonbatiste""]",0.06654757101111226,1
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__0db4e755ef784ddf,Donda,Kanye West,"[""kanyewest""]",0.11075489473181478,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__7cf797a2081625d7,Evermore,Taylor Swift,"[""taylorswift""]",0.12787561797627162,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__c4a9004cac8de21e,Sour,Olivia Rodrigo,"[""oliviarodrigo""]",0.08914451531961845,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__d6cef31fe9bab0bb,Montero,Lil Nas X,"[""lilnasx""]",0.07861776991615226,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.1142239413354471,0
+2021,2022,album_of_the_year,billboard_logit,A_official_nominees,s2021__albumoftheyear__4ba83be6e09fd3a6,Planet Her (Deluxe),Doja Cat,"[""dojacat""]",0.10575210202480448,0
+2021,2022,music_video,billboard_logit,A_official_nominees,s2021__bestmusicvideo__d24c673dfd11bf46,Good 4 U,Olivia Rodrigo,"[""oliviarodrigo""]",0.17963634313313684,0
+2021,2022,music_video,billboard_logit,A_official_nominees,s2021__bestmusicvideo__9f037c61c25de322,Montero (Call Me By Your Name),Lil Nas X,"[""lilnasx""]",0.155943428653687,0
+2021,2022,music_video,billboard_logit,A_official_nominees,s2021__bestmusicvideo__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.16238108791514203,0
+2021,2022,music_video,billboard_logit,A_official_nominees,s2021__bestmusicvideo__e3061fe4b13e279b,Peaches,Justin Bieber featuring Daniel Caesar and Giveon,"[""danielcaesar"", ""giveon"", ""justinbieber""]",0.16865275427230028,0
+2021,2022,music_video,billboard_logit,A_official_nominees,s2021__bestmusicvideo__e3f746c73698d106,Freedom,Jon Batiste,"[""jonbatiste""]",0.10552697652689652,1
+2021,2022,music_video,billboard_logit,A_official_nominees,s2021__bestmusicvideo__eec82a23d5c031af,I Get A Kick Out Of You,Tony Bennett and Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.12233243297194082,0
+2021,2022,music_video,billboard_logit,A_official_nominees,s2021__bestmusicvideo__e10a1719b2494629,Shot In The Dark,AC/DC,"[""acdc""]",0.10552697652689652,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__d43af1154a50770a,Japanese Breakfast,Japanese Breakfast,"[""japanesebreakfast""]",0.07356158150821905,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__32f792993b364882,Glass Animals,Glass Animals,"[""glassanimals""]",0.11047430675320967,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__edbba324ba644ab5,FINNEAS,FINNEAS,"[""finneas""]",0.10585713939089422,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__a2e1a5167a636560,Baby Keem,Baby Keem,"[""babykeem""]",0.08016461328545606,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__9e986ada63208f2d,Jimmie Allen,Jimmie Allen,"[""jimmieallen""]",0.10585713939089422,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__ac46a5285fe09f7b,Arooj Aftab,Arooj Aftab,"[""aroojaftab""]",0.10585713939089422,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__1ce3061815ae38de,Saweetie,Saweetie,"[""saweetie""]",0.08429164569246439,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__3c25eb6f2045db21,Olivia Rodrigo,Olivia Rodrigo,"[""oliviarodrigo""]",0.11101989167496891,1
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__14422e94458a1a62,Arlo Parks,Arlo Parks,"[""arloparks""]",0.10585713939089422,0
+2021,2022,best_new_artist,billboard_logit,A_official_nominees,s2021__bestnewartist__28d9f828c7e17c14,The Kid LAROI,The Kid LAROI,"[""kidlaroi""]",0.11705940352210499,0
+2021,2022,pop_duo_group,billboard_logit,A_official_nominees,s2021__bestpopduogroupperformance__2f7fba0d1e974550,Kiss Me More,Doja Cat featuring SZA,"[""dojacat"", ""sza""]",0.22921995494932285,1
+2021,2022,pop_duo_group,billboard_logit,A_official_nominees,s2021__bestpopduogroupperformance__db2464770ac4fd74,Higher Power,Coldplay,"[""coldplay""]",0.16012323007134102,0
+2021,2022,pop_duo_group,billboard_logit,A_official_nominees,s2021__bestpopduogroupperformance__7575022564a42a87,Lonely,Justin Bieber and Benny Blanco,"[""bennyblanco"", ""justinbieber""]",0.22694365391639063,0
+2021,2022,pop_duo_group,billboard_logit,A_official_nominees,s2021__bestpopduogroupperformance__05af0612360ece1d,Butter,BTS,"[""bts""]",0.2187719590557496,0
+2021,2022,pop_duo_group,billboard_logit,A_official_nominees,s2021__bestpopduogroupperformance__eec82a23d5c031af,I Get A Kick Out Of You,Tony Bennett and Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.16494120200719603,0
+2021,2022,pop_solo,billboard_logit,A_official_nominees,s2021__bestpopsoloperformance__bc693d5d44858bc5,drivers license,Olivia Rodrigo,"[""oliviarodrigo""]",0.20959017829458337,1
+2021,2022,pop_solo,billboard_logit,A_official_nominees,s2021__bestpopsoloperformance__fa18433b80e023b9,Positions,Ariana Grande,"[""arianagrande""]",0.20620081827334924,0
+2021,2022,pop_solo,billboard_logit,A_official_nominees,s2021__bestpopsoloperformance__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.19140235606751285,0
+2021,2022,pop_solo,billboard_logit,A_official_nominees,s2021__bestpopsoloperformance__e09338655af5a466,Right On Time,Brandi Carlile,"[""brandicarlile""]",0.1821495380974052,0
+2021,2022,pop_solo,billboard_logit,A_official_nominees,s2021__bestpopsoloperformance__8d486bb2d3f85d1b,Anyone,Justin Bieber,"[""justinbieber""]",0.2106571092671494,0
+2021,2022,pop_vocal_album,billboard_logit,A_official_nominees,s2021__bestpopvocalalbum__c4a9004cac8de21e,Sour,Olivia Rodrigo,"[""oliviarodrigo""]",0.16445640848917445,1
+2021,2022,pop_vocal_album,billboard_logit,A_official_nominees,s2021__bestpopvocalalbum__fa18433b80e023b9,Positions,Ariana Grande,"[""arianagrande""]",0.21708063918228204,0
+2021,2022,pop_vocal_album,billboard_logit,A_official_nominees,s2021__bestpopvocalalbum__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.22159560875783002,0
+2021,2022,pop_vocal_album,billboard_logit,A_official_nominees,s2021__bestpopvocalalbum__4ba83be6e09fd3a6,Planet Her (Deluxe),Doja Cat,"[""dojacat""]",0.20197674350106162,0
+2021,2022,pop_vocal_album,billboard_logit,A_official_nominees,s2021__bestpopvocalalbum__0ab81b7acef7d8e9,Justice (Triple Chucks Deluxe),Justin Bieber,"[""justinbieber""]",0.19489060006965195,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.11025490541160268,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__c4f063386801d92b,Leave The Door Open,Silk Sonic,"[""silksonic""]",0.10708639806141018,1
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__9f037c61c25de322,Montero (Call Me By Your Name),Lil Nas X,"[""lilnasx""]",0.10521785825464847,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__bc693d5d44858bc5,drivers license,Olivia Rodrigo,"[""oliviarodrigo""]",0.12390739410054687,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__2f7fba0d1e974550,Kiss Me More,Doja Cat featuring SZA,"[""dojacat"", ""sza""]",0.11779448037385043,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__e09338655af5a466,Right On Time,Brandi Carlile,"[""brandicarlile""]",0.10708639806141018,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__e3061fe4b13e279b,Peaches,Justin Bieber featuring Daniel Caesar and Giveon,"[""danielcaesar"", ""giveon"", ""justinbieber""]",0.11519213431055833,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__eec82a23d5c031af,I Get A Kick Out Of You,Tony Bennett & Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.07947326200876705,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__e3f746c73698d106,Freedom,Jon Batiste,"[""jonbatiste""]",0.06699358470860296,0
+2021,2022,record_of_the_year,billboard_logit,A_official_nominees,s2021__recordoftheyear__ef4bf763f1bb7ee5,I Still Have Faith In You,ABBA,"[""abba""]",0.06699358470860296,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__c4f063386801d92b,Leave The Door Open,Silk Sonic,"[""silksonic""]",0.0995885457181592,1
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__e09338655af5a466,Right On Time,Brandi Carlile,"[""brandicarlile""]",0.0995885457181592,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__e3061fe4b13e279b,Peaches,Justin Bieber featuring Daniel Caesar and Giveon,"[""danielcaesar"", ""giveon"", ""justinbieber""]",0.10916162570678647,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__9f037c61c25de322,Montero (Call Me By Your Name),Lil Nas X,"[""lilnasx""]",0.09926299112703807,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__2f7fba0d1e974550,Kiss Me More,Doja Cat featuring SZA,"[""dojacat"", ""sza""]",0.11175138763424794,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.1042562887738973,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__ecd50a133971912f,Fight For You,H.E.R.,"[""her""]",0.10302572515701705,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__bc693d5d44858bc5,drivers license,Olivia Rodrigo,"[""oliviarodrigo""]",0.11784579809656388,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__700c4c6c46dbad7e,A Beautiful Noise,Alicia Keys and Brandi Carlile,"[""aliciakeys"", ""brandicarlile""]",0.06180377894708832,0
+2021,2022,song_of_the_year,billboard_logit,A_official_nominees,s2021__songoftheyear__e03540cd14ed0ce3,Bad Habits,Ed Sheeran,"[""edsheeran""]",0.09371531312104292,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__839d1775438df95d,Love For Sale,Tony Bennett & Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__a18706badc632f25,Back Of My Mind,H.E.R.,"[""her""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__0ab81b7acef7d8e9,Justice (Triple Chucks Deluxe),Justin Bieber,"[""justinbieber""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__fb5443bca5389a56,We Are,Jon Batiste,"[""jonbatiste""]",0.09999999999999998,1
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__0db4e755ef784ddf,Donda,Kanye West,"[""kanyewest""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__7cf797a2081625d7,Evermore,Taylor Swift,"[""taylorswift""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__c4a9004cac8de21e,Sour,Olivia Rodrigo,"[""oliviarodrigo""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__d6cef31fe9bab0bb,Montero,Lil Nas X,"[""lilnasx""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.09999999999999998,0
+2021,2022,album_of_the_year,uniform_reference,A_official_nominees,s2021__albumoftheyear__4ba83be6e09fd3a6,Planet Her (Deluxe),Doja Cat,"[""dojacat""]",0.09999999999999998,0
+2021,2022,music_video,uniform_reference,A_official_nominees,s2021__bestmusicvideo__d24c673dfd11bf46,Good 4 U,Olivia Rodrigo,"[""oliviarodrigo""]",0.14285714285714288,0
+2021,2022,music_video,uniform_reference,A_official_nominees,s2021__bestmusicvideo__9f037c61c25de322,Montero (Call Me By Your Name),Lil Nas X,"[""lilnasx""]",0.14285714285714288,0
+2021,2022,music_video,uniform_reference,A_official_nominees,s2021__bestmusicvideo__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.14285714285714288,0
+2021,2022,music_video,uniform_reference,A_official_nominees,s2021__bestmusicvideo__e3061fe4b13e279b,Peaches,Justin Bieber featuring Daniel Caesar and Giveon,"[""danielcaesar"", ""giveon"", ""justinbieber""]",0.14285714285714288,0
+2021,2022,music_video,uniform_reference,A_official_nominees,s2021__bestmusicvideo__e3f746c73698d106,Freedom,Jon Batiste,"[""jonbatiste""]",0.14285714285714288,1
+2021,2022,music_video,uniform_reference,A_official_nominees,s2021__bestmusicvideo__eec82a23d5c031af,I Get A Kick Out Of You,Tony Bennett and Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.14285714285714288,0
+2021,2022,music_video,uniform_reference,A_official_nominees,s2021__bestmusicvideo__e10a1719b2494629,Shot In The Dark,AC/DC,"[""acdc""]",0.14285714285714288,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__d43af1154a50770a,Japanese Breakfast,Japanese Breakfast,"[""japanesebreakfast""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__32f792993b364882,Glass Animals,Glass Animals,"[""glassanimals""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__edbba324ba644ab5,FINNEAS,FINNEAS,"[""finneas""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__a2e1a5167a636560,Baby Keem,Baby Keem,"[""babykeem""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__9e986ada63208f2d,Jimmie Allen,Jimmie Allen,"[""jimmieallen""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__ac46a5285fe09f7b,Arooj Aftab,Arooj Aftab,"[""aroojaftab""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__1ce3061815ae38de,Saweetie,Saweetie,"[""saweetie""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__3c25eb6f2045db21,Olivia Rodrigo,Olivia Rodrigo,"[""oliviarodrigo""]",0.09999999999999998,1
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__14422e94458a1a62,Arlo Parks,Arlo Parks,"[""arloparks""]",0.09999999999999998,0
+2021,2022,best_new_artist,uniform_reference,A_official_nominees,s2021__bestnewartist__28d9f828c7e17c14,The Kid LAROI,The Kid LAROI,"[""kidlaroi""]",0.09999999999999998,0
+2021,2022,pop_duo_group,uniform_reference,A_official_nominees,s2021__bestpopduogroupperformance__2f7fba0d1e974550,Kiss Me More,Doja Cat featuring SZA,"[""dojacat"", ""sza""]",0.2,1
+2021,2022,pop_duo_group,uniform_reference,A_official_nominees,s2021__bestpopduogroupperformance__db2464770ac4fd74,Higher Power,Coldplay,"[""coldplay""]",0.2,0
+2021,2022,pop_duo_group,uniform_reference,A_official_nominees,s2021__bestpopduogroupperformance__7575022564a42a87,Lonely,Justin Bieber and Benny Blanco,"[""bennyblanco"", ""justinbieber""]",0.2,0
+2021,2022,pop_duo_group,uniform_reference,A_official_nominees,s2021__bestpopduogroupperformance__05af0612360ece1d,Butter,BTS,"[""bts""]",0.2,0
+2021,2022,pop_duo_group,uniform_reference,A_official_nominees,s2021__bestpopduogroupperformance__eec82a23d5c031af,I Get A Kick Out Of You,Tony Bennett and Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.2,0
+2021,2022,pop_solo,uniform_reference,A_official_nominees,s2021__bestpopsoloperformance__bc693d5d44858bc5,drivers license,Olivia Rodrigo,"[""oliviarodrigo""]",0.2,1
+2021,2022,pop_solo,uniform_reference,A_official_nominees,s2021__bestpopsoloperformance__fa18433b80e023b9,Positions,Ariana Grande,"[""arianagrande""]",0.2,0
+2021,2022,pop_solo,uniform_reference,A_official_nominees,s2021__bestpopsoloperformance__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.2,0
+2021,2022,pop_solo,uniform_reference,A_official_nominees,s2021__bestpopsoloperformance__e09338655af5a466,Right On Time,Brandi Carlile,"[""brandicarlile""]",0.2,0
+2021,2022,pop_solo,uniform_reference,A_official_nominees,s2021__bestpopsoloperformance__8d486bb2d3f85d1b,Anyone,Justin Bieber,"[""justinbieber""]",0.2,0
+2021,2022,pop_vocal_album,uniform_reference,A_official_nominees,s2021__bestpopvocalalbum__c4a9004cac8de21e,Sour,Olivia Rodrigo,"[""oliviarodrigo""]",0.2,1
+2021,2022,pop_vocal_album,uniform_reference,A_official_nominees,s2021__bestpopvocalalbum__fa18433b80e023b9,Positions,Ariana Grande,"[""arianagrande""]",0.2,0
+2021,2022,pop_vocal_album,uniform_reference,A_official_nominees,s2021__bestpopvocalalbum__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.2,0
+2021,2022,pop_vocal_album,uniform_reference,A_official_nominees,s2021__bestpopvocalalbum__4ba83be6e09fd3a6,Planet Her (Deluxe),Doja Cat,"[""dojacat""]",0.2,0
+2021,2022,pop_vocal_album,uniform_reference,A_official_nominees,s2021__bestpopvocalalbum__0ab81b7acef7d8e9,Justice (Triple Chucks Deluxe),Justin Bieber,"[""justinbieber""]",0.2,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__c4f063386801d92b,Leave The Door Open,Silk Sonic,"[""silksonic""]",0.09999999999999998,1
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__9f037c61c25de322,Montero (Call Me By Your Name),Lil Nas X,"[""lilnasx""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__bc693d5d44858bc5,drivers license,Olivia Rodrigo,"[""oliviarodrigo""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__2f7fba0d1e974550,Kiss Me More,Doja Cat featuring SZA,"[""dojacat"", ""sza""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__e09338655af5a466,Right On Time,Brandi Carlile,"[""brandicarlile""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__e3061fe4b13e279b,Peaches,Justin Bieber featuring Daniel Caesar and Giveon,"[""danielcaesar"", ""giveon"", ""justinbieber""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__eec82a23d5c031af,I Get A Kick Out Of You,Tony Bennett & Lady Gaga,"[""ladygaga"", ""tonybennett""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__e3f746c73698d106,Freedom,Jon Batiste,"[""jonbatiste""]",0.09999999999999998,0
+2021,2022,record_of_the_year,uniform_reference,A_official_nominees,s2021__recordoftheyear__ef4bf763f1bb7ee5,I Still Have Faith In You,ABBA,"[""abba""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__c4f063386801d92b,Leave The Door Open,Silk Sonic,"[""silksonic""]",0.09999999999999998,1
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__e09338655af5a466,Right On Time,Brandi Carlile,"[""brandicarlile""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__e3061fe4b13e279b,Peaches,Justin Bieber featuring Daniel Caesar and Giveon,"[""danielcaesar"", ""giveon"", ""justinbieber""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__9f037c61c25de322,Montero (Call Me By Your Name),Lil Nas X,"[""lilnasx""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__2f7fba0d1e974550,Kiss Me More,Doja Cat featuring SZA,"[""dojacat"", ""sza""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__d4023039d845ffb4,Happier Than Ever,Billie Eilish,"[""billieeilish""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__ecd50a133971912f,Fight For You,H.E.R.,"[""her""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__bc693d5d44858bc5,drivers license,Olivia Rodrigo,"[""oliviarodrigo""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__700c4c6c46dbad7e,A Beautiful Noise,Alicia Keys and Brandi Carlile,"[""aliciakeys"", ""brandicarlile""]",0.09999999999999998,0
+2021,2022,song_of_the_year,uniform_reference,A_official_nominees,s2021__songoftheyear__e03540cd14ed0ce3,Bad Habits,Ed Sheeran,"[""edsheeran""]",0.09999999999999998,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__6ba67fb37fe00743,Music Of The Spheres,Coldplay,"[""coldplay""]",0.08728020400083181,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__04e659675cbb7c0f,In These Silent Days,Brandi Carlile,"[""brandicarlile""]",0.08013494724971998,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__b8cf25d635d8c18c,Good Morning Gorgeous (Deluxe),Mary J. Blige,"[""maryjblige""]",0.08013494724971998,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__6ea28d579269341d,RENAISSANCE,Beyonce,"[""beyonce""]",0.08620413294874753,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__d83cf0fdc299fc31,Un Verano Sin Ti,Bad Bunny,"[""badbunny""]",0.11778973795755851,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__624b60c58c9d8bfb,30,Adele,"[""adele""]",0.11371934269960374,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__92959a065447f6d8,Harry's House,Harry Styles,"[""harrystyles""]",0.11361099952346174,1
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__997c544f1be0a2dd,Special,Lizzo,"[""lizzo""]",0.09872734997665127,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__6df52137ea131cae,Mr. Morale & The Big Steppers,Kendrick Lamar,"[""kendricklamar""]",0.11581376608824324,0
+2022,2023,album_of_the_year,billboard_logit,A_official_nominees,s2022__albumoftheyear__10d911351fa45879,Voyage,ABBA,"[""abba""]",0.10658457230546244,0
+2022,2023,music_video,billboard_logit,A_official_nominees,s2022__bestmusicvideo__d6b144e074ea4d46,Yet To Come,BTS,"[""bts""]",0.15455871202485547,0
+2022,2023,music_video,billboard_logit,A_official_nominees,s2022__bestmusicvideo__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.16446476355283712,0
+2022,2023,music_video,billboard_logit,A_official_nominees,s2022__bestmusicvideo__23ebacb9eee0c8ef,All Too Well: The Short Film,Taylor Swift,"[""taylorswift""]",0.16575891971872933,1
+2022,2023,music_video,billboard_logit,A_official_nominees,s2022__bestmusicvideo__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.16787751771091294,0
+2022,2023,music_video,billboard_logit,A_official_nominees,s2022__bestmusicvideo__cd812d36f61c728d,The Heart Part 5,Kendrick Lamar,"[""kendricklamar""]",0.16490863299913414,0
+2022,2023,music_video,billboard_logit,A_official_nominees,s2022__bestmusicvideo__5c3967e73c04beef,Woman,Doja Cat,"[""dojacat""]",0.18243145399353095,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__38aceb519c6a36a0,Samara Joy,Samara Joy,"[""samarajoy""]",0.11181083348564456,1
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__377fa8a00f8da7a3,Wet Leg,Wet Leg,"[""wetleg""]",0.08605353246726824,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__c57d5212fcac16af,Molly Tuttle,Molly Tuttle,"[""mollytuttle""]",0.11181083348564456,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__242f7dca82fbe23e,Tobe Nwigwe,Tobe Nwigwe,"[""tobenwigwe""]",0.11181083348564456,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__f36d1ae3397753c9,Måneskin,Måneskin,"[""maneskin""]",0.08930440238319383,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__6cd1c0e957072fbb,Latto,Latto,"[""latto""]",0.11191026548335041,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__14d720bba7b5175c,Muni Long,Muni Long,"[""munilong""]",0.09458376755021074,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__9dc6facc6f13a0cf,DOMi & JD Beck,DOMi & JD Beck,"[""domijdbeck""]",0.11181083348564456,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__129c38025e6ae50d,Omar Apollo,Omar Apollo,"[""omarapollo""]",0.08398443538709022,0
+2022,2023,best_new_artist,billboard_logit,A_official_nominees,s2022__bestnewartist__105f9311f0e76b25,Anitta,Anitta,"[""anitta""]",0.08692026278630816,0
+2022,2023,pop_duo_group,billboard_logit,A_official_nominees,s2022__bestpopduogroupperformance__4de5fe95b6a3c5a6,Unholy,Sam Smith and Kim Petras,"[""kimpetras"", ""samsmith""]",0.18817484798812004,1
+2022,2023,pop_duo_group,billboard_logit,A_official_nominees,s2022__bestpopduogroupperformance__1ef666a7ec543621,I Like You (A Happier Song),Post Malone and Doja Cat,"[""dojacat"", ""postmalone""]",0.23226211666905303,0
+2022,2023,pop_duo_group,billboard_logit,A_official_nominees,s2022__bestpopduogroupperformance__e01812fb79dda862,My Universe,Coldplay and BTS,"[""bts"", ""coldplay""]",0.20072376558420268,0
+2022,2023,pop_duo_group,billboard_logit,A_official_nominees,s2022__bestpopduogroupperformance__09a719cfd3c777d9,Bam Bam,Camila Cabello featuring Ed Sheeran,"[""camilacabello"", ""edsheeran""]",0.22453200566350762,0
+2022,2023,pop_duo_group,billboard_logit,A_official_nominees,s2022__bestpopduogroupperformance__624167f3ecdac97d,Don't Shut Me Down,ABBA,"[""abba""]",0.15430726409511675,0
+2022,2023,pop_solo,billboard_logit,A_official_nominees,s2022__bestpopsoloperformance__8077e62fec177f0e,Moscow Mule,Bad Bunny,"[""badbunny""]",0.1831547915242163,0
+2022,2023,pop_solo,billboard_logit,A_official_nominees,s2022__bestpopsoloperformance__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.16471773798252107,1
+2022,2023,pop_solo,billboard_logit,A_official_nominees,s2022__bestpopsoloperformance__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.16786504870196586,0
+2022,2023,pop_solo,billboard_logit,A_official_nominees,s2022__bestpopsoloperformance__10d59de03516f341,About Damn Time,Lizzo,"[""lizzo""]",0.15595924577955517,0
+2022,2023,pop_solo,billboard_logit,A_official_nominees,s2022__bestpopsoloperformance__36e0b8c9cfec1fe0,Bad Habit,Steve Lacy,"[""stevelacy""]",0.14707121287808447,0
+2022,2023,pop_solo,billboard_logit,A_official_nominees,s2022__bestpopsoloperformance__5c3967e73c04beef,Woman,Doja Cat,"[""dojacat""]",0.1812319631336572,0
+2022,2023,pop_vocal_album,billboard_logit,A_official_nominees,s2022__bestpopvocalalbum__92959a065447f6d8,Harry's House,Harry Styles,"[""harrystyles""]",0.22268335766261463,1
+2022,2023,pop_vocal_album,billboard_logit,A_official_nominees,s2022__bestpopvocalalbum__997c544f1be0a2dd,Special,Lizzo,"[""lizzo""]",0.1874050489988789,0
+2022,2023,pop_vocal_album,billboard_logit,A_official_nominees,s2022__bestpopvocalalbum__6ba67fb37fe00743,Music Of The Spheres,Coldplay,"[""coldplay""]",0.16107921964329158,0
+2022,2023,pop_vocal_album,billboard_logit,A_official_nominees,s2022__bestpopvocalalbum__624b60c58c9d8bfb,30,Adele,"[""adele""]",0.22294422967217753,0
+2022,2023,pop_vocal_album,billboard_logit,A_official_nominees,s2022__bestpopvocalalbum__10d911351fa45879,Voyage,ABBA,"[""abba""]",0.20588814402303732,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__10d59de03516f341,About Damn Time,Lizzo,"[""lizzo""]",0.10332644280869596,1
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.11311935607470341,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__cd812d36f61c728d,The Heart Part 5,Kendrick Lamar,"[""kendricklamar""]",0.11085287863931886,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.11051449239877928,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__624167f3ecdac97d,Don't Shut Me Down,ABBA,"[""abba""]",0.07485663745655567,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__36e0b8c9cfec1fe0,Bad Habit,Steve Lacy,"[""stevelacy""]",0.09612680544763384,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__5c3967e73c04beef,Woman,Doja Cat,"[""dojacat""]",0.12430646703061533,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__d2585b0861e0fef7,You And Me On The Rock,Brandi Carlile featuring Lucius,"[""brandicarlile"", ""lucius""]",0.07485663745655567,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__5463a79824adca22,Good Morning Gorgeous,Mary J. Blige,"[""maryjblige""]",0.08536606256321592,0
+2022,2023,record_of_the_year,billboard_logit,A_official_nominees,s2022__recordoftheyear__0e4d0d78b287911d,BREAK MY SOUL,Beyoncé,"[""beyonce""]",0.1066742201239264,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__7ee0b372414e4aba,abcdefu,Gayle,"[""gayle""]",0.09980519481894046,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__0e4d0d78b287911d,BREAK MY SOUL,Beyoncé,"[""beyonce""]",0.10486921145667519,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__36e0b8c9cfec1fe0,Bad Habit,Steve Lacy,"[""stevelacy""]",0.09362833614445495,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.11178765436773162,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__ef7555ec92002e1c,All Too Well (10 Minute Version) (The Short Film),Taylor Swift,"[""taylorswift""]",0.110047543693757,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__10d59de03516f341,About Damn Time,Lizzo,"[""lizzo""]",0.10129011004855383,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__729c10b2c84e7062,Just Like That,Bonnie Raitt,"[""bonnieraitt""]",0.07130543089874869,1
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__cd812d36f61c728d,The Heart Part 5,Kendrick Lamar,"[""kendricklamar""]",0.10935062723946896,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__f3330c20517b5707,GOD DID,"DJ Khaled featuring Rick Ross, Lil Wayne, Jay-Z, John Legend and Fridayy","[""djkhaled"", ""fridayy"", ""jayz"", ""johnlegend"", ""lilwayne"", ""rickross""]",0.08892873520123026,0
+2022,2023,song_of_the_year,billboard_logit,A_official_nominees,s2022__songoftheyear__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.10898715613043906,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__6ba67fb37fe00743,Music Of The Spheres,Coldplay,"[""coldplay""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__04e659675cbb7c0f,In These Silent Days,Brandi Carlile,"[""brandicarlile""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__b8cf25d635d8c18c,Good Morning Gorgeous (Deluxe),Mary J. Blige,"[""maryjblige""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__6ea28d579269341d,RENAISSANCE,Beyonce,"[""beyonce""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__d83cf0fdc299fc31,Un Verano Sin Ti,Bad Bunny,"[""badbunny""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__624b60c58c9d8bfb,30,Adele,"[""adele""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__92959a065447f6d8,Harry's House,Harry Styles,"[""harrystyles""]",0.09999999999999998,1
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__997c544f1be0a2dd,Special,Lizzo,"[""lizzo""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__6df52137ea131cae,Mr. Morale & The Big Steppers,Kendrick Lamar,"[""kendricklamar""]",0.09999999999999998,0
+2022,2023,album_of_the_year,uniform_reference,A_official_nominees,s2022__albumoftheyear__10d911351fa45879,Voyage,ABBA,"[""abba""]",0.09999999999999998,0
+2022,2023,music_video,uniform_reference,A_official_nominees,s2022__bestmusicvideo__d6b144e074ea4d46,Yet To Come,BTS,"[""bts""]",0.16666666666666669,0
+2022,2023,music_video,uniform_reference,A_official_nominees,s2022__bestmusicvideo__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.16666666666666669,0
+2022,2023,music_video,uniform_reference,A_official_nominees,s2022__bestmusicvideo__23ebacb9eee0c8ef,All Too Well: The Short Film,Taylor Swift,"[""taylorswift""]",0.16666666666666669,1
+2022,2023,music_video,uniform_reference,A_official_nominees,s2022__bestmusicvideo__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.16666666666666669,0
+2022,2023,music_video,uniform_reference,A_official_nominees,s2022__bestmusicvideo__cd812d36f61c728d,The Heart Part 5,Kendrick Lamar,"[""kendricklamar""]",0.16666666666666669,0
+2022,2023,music_video,uniform_reference,A_official_nominees,s2022__bestmusicvideo__5c3967e73c04beef,Woman,Doja Cat,"[""dojacat""]",0.16666666666666669,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__38aceb519c6a36a0,Samara Joy,Samara Joy,"[""samarajoy""]",0.09999999999999998,1
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__377fa8a00f8da7a3,Wet Leg,Wet Leg,"[""wetleg""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__c57d5212fcac16af,Molly Tuttle,Molly Tuttle,"[""mollytuttle""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__242f7dca82fbe23e,Tobe Nwigwe,Tobe Nwigwe,"[""tobenwigwe""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__f36d1ae3397753c9,Måneskin,Måneskin,"[""maneskin""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__6cd1c0e957072fbb,Latto,Latto,"[""latto""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__14d720bba7b5175c,Muni Long,Muni Long,"[""munilong""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__9dc6facc6f13a0cf,DOMi & JD Beck,DOMi & JD Beck,"[""domijdbeck""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__129c38025e6ae50d,Omar Apollo,Omar Apollo,"[""omarapollo""]",0.09999999999999998,0
+2022,2023,best_new_artist,uniform_reference,A_official_nominees,s2022__bestnewartist__105f9311f0e76b25,Anitta,Anitta,"[""anitta""]",0.09999999999999998,0
+2022,2023,pop_duo_group,uniform_reference,A_official_nominees,s2022__bestpopduogroupperformance__4de5fe95b6a3c5a6,Unholy,Sam Smith and Kim Petras,"[""kimpetras"", ""samsmith""]",0.2,1
+2022,2023,pop_duo_group,uniform_reference,A_official_nominees,s2022__bestpopduogroupperformance__1ef666a7ec543621,I Like You (A Happier Song),Post Malone and Doja Cat,"[""dojacat"", ""postmalone""]",0.2,0
+2022,2023,pop_duo_group,uniform_reference,A_official_nominees,s2022__bestpopduogroupperformance__e01812fb79dda862,My Universe,Coldplay and BTS,"[""bts"", ""coldplay""]",0.2,0
+2022,2023,pop_duo_group,uniform_reference,A_official_nominees,s2022__bestpopduogroupperformance__09a719cfd3c777d9,Bam Bam,Camila Cabello featuring Ed Sheeran,"[""camilacabello"", ""edsheeran""]",0.2,0
+2022,2023,pop_duo_group,uniform_reference,A_official_nominees,s2022__bestpopduogroupperformance__624167f3ecdac97d,Don't Shut Me Down,ABBA,"[""abba""]",0.2,0
+2022,2023,pop_solo,uniform_reference,A_official_nominees,s2022__bestpopsoloperformance__8077e62fec177f0e,Moscow Mule,Bad Bunny,"[""badbunny""]",0.16666666666666669,0
+2022,2023,pop_solo,uniform_reference,A_official_nominees,s2022__bestpopsoloperformance__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.16666666666666669,1
+2022,2023,pop_solo,uniform_reference,A_official_nominees,s2022__bestpopsoloperformance__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.16666666666666669,0
+2022,2023,pop_solo,uniform_reference,A_official_nominees,s2022__bestpopsoloperformance__10d59de03516f341,About Damn Time,Lizzo,"[""lizzo""]",0.16666666666666669,0
+2022,2023,pop_solo,uniform_reference,A_official_nominees,s2022__bestpopsoloperformance__36e0b8c9cfec1fe0,Bad Habit,Steve Lacy,"[""stevelacy""]",0.16666666666666669,0
+2022,2023,pop_solo,uniform_reference,A_official_nominees,s2022__bestpopsoloperformance__5c3967e73c04beef,Woman,Doja Cat,"[""dojacat""]",0.16666666666666669,0
+2022,2023,pop_vocal_album,uniform_reference,A_official_nominees,s2022__bestpopvocalalbum__92959a065447f6d8,Harry's House,Harry Styles,"[""harrystyles""]",0.2,1
+2022,2023,pop_vocal_album,uniform_reference,A_official_nominees,s2022__bestpopvocalalbum__997c544f1be0a2dd,Special,Lizzo,"[""lizzo""]",0.2,0
+2022,2023,pop_vocal_album,uniform_reference,A_official_nominees,s2022__bestpopvocalalbum__6ba67fb37fe00743,Music Of The Spheres,Coldplay,"[""coldplay""]",0.2,0
+2022,2023,pop_vocal_album,uniform_reference,A_official_nominees,s2022__bestpopvocalalbum__624b60c58c9d8bfb,30,Adele,"[""adele""]",0.2,0
+2022,2023,pop_vocal_album,uniform_reference,A_official_nominees,s2022__bestpopvocalalbum__10d911351fa45879,Voyage,ABBA,"[""abba""]",0.2,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__10d59de03516f341,About Damn Time,Lizzo,"[""lizzo""]",0.09999999999999998,1
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__cd812d36f61c728d,The Heart Part 5,Kendrick Lamar,"[""kendricklamar""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__624167f3ecdac97d,Don't Shut Me Down,ABBA,"[""abba""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__36e0b8c9cfec1fe0,Bad Habit,Steve Lacy,"[""stevelacy""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__5c3967e73c04beef,Woman,Doja Cat,"[""dojacat""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__d2585b0861e0fef7,You And Me On The Rock,Brandi Carlile featuring Lucius,"[""brandicarlile"", ""lucius""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__5463a79824adca22,Good Morning Gorgeous,Mary J. Blige,"[""maryjblige""]",0.09999999999999998,0
+2022,2023,record_of_the_year,uniform_reference,A_official_nominees,s2022__recordoftheyear__0e4d0d78b287911d,BREAK MY SOUL,Beyoncé,"[""beyonce""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__7ee0b372414e4aba,abcdefu,Gayle,"[""gayle""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__0e4d0d78b287911d,BREAK MY SOUL,Beyoncé,"[""beyonce""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__36e0b8c9cfec1fe0,Bad Habit,Steve Lacy,"[""stevelacy""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__0883b176670dac09,As It Was,Harry Styles,"[""harrystyles""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__ef7555ec92002e1c,All Too Well (10 Minute Version) (The Short Film),Taylor Swift,"[""taylorswift""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__10d59de03516f341,About Damn Time,Lizzo,"[""lizzo""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__729c10b2c84e7062,Just Like That,Bonnie Raitt,"[""bonnieraitt""]",0.09999999999999998,1
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__cd812d36f61c728d,The Heart Part 5,Kendrick Lamar,"[""kendricklamar""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__f3330c20517b5707,GOD DID,"DJ Khaled featuring Rick Ross, Lil Wayne, Jay-Z, John Legend and Fridayy","[""djkhaled"", ""fridayy"", ""jayz"", ""johnlegend"", ""lilwayne"", ""rickross""]",0.09999999999999998,0
+2022,2023,song_of_the_year,uniform_reference,A_official_nominees,s2022__songoftheyear__246ebdd745a268c9,Easy On Me,Adele,"[""adele""]",0.09999999999999998,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__7a366bcf79ec953b,World Music Radio,Jon Batiste,"[""jonbatiste""]",0.09433388075680636,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__92076f09ce7c22e2,the record,boygenius,"[""boygenius""]",0.11368957623144155,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__19651bed62bef252,Endless Summer Vacation,Miley Cyrus,"[""mileycyrus""]",0.12398004878440523,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__42b52acb2cea9e5e,Did You Know That There's A Tunnel Under Ocean Blvd,Lana Del Rey,"[""lanadelrey""]",0.13660705647765795,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__54e2268dbc6ce173,The Age Of Pleasure,Janelle Monae,"[""janellemonae""]",0.09822571249461455,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__c7f5c6f44af7482b,GUTS,Olivia Rodrigo,"[""oliviarodrigo""]",0.13151010399997196,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__f8df2bea26dc6b68,SOS,SZA,"[""sza""]",0.13862621549084053,0
+2023,2024,album_of_the_year,billboard_logit,A_official_nominees,s2023__albumoftheyear__31afeabe5aa6a05a,Midnights,Taylor Swift,"[""taylorswift""]",0.16302740576426195,1
+2023,2024,music_video,billboard_logit,A_official_nominees,s2023__bestmusicvideo__73299aa5126cbcb3,In Your Love,Tyler Childers,"[""tylerchilders""]",0.21097000340138722,0
+2023,2024,music_video,billboard_logit,A_official_nominees,s2023__bestmusicvideo__aa408045e5090e8d,What Was I Made For,Billie Eilish,"[""billieeilish""]",0.2143689258303565,0
+2023,2024,music_video,billboard_logit,A_official_nominees,s2023__bestmusicvideo__96eab888d0b69290,Count Me Out,Kendrick Lamar,"[""kendricklamar""]",0.20426587950400463,0
+2023,2024,music_video,billboard_logit,A_official_nominees,s2023__bestmusicvideo__34ebcd9fcba8b656,Rush,Troye Sivan,"[""troyesivan""]",0.19329478400220831,0
+2023,2024,music_video,billboard_logit,A_official_nominees,s2023__bestmusicvideo__dd80091375776e65,I'm Only Sleeping,The Beatles,"[""beatles""]",0.1771004072620434,1
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__8d672e29c53ca238,Noah Kahan,Noah Kahan,"[""noahkahan""]",0.13770768770624517,0
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__92cbd92d5bf36802,The War And Treaty,The War And Treaty,"[""warandtreaty""]",0.10768545158365203,0
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__f43b6ebb4146476b,Victoria Monét,Victoria Monét,"[""victoriamonet""]",0.11035161398512948,1
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__1fb4d4b806f8ba05,Gracie Abrams,Gracie Abrams,"[""gracieabrams""]",0.10748306296726076,0
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__29a07c287440a64c,Fred again..,Fred again..,"[""fredagain""]",0.1358160431752499,0
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__ba7fea8f48422e27,Ice Spice,Ice Spice,"[""icespice""]",0.14612930200041546,0
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__9b38e6145e0e7597,Jelly Roll,Jelly Roll,"[""jellyroll""]",0.14110614400575602,0
+2023,2024,best_new_artist,billboard_logit,A_official_nominees,s2023__bestnewartist__23488270eebfd1ad,Coco Jones,Coco Jones,"[""cocojones""]",0.1137206945762911,0
+2023,2024,pop_duo_group,billboard_logit,A_official_nominees,s2023__bestpopduogroupperformance__296e71a396fdd4cf,Karma,Taylor Swift featuring Ice Spice,"[""icespice"", ""taylorswift""]",0.22709136185197273,0
+2023,2024,pop_duo_group,billboard_logit,A_official_nominees,s2023__bestpopduogroupperformance__f17ce8a1c514efd5,Ghost In The Machine,SZA featuring Phoebe Bridgers,"[""phoebebridgers"", ""sza""]",0.22076444237987114,1
+2023,2024,pop_duo_group,billboard_logit,A_official_nominees,s2023__bestpopduogroupperformance__1347ce5c2ab75b31,Thousand Miles,Miley Cyrus featuring Brandi Carlile,"[""brandicarlile"", ""mileycyrus""]",0.19863242624969973,0
+2023,2024,pop_duo_group,billboard_logit,A_official_nominees,s2023__bestpopduogroupperformance__3240a3b31acb18c0,Candy Necklace,Lana Del Rey featuring Jon Batiste,"[""jonbatiste"", ""lanadelrey""]",0.17487986350014176,0
+2023,2024,pop_duo_group,billboard_logit,A_official_nominees,s2023__bestpopduogroupperformance__8e6da33ffe5f7b4e,Never Felt So Alone,Labrinth featuring Billie Eilish,"[""billieeilish"", ""labrinth""]",0.17863190601831483,0
+2023,2024,pop_solo,billboard_logit,A_official_nominees,s2023__bestpopsoloperformance__2662bd13e3a4906e,Paint The Town Red,Doja Cat,"[""dojacat""]",0.19868590634102248,0
+2023,2024,pop_solo,billboard_logit,A_official_nominees,s2023__bestpopsoloperformance__1e6396b73b3e143a,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,"[""billieeilish""]",0.17813634184957292,0
+2023,2024,pop_solo,billboard_logit,A_official_nominees,s2023__bestpopsoloperformance__ef177717b2d61a6a,Vampire,Olivia Rodrigo,"[""oliviarodrigo""]",0.19565219574313641,0
+2023,2024,pop_solo,billboard_logit,A_official_nominees,s2023__bestpopsoloperformance__1699db8db699c00c,Anti-Hero,Taylor Swift,"[""taylorswift""]",0.22479531132688588,0
+2023,2024,pop_solo,billboard_logit,A_official_nominees,s2023__bestpopsoloperformance__a3b6cb52ce986ff4,Flowers,Miley Cyrus,"[""mileycyrus""]",0.20273024473938228,1
+2023,2024,pop_vocal_album,billboard_logit,A_official_nominees,s2023__bestpopvocalalbum__ab2cc833ed40c8b3,Chemistry,Kelly Clarkson,"[""kellyclarkson""]",0.16372128682907855,0
+2023,2024,pop_vocal_album,billboard_logit,A_official_nominees,s2023__bestpopvocalalbum__19651bed62bef252,Endless Summer Vacation,Miley Cyrus,"[""mileycyrus""]",0.17917711923973428,0
+2023,2024,pop_vocal_album,billboard_logit,A_official_nominees,s2023__bestpopvocalalbum__c7f5c6f44af7482b,GUTS,Olivia Rodrigo,"[""oliviarodrigo""]",0.19284009405620525,0
+2023,2024,pop_vocal_album,billboard_logit,A_official_nominees,s2023__bestpopvocalalbum__5d8d3c144199b7bd,- (Subtract),Ed Sheeran,"[""edsheeran""]",0.21221516368640916,0
+2023,2024,pop_vocal_album,billboard_logit,A_official_nominees,s2023__bestpopvocalalbum__31afeabe5aa6a05a,Midnights,Taylor Swift,"[""taylorswift""]",0.2520463361885727,1
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__a3b6cb52ce986ff4,Flowers,Miley Cyrus,"[""mileycyrus""]",0.1389133896571789,1
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__1e6396b73b3e143a,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,"[""billieeilish""]",0.11916870835716432,0
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__c1c8b3ce15e422f3,On My Mama,Victoria Monét,"[""victoriamonet""]",0.10259474679701198,0
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__94c41436f0383135,vampire,Olivia Rodrigo,"[""oliviarodrigo""]",0.13318279452990414,0
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__1699db8db699c00c,Anti-Hero,Taylor Swift,"[""taylorswift""]",0.15701227753000677,0
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__b43d83827b22e49e,Kill Bill,SZA,"[""sza""]",0.15605969938726644,0
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__45cc7a8064b5f510,Not Strong Enough,Boygenius,"[""boygenius""]",0.09653419187073364,0
+2023,2024,record_of_the_year,billboard_logit,A_official_nominees,s2023__recordoftheyear__6dcd9b69d372ca50,Worship,Jon Batiste,"[""jonbatiste""]",0.09653419187073364,0
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__1699db8db699c00c,Anti-Hero,Taylor Swift,"[""taylorswift""]",0.1534155270549986,0
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__9e9db13d7300056c,A&W,Lana Del Rey,"[""lanadelrey""]",0.1135084188626571,0
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__1e6396b73b3e143a,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,"[""billieeilish""]",0.1125377847115715,1
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__a30f6a02eaa26200,Butterfly,Jon Batiste,"[""jonbatiste""]",0.0888205421308408,0
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__b59be7692ba1b2be,Dance The Night (From Barbie The Album),Dua Lipa,"[""dualipa""]",0.11814305427118069,0
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__a3b6cb52ce986ff4,Flowers,Miley Cyrus,"[""mileycyrus""]",0.1336926219620731,0
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__b43d83827b22e49e,Kill Bill,SZA,"[""sza""]",0.15237015355982367,0
+2023,2024,song_of_the_year,billboard_logit,A_official_nominees,s2023__songoftheyear__ef177717b2d61a6a,Vampire,Olivia Rodrigo,"[""oliviarodrigo""]",0.12751189744685448,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__7a366bcf79ec953b,World Music Radio,Jon Batiste,"[""jonbatiste""]",0.12500000000000003,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__92076f09ce7c22e2,the record,boygenius,"[""boygenius""]",0.12500000000000003,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__19651bed62bef252,Endless Summer Vacation,Miley Cyrus,"[""mileycyrus""]",0.12500000000000003,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__42b52acb2cea9e5e,Did You Know That There's A Tunnel Under Ocean Blvd,Lana Del Rey,"[""lanadelrey""]",0.12500000000000003,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__54e2268dbc6ce173,The Age Of Pleasure,Janelle Monae,"[""janellemonae""]",0.12500000000000003,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__c7f5c6f44af7482b,GUTS,Olivia Rodrigo,"[""oliviarodrigo""]",0.12500000000000003,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__f8df2bea26dc6b68,SOS,SZA,"[""sza""]",0.12500000000000003,0
+2023,2024,album_of_the_year,uniform_reference,A_official_nominees,s2023__albumoftheyear__31afeabe5aa6a05a,Midnights,Taylor Swift,"[""taylorswift""]",0.12500000000000003,1
+2023,2024,music_video,uniform_reference,A_official_nominees,s2023__bestmusicvideo__73299aa5126cbcb3,In Your Love,Tyler Childers,"[""tylerchilders""]",0.2,0
+2023,2024,music_video,uniform_reference,A_official_nominees,s2023__bestmusicvideo__aa408045e5090e8d,What Was I Made For,Billie Eilish,"[""billieeilish""]",0.2,0
+2023,2024,music_video,uniform_reference,A_official_nominees,s2023__bestmusicvideo__96eab888d0b69290,Count Me Out,Kendrick Lamar,"[""kendricklamar""]",0.2,0
+2023,2024,music_video,uniform_reference,A_official_nominees,s2023__bestmusicvideo__34ebcd9fcba8b656,Rush,Troye Sivan,"[""troyesivan""]",0.2,0
+2023,2024,music_video,uniform_reference,A_official_nominees,s2023__bestmusicvideo__dd80091375776e65,I'm Only Sleeping,The Beatles,"[""beatles""]",0.2,1
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__8d672e29c53ca238,Noah Kahan,Noah Kahan,"[""noahkahan""]",0.12500000000000003,0
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__92cbd92d5bf36802,The War And Treaty,The War And Treaty,"[""warandtreaty""]",0.12500000000000003,0
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__f43b6ebb4146476b,Victoria Monét,Victoria Monét,"[""victoriamonet""]",0.12500000000000003,1
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__1fb4d4b806f8ba05,Gracie Abrams,Gracie Abrams,"[""gracieabrams""]",0.12500000000000003,0
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__29a07c287440a64c,Fred again..,Fred again..,"[""fredagain""]",0.12500000000000003,0
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__ba7fea8f48422e27,Ice Spice,Ice Spice,"[""icespice""]",0.12500000000000003,0
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__9b38e6145e0e7597,Jelly Roll,Jelly Roll,"[""jellyroll""]",0.12500000000000003,0
+2023,2024,best_new_artist,uniform_reference,A_official_nominees,s2023__bestnewartist__23488270eebfd1ad,Coco Jones,Coco Jones,"[""cocojones""]",0.12500000000000003,0
+2023,2024,pop_duo_group,uniform_reference,A_official_nominees,s2023__bestpopduogroupperformance__296e71a396fdd4cf,Karma,Taylor Swift featuring Ice Spice,"[""icespice"", ""taylorswift""]",0.2,0
+2023,2024,pop_duo_group,uniform_reference,A_official_nominees,s2023__bestpopduogroupperformance__f17ce8a1c514efd5,Ghost In The Machine,SZA featuring Phoebe Bridgers,"[""phoebebridgers"", ""sza""]",0.2,1
+2023,2024,pop_duo_group,uniform_reference,A_official_nominees,s2023__bestpopduogroupperformance__1347ce5c2ab75b31,Thousand Miles,Miley Cyrus featuring Brandi Carlile,"[""brandicarlile"", ""mileycyrus""]",0.2,0
+2023,2024,pop_duo_group,uniform_reference,A_official_nominees,s2023__bestpopduogroupperformance__3240a3b31acb18c0,Candy Necklace,Lana Del Rey featuring Jon Batiste,"[""jonbatiste"", ""lanadelrey""]",0.2,0
+2023,2024,pop_duo_group,uniform_reference,A_official_nominees,s2023__bestpopduogroupperformance__8e6da33ffe5f7b4e,Never Felt So Alone,Labrinth featuring Billie Eilish,"[""billieeilish"", ""labrinth""]",0.2,0
+2023,2024,pop_solo,uniform_reference,A_official_nominees,s2023__bestpopsoloperformance__2662bd13e3a4906e,Paint The Town Red,Doja Cat,"[""dojacat""]",0.2,0
+2023,2024,pop_solo,uniform_reference,A_official_nominees,s2023__bestpopsoloperformance__1e6396b73b3e143a,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,"[""billieeilish""]",0.2,0
+2023,2024,pop_solo,uniform_reference,A_official_nominees,s2023__bestpopsoloperformance__ef177717b2d61a6a,Vampire,Olivia Rodrigo,"[""oliviarodrigo""]",0.2,0
+2023,2024,pop_solo,uniform_reference,A_official_nominees,s2023__bestpopsoloperformance__1699db8db699c00c,Anti-Hero,Taylor Swift,"[""taylorswift""]",0.2,0
+2023,2024,pop_solo,uniform_reference,A_official_nominees,s2023__bestpopsoloperformance__a3b6cb52ce986ff4,Flowers,Miley Cyrus,"[""mileycyrus""]",0.2,1
+2023,2024,pop_vocal_album,uniform_reference,A_official_nominees,s2023__bestpopvocalalbum__ab2cc833ed40c8b3,Chemistry,Kelly Clarkson,"[""kellyclarkson""]",0.2,0
+2023,2024,pop_vocal_album,uniform_reference,A_official_nominees,s2023__bestpopvocalalbum__19651bed62bef252,Endless Summer Vacation,Miley Cyrus,"[""mileycyrus""]",0.2,0
+2023,2024,pop_vocal_album,uniform_reference,A_official_nominees,s2023__bestpopvocalalbum__c7f5c6f44af7482b,GUTS,Olivia Rodrigo,"[""oliviarodrigo""]",0.2,0
+2023,2024,pop_vocal_album,uniform_reference,A_official_nominees,s2023__bestpopvocalalbum__5d8d3c144199b7bd,- (Subtract),Ed Sheeran,"[""edsheeran""]",0.2,0
+2023,2024,pop_vocal_album,uniform_reference,A_official_nominees,s2023__bestpopvocalalbum__31afeabe5aa6a05a,Midnights,Taylor Swift,"[""taylorswift""]",0.2,1
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__a3b6cb52ce986ff4,Flowers,Miley Cyrus,"[""mileycyrus""]",0.12500000000000003,1
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__1e6396b73b3e143a,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,"[""billieeilish""]",0.12500000000000003,0
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__c1c8b3ce15e422f3,On My Mama,Victoria Monét,"[""victoriamonet""]",0.12500000000000003,0
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__94c41436f0383135,vampire,Olivia Rodrigo,"[""oliviarodrigo""]",0.12500000000000003,0
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__1699db8db699c00c,Anti-Hero,Taylor Swift,"[""taylorswift""]",0.12500000000000003,0
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__b43d83827b22e49e,Kill Bill,SZA,"[""sza""]",0.12500000000000003,0
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__45cc7a8064b5f510,Not Strong Enough,Boygenius,"[""boygenius""]",0.12500000000000003,0
+2023,2024,record_of_the_year,uniform_reference,A_official_nominees,s2023__recordoftheyear__6dcd9b69d372ca50,Worship,Jon Batiste,"[""jonbatiste""]",0.12500000000000003,0
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__1699db8db699c00c,Anti-Hero,Taylor Swift,"[""taylorswift""]",0.12500000000000003,0
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__9e9db13d7300056c,A&W,Lana Del Rey,"[""lanadelrey""]",0.12500000000000003,0
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__1e6396b73b3e143a,What Was I Made For? [From The Motion Picture   Barbie  ],Billie Eilish,"[""billieeilish""]",0.12500000000000003,1
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__a30f6a02eaa26200,Butterfly,Jon Batiste,"[""jonbatiste""]",0.12500000000000003,0
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__b59be7692ba1b2be,Dance The Night (From Barbie The Album),Dua Lipa,"[""dualipa""]",0.12500000000000003,0
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__a3b6cb52ce986ff4,Flowers,Miley Cyrus,"[""mileycyrus""]",0.12500000000000003,0
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__b43d83827b22e49e,Kill Bill,SZA,"[""sza""]",0.12500000000000003,0
+2023,2024,song_of_the_year,uniform_reference,A_official_nominees,s2023__songoftheyear__ef177717b2d61a6a,Vampire,Olivia Rodrigo,"[""oliviarodrigo""]",0.12500000000000003,0
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__56fcbe69588b0d7a,THE TORTURED POETS DEPARTMENT,Taylor Swift,"[""taylorswift""]",0.16430348982079962,0
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__ae00302c9b1cd6f2,COWBOY CARTER,Beyonce,"[""beyonce""]",0.12809765989658464,1
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__c04cf6f775872ba0,Short n' Sweet,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12652225317047072,0
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__2871bff96f94bd45,BRAT,Charli xcx,"[""charlixcx""]",0.11121262490676836,0
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__c86177d0c80ccb5c,Djesse Vol. 4,Jacob Collier,"[""jacobcollier""]",0.12012850307822474,0
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__fdab2f0a716e5d6e,HIT ME HARD AND SOFT,Billie Eilish,"[""billieeilish""]",0.13954192527670833,0
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__5a45047dce94de33,Chappell Roan The Rise And Fall Of A Midwest Princess,Chappell Roan,"[""chappellroan""]",0.11787908712796535,0
+2024,2025,album_of_the_year,billboard_logit,A_official_nominees,s2024__albumoftheyear__680494c2842e9a2c,New Blue Sun,Andre 3000,"[""andre3000""]",0.09231445672247793,0
+2024,2025,music_video,billboard_logit,A_official_nominees,s2024__bestmusicvideo__a1cc34a0e18773fb,Tailor Swif,ASAP Rocky,"[""asaprocky""]",0.1828069951616423,0
+2024,2025,music_video,billboard_logit,A_official_nominees,s2024__bestmusicvideo__838f461c2fa673ce,360,Charli XCX,"[""charlixcx""]",0.191562494689301,0
+2024,2025,music_video,billboard_logit,A_official_nominees,s2024__bestmusicvideo__ae2e32e94fed2644,Houdini,Eminem,"[""eminem""]",0.19680489506154536,0
+2024,2025,music_video,billboard_logit,A_official_nominees,s2024__bestmusicvideo__839b48c5f9fed064,Fortnight,Taylor Swift featuring Post Malone,"[""postmalone"", ""taylorswift""]",0.22552549450403378,0
+2024,2025,music_video,billboard_logit,A_official_nominees,s2024__bestmusicvideo__eae642f9954ed4f1,Not Like Us,Kendrick Lamar,"[""kendricklamar""]",0.2033001205834777,1
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__aa463a164cc01ef7,Benson Boone,Benson Boone,"[""bensonboone""]",0.13292300578219704,0
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__7c4ebf264adc39a8,Sabrina Carpenter,Sabrina Carpenter,"[""sabrinacarpenter""]",0.14164491476295635,0
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__9d777086112313d7,Doechii,Doechii,"[""doechii""]",0.10513007358724547,0
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__4d4298e5a4030978,Khruangbin,Khruangbin,"[""khruangbin""]",0.09505824962871265,0
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__01fb43cf37038d26,RAYE,RAYE,"[""raye""]",0.12647842496759817,0
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__e160b3d9ebdfe973,Shaboozey,Shaboozey,"[""shaboozey""]",0.12448235905196155,0
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__9a9e652e7d529324,Teddy Swims,Teddy Swims,"[""teddyswims""]",0.1386857136888969,0
+2024,2025,best_new_artist,billboard_logit,A_official_nominees,s2024__bestnewartist__9164145d922993b7,Chappell Roan,Chappell Roan,"[""chappellroan""]",0.13559725853043206,1
+2024,2025,pop_duo_group,billboard_logit,A_official_nominees,s2024__bestpopduogroupperformance__70691b427ffd2b4e,us.,Gracie Abrams featuring Taylor Swift,"[""gracieabrams"", ""taylorswift""]",0.2198832175197639,0
+2024,2025,pop_duo_group,billboard_logit,A_official_nominees,s2024__bestpopduogroupperformance__f2c77a3e4ab5caec,LEVII'S JEANS,Beyoncé featuring Post Malone,"[""beyonce"", ""postmalone""]",0.20529751071307442,0
+2024,2025,pop_duo_group,billboard_logit,A_official_nominees,s2024__bestpopduogroupperformance__cd2e0e15503f13f0,Guess,Charli XCX featuring Billie Eilish,"[""billieeilish"", ""charlixcx""]",0.20621678516933695,0
+2024,2025,pop_duo_group,billboard_logit,A_official_nominees,s2024__bestpopduogroupperformance__7f72445c11a1dc63,the boy is mine,"Ariana Grande, Brandy and Monica","[""arianagrande"", ""brandy"", ""monica""]",0.2063288656243285,0
+2024,2025,pop_duo_group,billboard_logit,A_official_nominees,s2024__bestpopduogroupperformance__b4aeb31b5c0df978,Die With A Smile,Lady Gaga and Bruno Mars,"[""brunomars"", ""ladygaga""]",0.16227362097349626,1
+2024,2025,pop_solo,billboard_logit,A_official_nominees,s2024__bestpopsoloperformance__3b0df77a5a1dbe7c,BODYGUARD,Beyoncé,"[""beyonce""]",0.1954490938200645,0
+2024,2025,pop_solo,billboard_logit,A_official_nominees,s2024__bestpopsoloperformance__f223faa96f229162,Apple,Charli XCX,"[""charlixcx""]",0.18639079032620187,0
+2024,2025,pop_solo,billboard_logit,A_official_nominees,s2024__bestpopsoloperformance__ce3cceb48f7b716b,BIRDS OF A FEATHER,Billie Eilish,"[""billieeilish""]",0.20877143975681137,0
+2024,2025,pop_solo,billboard_logit,A_official_nominees,s2024__bestpopsoloperformance__3431a3c20fbf72b8,"Good Luck, Babe!",Chappell Roan,"[""chappellroan""]",0.20352691750612137,0
+2024,2025,pop_solo,billboard_logit,A_official_nominees,s2024__bestpopsoloperformance__e25dc4762c339fa6,Espresso,Sabrina Carpenter,"[""sabrinacarpenter""]",0.20586175859080083,1
+2024,2025,pop_vocal_album,billboard_logit,A_official_nominees,s2024__bestpopvocalalbum__fdab2f0a716e5d6e,HIT ME HARD AND SOFT,Billie Eilish,"[""billieeilish""]",0.2104015277918985,0
+2024,2025,pop_vocal_album,billboard_logit,A_official_nominees,s2024__bestpopvocalalbum__9cece83c1b762da0,eternal sunshine,Ariana Grande,"[""arianagrande""]",0.17501888770587362,0
+2024,2025,pop_vocal_album,billboard_logit,A_official_nominees,s2024__bestpopvocalalbum__5a45047dce94de33,Chappell Roan The Rise And Fall Of A Midwest Princess,Chappell Roan,"[""chappellroan""]",0.1701721914634669,0
+2024,2025,pop_vocal_album,billboard_logit,A_official_nominees,s2024__bestpopvocalalbum__56fcbe69588b0d7a,THE TORTURED POETS DEPARTMENT,Taylor Swift,"[""taylorswift""]",0.2583946900742258,0
+2024,2025,pop_vocal_album,billboard_logit,A_official_nominees,s2024__bestpopvocalalbum__c04cf6f775872ba0,Short n' Sweet,Sabrina Carpenter,"[""sabrinacarpenter""]",0.18601270296453537,1
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__d1a4537a98da7c95,Now And Then,The Beatles,"[""beatles""]",0.09340532717302563,0
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__b429dbce4555c5f7,TEXAS HOLD 'EM,Beyoncé,"[""beyonce""]",0.12477230207865413,0
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__e25dc4762c339fa6,Espresso,Sabrina Carpenter,"[""sabrinacarpenter""]",0.13227672380345204,0
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__838f461c2fa673ce,360,Charli XCX,"[""charlixcx""]",0.11828449550583195,0
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__ce3cceb48f7b716b,BIRDS OF A FEATHER,Billie Eilish,"[""billieeilish""]",0.13438235369158003,0
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__3431a3c20fbf72b8,"Good Luck, Babe!",Chappell Roan,"[""chappellroan""]",0.13058977570896368,0
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__839b48c5f9fed064,Fortnight,Taylor Swift featuring Post Malone,"[""postmalone"", ""taylorswift""]",0.14038643848217316,0
+2024,2025,record_of_the_year,billboard_logit,A_official_nominees,s2024__recordoftheyear__eae642f9954ed4f1,Not Like Us,Kendrick Lamar,"[""kendricklamar""]",0.12590258355631945,1
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__4d8a72f2f8b73c0a,A Bar Song (Tipsy),Shaboozey,"[""shaboozey""]",0.11303604103177108,0
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__ce3cceb48f7b716b,BIRDS OF A FEATHER,Billie Eilish,"[""billieeilish""]",0.13524525677564178,0
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__b4aeb31b5c0df978,Die With A Smile,Lady Gaga and Bruno Mars,"[""brunomars"", ""ladygaga""]",0.096140337340798,0
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__839b48c5f9fed064,Fortnight,Taylor Swift featuring Post Malone,"[""postmalone"", ""taylorswift""]",0.14220889969581477,0
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__3431a3c20fbf72b8,"Good Luck, Babe!",Chappell Roan,"[""chappellroan""]",0.1308702080970914,0
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__37b071bd2a19a02c,Please Please Please,Sabrina Carpenter,"[""sabrinacarpenter""]",0.1328139407130857,0
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__b429dbce4555c5f7,TEXAS HOLD 'EM,Beyoncé,"[""beyonce""]",0.12419607294638894,0
+2024,2025,song_of_the_year,billboard_logit,A_official_nominees,s2024__songoftheyear__eae642f9954ed4f1,Not Like Us,Kendrick Lamar,"[""kendricklamar""]",0.12548924339940842,1
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__56fcbe69588b0d7a,THE TORTURED POETS DEPARTMENT,Taylor Swift,"[""taylorswift""]",0.12500000000000003,0
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__ae00302c9b1cd6f2,COWBOY CARTER,Beyonce,"[""beyonce""]",0.12500000000000003,1
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__c04cf6f775872ba0,Short n' Sweet,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12500000000000003,0
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__2871bff96f94bd45,BRAT,Charli xcx,"[""charlixcx""]",0.12500000000000003,0
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__c86177d0c80ccb5c,Djesse Vol. 4,Jacob Collier,"[""jacobcollier""]",0.12500000000000003,0
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__fdab2f0a716e5d6e,HIT ME HARD AND SOFT,Billie Eilish,"[""billieeilish""]",0.12500000000000003,0
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__5a45047dce94de33,Chappell Roan The Rise And Fall Of A Midwest Princess,Chappell Roan,"[""chappellroan""]",0.12500000000000003,0
+2024,2025,album_of_the_year,uniform_reference,A_official_nominees,s2024__albumoftheyear__680494c2842e9a2c,New Blue Sun,Andre 3000,"[""andre3000""]",0.12500000000000003,0
+2024,2025,music_video,uniform_reference,A_official_nominees,s2024__bestmusicvideo__a1cc34a0e18773fb,Tailor Swif,ASAP Rocky,"[""asaprocky""]",0.2,0
+2024,2025,music_video,uniform_reference,A_official_nominees,s2024__bestmusicvideo__838f461c2fa673ce,360,Charli XCX,"[""charlixcx""]",0.2,0
+2024,2025,music_video,uniform_reference,A_official_nominees,s2024__bestmusicvideo__ae2e32e94fed2644,Houdini,Eminem,"[""eminem""]",0.2,0
+2024,2025,music_video,uniform_reference,A_official_nominees,s2024__bestmusicvideo__839b48c5f9fed064,Fortnight,Taylor Swift featuring Post Malone,"[""postmalone"", ""taylorswift""]",0.2,0
+2024,2025,music_video,uniform_reference,A_official_nominees,s2024__bestmusicvideo__eae642f9954ed4f1,Not Like Us,Kendrick Lamar,"[""kendricklamar""]",0.2,1
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__aa463a164cc01ef7,Benson Boone,Benson Boone,"[""bensonboone""]",0.12500000000000003,0
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__7c4ebf264adc39a8,Sabrina Carpenter,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12500000000000003,0
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__9d777086112313d7,Doechii,Doechii,"[""doechii""]",0.12500000000000003,0
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__4d4298e5a4030978,Khruangbin,Khruangbin,"[""khruangbin""]",0.12500000000000003,0
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__01fb43cf37038d26,RAYE,RAYE,"[""raye""]",0.12500000000000003,0
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__e160b3d9ebdfe973,Shaboozey,Shaboozey,"[""shaboozey""]",0.12500000000000003,0
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__9a9e652e7d529324,Teddy Swims,Teddy Swims,"[""teddyswims""]",0.12500000000000003,0
+2024,2025,best_new_artist,uniform_reference,A_official_nominees,s2024__bestnewartist__9164145d922993b7,Chappell Roan,Chappell Roan,"[""chappellroan""]",0.12500000000000003,1
+2024,2025,pop_duo_group,uniform_reference,A_official_nominees,s2024__bestpopduogroupperformance__70691b427ffd2b4e,us.,Gracie Abrams featuring Taylor Swift,"[""gracieabrams"", ""taylorswift""]",0.2,0
+2024,2025,pop_duo_group,uniform_reference,A_official_nominees,s2024__bestpopduogroupperformance__f2c77a3e4ab5caec,LEVII'S JEANS,Beyoncé featuring Post Malone,"[""beyonce"", ""postmalone""]",0.2,0
+2024,2025,pop_duo_group,uniform_reference,A_official_nominees,s2024__bestpopduogroupperformance__cd2e0e15503f13f0,Guess,Charli XCX featuring Billie Eilish,"[""billieeilish"", ""charlixcx""]",0.2,0
+2024,2025,pop_duo_group,uniform_reference,A_official_nominees,s2024__bestpopduogroupperformance__7f72445c11a1dc63,the boy is mine,"Ariana Grande, Brandy and Monica","[""arianagrande"", ""brandy"", ""monica""]",0.2,0
+2024,2025,pop_duo_group,uniform_reference,A_official_nominees,s2024__bestpopduogroupperformance__b4aeb31b5c0df978,Die With A Smile,Lady Gaga and Bruno Mars,"[""brunomars"", ""ladygaga""]",0.2,1
+2024,2025,pop_solo,uniform_reference,A_official_nominees,s2024__bestpopsoloperformance__3b0df77a5a1dbe7c,BODYGUARD,Beyoncé,"[""beyonce""]",0.2,0
+2024,2025,pop_solo,uniform_reference,A_official_nominees,s2024__bestpopsoloperformance__f223faa96f229162,Apple,Charli XCX,"[""charlixcx""]",0.2,0
+2024,2025,pop_solo,uniform_reference,A_official_nominees,s2024__bestpopsoloperformance__ce3cceb48f7b716b,BIRDS OF A FEATHER,Billie Eilish,"[""billieeilish""]",0.2,0
+2024,2025,pop_solo,uniform_reference,A_official_nominees,s2024__bestpopsoloperformance__3431a3c20fbf72b8,"Good Luck, Babe!",Chappell Roan,"[""chappellroan""]",0.2,0
+2024,2025,pop_solo,uniform_reference,A_official_nominees,s2024__bestpopsoloperformance__e25dc4762c339fa6,Espresso,Sabrina Carpenter,"[""sabrinacarpenter""]",0.2,1
+2024,2025,pop_vocal_album,uniform_reference,A_official_nominees,s2024__bestpopvocalalbum__fdab2f0a716e5d6e,HIT ME HARD AND SOFT,Billie Eilish,"[""billieeilish""]",0.2,0
+2024,2025,pop_vocal_album,uniform_reference,A_official_nominees,s2024__bestpopvocalalbum__9cece83c1b762da0,eternal sunshine,Ariana Grande,"[""arianagrande""]",0.2,0
+2024,2025,pop_vocal_album,uniform_reference,A_official_nominees,s2024__bestpopvocalalbum__5a45047dce94de33,Chappell Roan The Rise And Fall Of A Midwest Princess,Chappell Roan,"[""chappellroan""]",0.2,0
+2024,2025,pop_vocal_album,uniform_reference,A_official_nominees,s2024__bestpopvocalalbum__56fcbe69588b0d7a,THE TORTURED POETS DEPARTMENT,Taylor Swift,"[""taylorswift""]",0.2,0
+2024,2025,pop_vocal_album,uniform_reference,A_official_nominees,s2024__bestpopvocalalbum__c04cf6f775872ba0,Short n' Sweet,Sabrina Carpenter,"[""sabrinacarpenter""]",0.2,1
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__d1a4537a98da7c95,Now And Then,The Beatles,"[""beatles""]",0.12500000000000003,0
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__b429dbce4555c5f7,TEXAS HOLD 'EM,Beyoncé,"[""beyonce""]",0.12500000000000003,0
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__e25dc4762c339fa6,Espresso,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12500000000000003,0
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__838f461c2fa673ce,360,Charli XCX,"[""charlixcx""]",0.12500000000000003,0
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__ce3cceb48f7b716b,BIRDS OF A FEATHER,Billie Eilish,"[""billieeilish""]",0.12500000000000003,0
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__3431a3c20fbf72b8,"Good Luck, Babe!",Chappell Roan,"[""chappellroan""]",0.12500000000000003,0
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__839b48c5f9fed064,Fortnight,Taylor Swift featuring Post Malone,"[""postmalone"", ""taylorswift""]",0.12500000000000003,0
+2024,2025,record_of_the_year,uniform_reference,A_official_nominees,s2024__recordoftheyear__eae642f9954ed4f1,Not Like Us,Kendrick Lamar,"[""kendricklamar""]",0.12500000000000003,1
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__4d8a72f2f8b73c0a,A Bar Song (Tipsy),Shaboozey,"[""shaboozey""]",0.12500000000000003,0
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__ce3cceb48f7b716b,BIRDS OF A FEATHER,Billie Eilish,"[""billieeilish""]",0.12500000000000003,0
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__b4aeb31b5c0df978,Die With A Smile,Lady Gaga and Bruno Mars,"[""brunomars"", ""ladygaga""]",0.12500000000000003,0
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__839b48c5f9fed064,Fortnight,Taylor Swift featuring Post Malone,"[""postmalone"", ""taylorswift""]",0.12500000000000003,0
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__3431a3c20fbf72b8,"Good Luck, Babe!",Chappell Roan,"[""chappellroan""]",0.12500000000000003,0
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__37b071bd2a19a02c,Please Please Please,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12500000000000003,0
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__b429dbce4555c5f7,TEXAS HOLD 'EM,Beyoncé,"[""beyonce""]",0.12500000000000003,0
+2024,2025,song_of_the_year,uniform_reference,A_official_nominees,s2024__songoftheyear__eae642f9954ed4f1,Not Like Us,Kendrick Lamar,"[""kendricklamar""]",0.12500000000000003,1
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__89ff7d797e5402f8,Debí Tirar Más Fotos,Bad Bunny,"[""badbunny""]",0.13312940743648888,1
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__6e15fcf6243b9a30,Swag,Justin Bieber,"[""justinbieber""]",0.10849285768528352,0
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__b1058495919165e0,Man's Best Friend,Sabrina Carpenter,"[""sabrinacarpenter""]",0.13155928892577284,0
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__1eab4f4f2a570bb4,Let God Sort Em Out,Clipse,"[""clipse""]",0.10294746163410018,0
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__f3612c1978492809,Mayhem,Lady Gaga,"[""ladygaga""]",0.1290100072210688,0
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__7d07be714e7f37ec,GNX,Kendrick Lamar,"[""kendricklamar""]",0.13930063190992226,0
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__b4f5806efc13c2fe,Mutt,Leon Thomas,"[""leonthomas""]",0.11609324918015075,0
+2025,2026,album_of_the_year,billboard_logit,A_official_nominees,s2025__albumoftheyear__fe3bf4a4500ce3ba,Chromakopia,"Tyler, the Creator","[""tylerthecreator""]",0.13946709600721285,0
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__6f838eeb6a0d74fc,Olivia Dean,Olivia Dean,"[""oliviadean""]",0.10052493760540296,1
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__3be35c84f4bec84d,Katseye,Katseye,"[""katseye""]",0.1220122614404893,0
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__c3de637d00d7856f,The Marías,The Marías,"[""marias""]",0.13730985570564377,0
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__e3780cdfc73ffb5b,Addison Rae,Addison Rae,"[""addisonrae""]",0.11997963631136306,0
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__72a25c96a94dde08,Sombr,Sombr,"[""sombr""]",0.12113617925705898,0
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__ede833436b777996,Leon Thomas,Leon Thomas,"[""leonthomas""]",0.1308832880647522,0
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__f6f4314ddf6f25c9,Alex Warren,Alex Warren,"[""alexwarren""]",0.13800797557490047,0
+2025,2026,best_new_artist,billboard_logit,A_official_nominees,s2025__bestnewartist__8443152b1e947742,Lola Young,Lola Young,"[""lolayoung""]",0.13014586604038966,0
+2025,2026,music_video,billboard_logit,A_official_nominees,s2025__musicvideo__7806c4ea4cdc269e,Anxiety,Doechii,"[""doechii""]",0.21567839080782883,1
+2025,2026,music_video,billboard_logit,A_official_nominees,s2025__musicvideo__3809e533185d1163,Young Lion,Sade,"[""sade""]",0.15453223069268804,0
+2025,2026,music_video,billboard_logit,A_official_nominees,s2025__musicvideo__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.24498723843557038,0
+2025,2026,music_video,billboard_logit,A_official_nominees,s2025__musicvideo__247d9c1ae5bd2a99,So Be It,Clipse,"[""clipse""]",0.18449351838084208,0
+2025,2026,music_video,billboard_logit,A_official_nominees,s2025__musicvideo__9f4024faec10ef6d,Love,OK Go,"[""okgo""]",0.20030862168307065,0
+2025,2026,pop_duo_group,billboard_logit,A_official_nominees,s2025__popduogroup__b3faad17add58917,Defying Gravity,Cynthia Erivo & Ariana Grande,"[""arianagrande"", ""cynthiaerivo""]",0.2015238767538397,1
+2025,2026,pop_duo_group,billboard_logit,A_official_nominees,s2025__popduogroup__30152252234e6da4,Golden,Huntr/x,"[""huntrx""]",0.16827991090939,0
+2025,2026,pop_duo_group,billboard_logit,A_official_nominees,s2025__popduogroup__be51b0c3394545fa,Gabriela,Katseye,"[""katseye""]",0.1875667174316408,0
+2025,2026,pop_duo_group,billboard_logit,A_official_nominees,s2025__popduogroup__1ea88b44c2a74b0f,APT.,Rosé & Bruno Mars,"[""brunomars"", ""rose""]",0.2121413237843978,0
+2025,2026,pop_duo_group,billboard_logit,A_official_nominees,s2025__popduogroup__21344ba4f0c70602,30 for 30,SZA & Kendrick Lamar,"[""kendricklamar"", ""sza""]",0.23048817112073158,0
+2025,2026,pop_solo,billboard_logit,A_official_nominees,s2025__popsolo__5f501b6712777e15,Messy,Lola Young,"[""lolayoung""]",0.1938666873521707,1
+2025,2026,pop_solo,billboard_logit,A_official_nominees,s2025__popsolo__0128a6d2f74f4cf7,Daisies,Justin Bieber,"[""justinbieber""]",0.1874394108142198,0
+2025,2026,pop_solo,billboard_logit,A_official_nominees,s2025__popsolo__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.2150214960507725,0
+2025,2026,pop_solo,billboard_logit,A_official_nominees,s2025__popsolo__7bce5b949512e8c9,Disease,Lady Gaga,"[""ladygaga""]",0.20016208332521127,0
+2025,2026,pop_solo,billboard_logit,A_official_nominees,s2025__popsolo__d65125f621ad5cb0,The Subway,Chappell Roan,"[""chappellroan""]",0.2035103224576259,0
+2025,2026,pop_vocal_album,billboard_logit,A_official_nominees,s2025__popvocalalbum__f3612c1978492809,Mayhem,Lady Gaga,"[""ladygaga""]",0.2227361920996125,1
+2025,2026,pop_vocal_album,billboard_logit,A_official_nominees,s2025__popvocalalbum__6e15fcf6243b9a30,Swag,Justin Bieber,"[""justinbieber""]",0.17936226985227055,0
+2025,2026,pop_vocal_album,billboard_logit,A_official_nominees,s2025__popvocalalbum__b1058495919165e0,Man's Best Friend,Sabrina Carpenter,"[""sabrinacarpenter""]",0.22825328697055405,0
+2025,2026,pop_vocal_album,billboard_logit,A_official_nominees,s2025__popvocalalbum__acc331ffcd1a4829,Something Beautiful,Miley Cyrus,"[""mileycyrus""]",0.14586931061485042,0
+2025,2026,pop_vocal_album,billboard_logit,A_official_nominees,s2025__popvocalalbum__793c9a2a78d7a5b1,I've Tried Everything But Therapy (Part 2),Teddy Swims,"[""teddyswims""]",0.2237789404627124,0
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__42829343442d27d2,DtMF,Bad Bunny,"[""badbunny""]",0.12928597708970796,0
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.13240654784927008,0
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__7806c4ea4cdc269e,Anxiety,Doechii,"[""doechii""]",0.11576586646559471,0
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__3d40c3dc8d0c001f,Wildflower,Billie Eilish,"[""billieeilish""]",0.12416055607700581,0
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__46abe7c8d7f50332,Abracadabra,Lady Gaga,"[""ladygaga""]",0.12216376622670594,0
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__696e93e747942468,Luther,Kendrick Lamar & SZA,"[""kendricklamar"", ""sza""]",0.131409309104444,1
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__d65125f621ad5cb0,The Subway,Chappell Roan,"[""chappellroan""]",0.12446374571645008,0
+2025,2026,record_of_the_year,billboard_logit,A_official_nominees,s2025__recordoftheyear__1ea88b44c2a74b0f,APT.,Rosé & Bruno Mars,"[""brunomars"", ""rose""]",0.12034423147082157,0
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__3d40c3dc8d0c001f,Wildflower,Billie Eilish,"[""billieeilish""]",0.12839255436479244,1
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__46abe7c8d7f50332,Abracadabra,Lady Gaga,"[""ladygaga""]",0.12602922355797833,0
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__7806c4ea4cdc269e,Anxiety,Doechii,"[""doechii""]",0.11849520776225385,0
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__1ea88b44c2a74b0f,APT.,Rosé & Bruno Mars,"[""brunomars"", ""rose""]",0.12388058586977725,0
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__42829343442d27d2,DtMF,Bad Bunny,"[""badbunny""]",0.13448406147491193,0
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__30152252234e6da4,Golden,Huntr/x,"[""huntrx""]",0.09349011380135325,0
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__696e93e747942468,Luther,Kendrick Lamar & SZA,"[""kendricklamar"", ""sza""]",0.13701804079883687,0
+2025,2026,song_of_the_year,billboard_logit,A_official_nominees,s2025__songoftheyear__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.13821021237009617,0
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__89ff7d797e5402f8,Debí Tirar Más Fotos,Bad Bunny,"[""badbunny""]",0.12500000000000003,1
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__6e15fcf6243b9a30,Swag,Justin Bieber,"[""justinbieber""]",0.12500000000000003,0
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__b1058495919165e0,Man's Best Friend,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12500000000000003,0
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__1eab4f4f2a570bb4,Let God Sort Em Out,Clipse,"[""clipse""]",0.12500000000000003,0
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__f3612c1978492809,Mayhem,Lady Gaga,"[""ladygaga""]",0.12500000000000003,0
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__7d07be714e7f37ec,GNX,Kendrick Lamar,"[""kendricklamar""]",0.12500000000000003,0
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__b4f5806efc13c2fe,Mutt,Leon Thomas,"[""leonthomas""]",0.12500000000000003,0
+2025,2026,album_of_the_year,uniform_reference,A_official_nominees,s2025__albumoftheyear__fe3bf4a4500ce3ba,Chromakopia,"Tyler, the Creator","[""tylerthecreator""]",0.12500000000000003,0
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__6f838eeb6a0d74fc,Olivia Dean,Olivia Dean,"[""oliviadean""]",0.12500000000000003,1
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__3be35c84f4bec84d,Katseye,Katseye,"[""katseye""]",0.12500000000000003,0
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__c3de637d00d7856f,The Marías,The Marías,"[""marias""]",0.12500000000000003,0
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__e3780cdfc73ffb5b,Addison Rae,Addison Rae,"[""addisonrae""]",0.12500000000000003,0
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__72a25c96a94dde08,Sombr,Sombr,"[""sombr""]",0.12500000000000003,0
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__ede833436b777996,Leon Thomas,Leon Thomas,"[""leonthomas""]",0.12500000000000003,0
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__f6f4314ddf6f25c9,Alex Warren,Alex Warren,"[""alexwarren""]",0.12500000000000003,0
+2025,2026,best_new_artist,uniform_reference,A_official_nominees,s2025__bestnewartist__8443152b1e947742,Lola Young,Lola Young,"[""lolayoung""]",0.12500000000000003,0
+2025,2026,music_video,uniform_reference,A_official_nominees,s2025__musicvideo__7806c4ea4cdc269e,Anxiety,Doechii,"[""doechii""]",0.2,1
+2025,2026,music_video,uniform_reference,A_official_nominees,s2025__musicvideo__3809e533185d1163,Young Lion,Sade,"[""sade""]",0.2,0
+2025,2026,music_video,uniform_reference,A_official_nominees,s2025__musicvideo__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.2,0
+2025,2026,music_video,uniform_reference,A_official_nominees,s2025__musicvideo__247d9c1ae5bd2a99,So Be It,Clipse,"[""clipse""]",0.2,0
+2025,2026,music_video,uniform_reference,A_official_nominees,s2025__musicvideo__9f4024faec10ef6d,Love,OK Go,"[""okgo""]",0.2,0
+2025,2026,pop_duo_group,uniform_reference,A_official_nominees,s2025__popduogroup__b3faad17add58917,Defying Gravity,Cynthia Erivo & Ariana Grande,"[""arianagrande"", ""cynthiaerivo""]",0.2,1
+2025,2026,pop_duo_group,uniform_reference,A_official_nominees,s2025__popduogroup__30152252234e6da4,Golden,Huntr/x,"[""huntrx""]",0.2,0
+2025,2026,pop_duo_group,uniform_reference,A_official_nominees,s2025__popduogroup__be51b0c3394545fa,Gabriela,Katseye,"[""katseye""]",0.2,0
+2025,2026,pop_duo_group,uniform_reference,A_official_nominees,s2025__popduogroup__1ea88b44c2a74b0f,APT.,Rosé & Bruno Mars,"[""brunomars"", ""rose""]",0.2,0
+2025,2026,pop_duo_group,uniform_reference,A_official_nominees,s2025__popduogroup__21344ba4f0c70602,30 for 30,SZA & Kendrick Lamar,"[""kendricklamar"", ""sza""]",0.2,0
+2025,2026,pop_solo,uniform_reference,A_official_nominees,s2025__popsolo__5f501b6712777e15,Messy,Lola Young,"[""lolayoung""]",0.2,1
+2025,2026,pop_solo,uniform_reference,A_official_nominees,s2025__popsolo__0128a6d2f74f4cf7,Daisies,Justin Bieber,"[""justinbieber""]",0.2,0
+2025,2026,pop_solo,uniform_reference,A_official_nominees,s2025__popsolo__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.2,0
+2025,2026,pop_solo,uniform_reference,A_official_nominees,s2025__popsolo__7bce5b949512e8c9,Disease,Lady Gaga,"[""ladygaga""]",0.2,0
+2025,2026,pop_solo,uniform_reference,A_official_nominees,s2025__popsolo__d65125f621ad5cb0,The Subway,Chappell Roan,"[""chappellroan""]",0.2,0
+2025,2026,pop_vocal_album,uniform_reference,A_official_nominees,s2025__popvocalalbum__f3612c1978492809,Mayhem,Lady Gaga,"[""ladygaga""]",0.2,1
+2025,2026,pop_vocal_album,uniform_reference,A_official_nominees,s2025__popvocalalbum__6e15fcf6243b9a30,Swag,Justin Bieber,"[""justinbieber""]",0.2,0
+2025,2026,pop_vocal_album,uniform_reference,A_official_nominees,s2025__popvocalalbum__b1058495919165e0,Man's Best Friend,Sabrina Carpenter,"[""sabrinacarpenter""]",0.2,0
+2025,2026,pop_vocal_album,uniform_reference,A_official_nominees,s2025__popvocalalbum__acc331ffcd1a4829,Something Beautiful,Miley Cyrus,"[""mileycyrus""]",0.2,0
+2025,2026,pop_vocal_album,uniform_reference,A_official_nominees,s2025__popvocalalbum__793c9a2a78d7a5b1,I've Tried Everything But Therapy (Part 2),Teddy Swims,"[""teddyswims""]",0.2,0
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__42829343442d27d2,DtMF,Bad Bunny,"[""badbunny""]",0.12500000000000003,0
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12500000000000003,0
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__7806c4ea4cdc269e,Anxiety,Doechii,"[""doechii""]",0.12500000000000003,0
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__3d40c3dc8d0c001f,Wildflower,Billie Eilish,"[""billieeilish""]",0.12500000000000003,0
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__46abe7c8d7f50332,Abracadabra,Lady Gaga,"[""ladygaga""]",0.12500000000000003,0
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__696e93e747942468,Luther,Kendrick Lamar & SZA,"[""kendricklamar"", ""sza""]",0.12500000000000003,1
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__d65125f621ad5cb0,The Subway,Chappell Roan,"[""chappellroan""]",0.12500000000000003,0
+2025,2026,record_of_the_year,uniform_reference,A_official_nominees,s2025__recordoftheyear__1ea88b44c2a74b0f,APT.,Rosé & Bruno Mars,"[""brunomars"", ""rose""]",0.12500000000000003,0
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__3d40c3dc8d0c001f,Wildflower,Billie Eilish,"[""billieeilish""]",0.12500000000000003,1
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__46abe7c8d7f50332,Abracadabra,Lady Gaga,"[""ladygaga""]",0.12500000000000003,0
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__7806c4ea4cdc269e,Anxiety,Doechii,"[""doechii""]",0.12500000000000003,0
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__1ea88b44c2a74b0f,APT.,Rosé & Bruno Mars,"[""brunomars"", ""rose""]",0.12500000000000003,0
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__42829343442d27d2,DtMF,Bad Bunny,"[""badbunny""]",0.12500000000000003,0
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__30152252234e6da4,Golden,Huntr/x,"[""huntrx""]",0.12500000000000003,0
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__696e93e747942468,Luther,Kendrick Lamar & SZA,"[""kendricklamar"", ""sza""]",0.12500000000000003,0
+2025,2026,song_of_the_year,uniform_reference,A_official_nominees,s2025__songoftheyear__49b203801a62c2ec,Manchild,Sabrina Carpenter,"[""sabrinacarpenter""]",0.12500000000000003,0
